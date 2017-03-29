@@ -1,7 +1,7 @@
 # Welcome to the 2017 Mozilla Global Sprint! June 1st-2nd, 2017.
 
 ### What's the Global Sprint?
-Mozilla's Global Sprint, a fun, fast-paced two-day collaborative work event to hack and build awesome open projects that support and build vibrant, healthy Internet. We’ll be coming together, in person and online, to work on open projects from every discipline, from around the world. 
+Mozilla's Global Sprint, a fun, fast-paced two-day collaborative work event to hack and build awesome open projects that support and build a vibrant, healthy Internet. We’ll be coming together, in person and online, to work on open projects from every discipline, from around the world. 
 
 ### Want to pitch in and contribute to an open Project at the Global Sprint?
 Anyone is welcome-- you don't have to be an expert coder or technical ninja to be part of the Sprint.
@@ -11,7 +11,7 @@ Anyone is welcome-- you don't have to be an expert coder or technical ninja to b
 You can contribute code or content, you can do QA (quality assurance) testing on protype tools or apps, you can do proofreading or writing, visual design and graphic art, you can advise or comment on project ideas or plans from your own unique perspective. There are countless ways to  participate, and lots of cool projects to explore. Browse projects that are ready and waiting for your contribution here. 
 
 
-**Before you ptich in, please take a look at our resources and FAQs (Frequently Asked Questions) for contributors, including a very short video to help you get started.**
+**Before you pitch in, please take a look at our resources and FAQs (Frequently Asked Questions) for contributors, including a very short video to help you get started.**
 
 
 ### Want to bring a Project to the Global Sprint?
