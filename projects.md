@@ -1,4 +1,4 @@
-#Mozilla Global Sprint Info for Project Leads
+# Mozilla Global Sprint Info for Project Leads
 
 ### The Basics
 Any project entered in the sprint should:
