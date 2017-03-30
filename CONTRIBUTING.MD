@@ -1,4 +1,4 @@
-# Contributing to Open Leadership Training
+# Contributing to the Global Sprint website
 
 Thank you for your interest in contributing to the Global Sprint website :tada:!
 
