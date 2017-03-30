@@ -22,6 +22,14 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
+## Run locally
+
+You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-lang.org/en/) and [Bundler](http://bundler.io/) to run this site locally.
+
+1. `bundle install`
+2. `bundle exec jekyll serve`
+3. Open [http://localhost:4000/open-leadership-training-series/](http://localhost:4000/open-leadership-training-series/) in your favourite browser!
+
 ## Maintainers
 
 This repository is currently maintained by [@acabunoc](http://github.com/acabunoc) and [@zee-moz](http://github.com/zee-moz).
