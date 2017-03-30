@@ -1,0 +1,39 @@
+title: Global Sprint 2017
+subtitle:
+email: zannah@mozillafoundation.org
+twitter: https://twitter.com/mozilla
+chat: https://gitter.im/mozilla/global-sprint
+description: > # this means to ignore newlines until "baseurl:"
+  Does your MozFest session involve hands-on, project based learning? This
+  training is for anyone running an open project at MozFest. This can be
+  software, curriculum, or anything you can build together with a group.
+baseurl: "/global-sprint" # the subpath of your site, e.g. /blog
+url: "https://mozilla.github.io" # the base hostname & protocol for your site
+github:
+  repo: "mozilla/global-sprint"
+  branch: "master"
+
+
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+
+# Build settings
+markdown: kramdown
+
+redcarpet:
+    extensions: [
+        'no_intra_emphasis',
+        'fenced_code_blocks',
+        'autolink',
+        'strikethrough',
+        'superscript',
+        'with_toc_data',
+        'tables',
+        'hardwrap'
+    ]
+
+# variables
+video: "<span class=\"video-player\"></span>"
+assignment: "<span class=\"assignment\">Assignment: </span>"

@@ -1,0 +1,27 @@
+<div class="sidebar-header">
+  <a href="{{ site.baseurl }}/">
+    <img src="{{ site.baseurl }}/img/moz-logo-main-rgb.png" alt="Mozilla Open Leadership Training Series" class="moz-logo" /><br />
+    <span>Leadership Training</span>
+  </a>
+  <!-- <button aria-label="toggle" class="glyphicon glyphicon-menu-hamburger hidden-lg hidden-md"></button> -->
+</div>
+
+<ul class="sidebar-menu list-unstyled">
+  {% assign item = site.pages | where: "path", "contents.html" | first %}
+
+{% for path in item.contents %}
+  {% assign subpage = site.articles | where: "path", path | first %}
+  <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
+    <a href="{{ subpage.url | prepend: site.baseurl }}">{% if subpage.module %}{{ subpage.module }}.{% endif %} {{ subpage.title }}</a>
+      {% if page.url contains subpage.url %}
+        {% if subpage.contents %}
+          {% include contents.html item=subpage %}
+        {% endif %}
+      {% endif %}
+  </li>
+{% endfor %}
+<footer>
+  <a target="_blank" href="https://github.com/{{ site.github.repo }}">See the Code on GitHub</a>
+</footer>
+</ul>
+

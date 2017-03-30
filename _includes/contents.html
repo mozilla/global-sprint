@@ -1,0 +1,16 @@
+{% if include.item %}
+  {% assign item = include.item %}
+{% else %}
+  {% assign item = site.pages | where: "path", "contents.html" | first %}
+{% endif %}
+
+<ul class="sidebar-subitems">
+{% for path in item.contents %}
+  {% assign subpage = site.articles | where: "path", path | first %}
+  <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
+    <a class="{% if page.url == subpage.url %} current{% endif %}"
+      href="{{ subpage.url | prepend: site.baseurl }}">{{ subpage.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
