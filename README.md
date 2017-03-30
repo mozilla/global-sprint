@@ -20,7 +20,7 @@ You can contribute code or content, you can do QA (quality assurance) testing on
 
 Your open project is welcome, whether you’re creating new scientific software, working on web literacy curriculum, hacking on the Internet of Things, developing apps to protect user privacy online, planning local community events, or creating tools that make data open accessible to all. 
 
-**For more about preparing your project for a successful sprint, see our resources and FAQs (Frequetly Asked Questions) for Project Leads.**
+**For more about preparing your project for a successful sprint, [see our resources and FAQs (Frequetly Asked Questions) for Project Leads.](https://github.com/mozilla/global-sprint/blob/master/projects.md)**
 
 
 
