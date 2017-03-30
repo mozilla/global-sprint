@@ -4,7 +4,7 @@ When you fill out a project application form, you'll receive a response with a l
 
 **If you're new to working open and collaborationg online, see below for info about each document, and why it's important for the Sprint.** 
 
-## REQUIRED DOCUMENTS
+## Project Requirements
 1. **A GitHub Repository.**
 GitHub is an online, easy-to-use online platform for collaborative work and managing changes to code and content. A repository is your collection of project files (code,content) on GitHub. You DON'T need to be an expert in GitHub (or the version control software Git that powers it) to set up a repository, add project documentation, and create "issues" or chunks of work that participants can help with. We offer some basic tutorials as well as complete lessons on using GitHub. 
 
