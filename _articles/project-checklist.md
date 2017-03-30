@@ -3,8 +3,6 @@ layout: page
 title: "Project Checklist"
 ---
 
-# Project Checklist
-
 When you fill out a project application form, you'll receive a response with a link to a GitHub issue, containing a template for you to fill out with project information. You'll also see a checklist of project documents you'll need for the Global Sprint.
 
 **If you're new to working open and collaborationg online, see below for info about each document, and why it's important for the Sprint.**
