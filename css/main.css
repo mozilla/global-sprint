@@ -7,7 +7,7 @@
 .highlight {
   padding: 0.3em 0;
   font-family: Arvo,sans-serif;
-  background-color: #FA8CFF;
+  background-color: #ABFF10;
   font-weight:700;
   line-height: 1.9;
   color:#000;
@@ -22,7 +22,7 @@
 .hero-unit {
   text-align: center;
   padding: 4em 1em 3em;
-  background-image: url("/global-sprint/img/Working-open-header.jpg");
+  background-image: url("/global-sprint/img/hero.jpg");
   background-size: cover;
 
 }
@@ -74,7 +74,7 @@ h3 {
   margin-bottom: 2rem;
   font-size: 2rem;
   font-family: Arvo,sans-serif;
-  color: #A95FAD;
+  color: #6a9c1f;
 }
 
 h5 {
@@ -255,7 +255,7 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header span {
   padding: 0.3em 0;
   font-family: Arvo,sans-serif;
-  background-color: #FA8CFF;
+  background-color: #ABFF10;
   font-weight:700;
   line-height: 1.9;
 }
@@ -304,7 +304,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a:hover,
 .sidebar-menu > li > a:focus {
-  background-color: #66FFFF;
+  background-color: #85d1f3;
   color:black;
   transition: background-color 3ms;
 }
@@ -315,7 +315,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #A6FFFF;
+  background-color: #c2e8f9;
 }
 
 .sidebar-menu strong {
@@ -520,8 +520,8 @@ a.btn {
 
 a.btn:hover {
   opacity: 1;
-  background: #00FFFF;
-  border-color: #00FFFF;
+  background: #85d1f3;
+  border-color: #85d1f3;
   color: #000;
 }
 
