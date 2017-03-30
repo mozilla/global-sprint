@@ -1,12 +1,8 @@
 ---
 layout: page
-title: "Projects"
+title: "For Project Leads"
 following: _articles/project-checklist.md
 ---
-
-# Mozilla Global Sprint Info for Project Leads
-
-
 ## Register Your Project In 4 easy steps!
 
 * **READ** the next 3 sections: The Basics, The Project Lead Role, Welcoming Contributions, Registered vs. Featured Projects
