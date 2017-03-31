@@ -13,10 +13,13 @@ title: For Participants
 ### Welcome to your Global Sprint experience! 
 There are  countless ways for you to participate... You can contribute code or content, you can do QA (quality assurance) testing on protype tools or apps, you can do proofreading or writing, visual design and graphic art, you can advise or comment on project ideas or plans from your own unique perspective...  **We're very excited to have you as an active participant in this year's Sprint!** Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement at Mozilla. 
 
-VIDEO
+{% include videowrapper.html
+  url="https://fast.wistia.net/embed/iframe/emqudxs3ly"
+  title="Participation Basics" %}
 
 ### Finding Tasks and Making Contributions
-During the Sprint, you'll contact the Lead on the project  you'd like to work on, and volunteer to help out with a task. Be sure to ask any questions you have, and then get to work! When you've completed your task, you'll submit your work for review by the Project Lead, who'll provide, feedback, comments, gratitude... and if all goes well, the Project Lead will incorporate your work into the project. Yay!
+During the Sprint, you'll contact the Lead on the project you'd like to work on, and volunteer to help out with a task. Be sure to ask any questions you have, and then get to work! When you've completed your task, you'll submit your work for review by the Project Lead, who'll provide, feedback, comments, gratitude... and if all goes well, the Project Lead will incorporate your work into the project. Yay!
 
-At the Sprint, you'll probably browse project tasks, called "Issues", in an online collaboration platform called GitHub. Some projects will have their code and content there in GitHub as well; some will be working with other collaborative tools, like Google Docs or Etherpad.
+At the Sprint, you'll probably browse project tasks, called "Issues", in an online collaboration platform called GitHub. Some projects will have their code and content there in GitHub as well; some will be working with other collaboration tools, like Google Docs or Etherpad.
+
 
