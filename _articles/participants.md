@@ -7,14 +7,14 @@ title: For Participants
 * **WATCH** the short video below, and **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
 * **BROWSE** our [Project List]() to discover a project that you'd like to work on
 * When our [Site List]() is available (later this Spring) **CHECK OUT** the list to find a in-person site to Sprint with others, if you'd like. Of course, you can also join us online.
-* When [Registration]() is open (later this Spring), **REGISTER** as a paraticipant so we know to expect you! 
+* When [Registration]() is open (later this Spring), **REGISTER** as a paraticipant so we know to expect you!
 
 
-### Welcome to your Global Sprint experience! 
-There are  countless ways for you to participate... You can contribute code or content, you can do QA (quality assurance) testing on protype tools or apps, you can do proofreading or writing, visual design and graphic art, you can advise or comment on project ideas or plans from your own unique perspective...  **We're very excited to have you as an active participant in this year's Sprint!** Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement at Mozilla. 
+### Welcome to your Global Sprint experience!
+There are  countless ways for you to participate... You can contribute code or content, you can do QA (quality assurance) testing on protype tools or apps, you can do proofreading or writing, visual design and graphic art, you can advise or comment on project ideas or plans from your own unique perspective...  **We're very excited to have you as an active participant in this year's Sprint!** Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement at Mozilla.
 
 {% include videowrapper.html
-  url="https://fast.wistia.net/embed/iframe/emqudxs3ly"
+  url="https://embedwistia-a.akamaihd.net/deliveries/16017481c4380b3f415357062b47e4a555c76303/file.mp4"
   title="Participation Basics" %}
 
 ### Finding Tasks and Making Contributions
