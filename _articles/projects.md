@@ -5,7 +5,7 @@ following: _articles/project-checklist.md
 ---
 ### Register Your Project In 4 easy steps!
 
-* **READ** the next 3 sections: The Basics, The Project Lead Role, Welcoming Contributions & Featured Projects, and Project Lead FAQs
+* **READ** the next 4 short sections: The Basics, The Project Lead Role, Welcoming Contributions & Featured Projects, and Project Lead FAQs
 * **COMPLETE** this [project submission form](https://goo.gl/forms/0enj1vARqdBA2FHF3)
 * **LOOK** for an email from us, with a point of contact and a link to a GitHub issue
 * **FILL OUT/COMPLETE** the Git Hub issue. You are now registered! For a successful Global Sprint experience and to become a FEATURED project, be sure to document your project. In past Sprints FEATURED projects have had 5 as many contributions as registered projects will minimal documentation! [Click here to learn about our project documentation checklist.](https://mozilla.github.io/global-sprint/project-checklist/)
