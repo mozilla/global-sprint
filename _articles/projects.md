@@ -40,7 +40,7 @@ Every Global Sprint project should be ready to encourage and accept contribution
 
 
 ### Registered vs. FEATURED(!) Projects
-Our checklist covers everything a project needs to be REGISTERED for the Sprint. There are also extra, optional items that will level-up your open leadership skills and maximize participation. Complete this next level of preparation and your project will be FEATURED on our Global Sprint page, where potential contributors will see it first.
+Our checklist covers everything a project needs to be REGISTERED for the Sprint. There are also extra, optional items that will level-up your open leadership skills and maximize participation. Complete this next level of preparation and your project will be FEATURED on [Network Pulse](https://www.mozillapulse.org/featured), where potential contributors will see it first.
 
 ### FAQs for Project Leads
 Coming soon!
