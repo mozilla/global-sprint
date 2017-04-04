@@ -24,4 +24,8 @@ At the Sprint, you'll probably browse project tasks, called "Issues", in an onli
 
 If the project you choose is working primarily on GitHub, you may find it helpful to open a free account on GitHub. This is easy, quick, and, again free! Once you have an account, you can comment on issues and the project lead can add you on tasks. You can also add your changes to the code or content using GitHub. For more on how to use GitHub at the Global Sprint, see these two short, beginner friendly videos **(COMING SOON).**
 
+### FAQs for Participants
+Coming soon!
+
+
 
