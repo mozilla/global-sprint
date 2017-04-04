@@ -7,7 +7,7 @@ When you fill out a project application form, you'll receive a response with a l
 
 **If you're new to working open and collaborating online, see below for info about each document, and why it's important for the Sprint.**
 
-## Project Requirements
+### Project Requirements
 1. **A GitHub Repository.**
 GitHub is an online, easy-to-use online platform for collaborative work and managing changes to code and content. A repository is your collection of project files (code,content) on GitHub. You DON'T need to be an expert in GitHub (or the version control software Git that powers it) to set up a repository, add project documentation, and create "issues" or chunks of work that participants can help with. We offer some basic tutorials as well as [complete lessons on using GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/).
 
@@ -29,7 +29,7 @@ A license indicates to the world how exactly your project is open-- how the code
 7. **Issue Tracker.**
 The issue tracker is a GitHub feature that allows you to describe tasks or chunks of work, or "issues". Others can comment on an issue to discuss the work. You can assign an issue to a contributor, add tags to add extra information or categories to the work(like "new feature" "help wanted" "good first bug"), and you can link milestone info to an issue to help prioritze work. "Open"" issues are work that needs to be done or is underway. "Closed" issues are work that's completed. 
 
-## Optional Items-- Complete to become a "Featured"" Project
+### Optional Items-- Complete to become a "Featured"" Project
 
 1. Vision Statement 
 By coming up with a super short, clear statement about what you're doing and why, you can become a better communicator and increase interest and contributor involvement with your open project. This [quick exericse](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) helps you create a polished statmement. 
