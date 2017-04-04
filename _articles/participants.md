@@ -2,7 +2,7 @@
 layout: page
 title: For Participants
 ---
-## Register to participate in the Global Sprint, in 4 easy steps!
+### Register to participate in the Global Sprint, in 4 easy steps!
 
 * **WATCH** the short video below, and **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
 * **BROWSE** our [Project List]() (coming soon!) to discover a project that you'd like to work on
