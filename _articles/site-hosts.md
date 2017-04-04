@@ -2,7 +2,7 @@
 layout: page
 title: For Site Hosts
 ---
-## Register to host a Site in the Global Sprint, in 2 easy steps!
+### Register to host a Site in the Global Sprint, in 2 easy steps!
 
 * **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
 * When [Site Host Registration]() is open (later this Spring), **REGISTER** as a Site Host to recieve extra info for Sit Hosts only, and a swag pack of stickers to help promote the Global Sprint.
