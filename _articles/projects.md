@@ -8,7 +8,7 @@ following: _articles/project-checklist.md
 * **READ** the next 3 sections: The Basics, The Project Lead Role, Welcoming Contributions & Featured Projects, and Project Lead FAQs
 * **COMPLETE** this [project submission form](https://goo.gl/forms/0enj1vARqdBA2FHF3)
 * **LOOK** for an email from us, with a point of contact and a link to a GitHub issue
-* **FILL OUT/COMPLETE** the Git Hub issue. You are now registered. For a successful Global Sprint experience, and to become a FEATURED project, be sure to document your project. In past Sprints FEATURED projects have had 5 as many contributions as registered projects will minimal documentation! [Click here to learn about our project documentation checklist.](https://mozilla.github.io/global-sprint/project-checklist/)
+* **FILL OUT/COMPLETE** the Git Hub issue. You are now registered! For a successful Global Sprint experience and to become a FEATURED project, be sure to document your project. In past Sprints FEATURED projects have had 5 as many contributions as registered projects will minimal documentation! [Click here to learn about our project documentation checklist.](https://mozilla.github.io/global-sprint/project-checklist/)
 
 
 ### The Basics
@@ -26,11 +26,8 @@ The Project Lead role is key for a successful run in the Global Sprint!  All Pro
 Project leads must:
 
 * document and prepare their projects **in advance** of the Sprint
-* on the day-of, welcome both in-person and online contributors of all levels
-* coordinate project work
-* answer questions and troubleshoot
-* approve contributions and pull requests
-* be an enthusiastic, helpful, and patient presence.
+* be available from 9-5 in their local time on the day the Sprint to coordinate project work, answer questions and troubleshoot, and approve contributions and pull requests
+* be a welcoming, enthusiastic, and patient project leader
 
 **PLEASE NOTE: By submitting a project, you agree to be available in a virtual and/or in-person capacity on June 1st-2nd from 9-5 in your time zone to field project contributions and promote your project.** 
 
