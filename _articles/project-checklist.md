@@ -5,11 +5,12 @@ title: "Project Checklist"
 ### REGISTERED Project Requirements
 When you fill out a project application form, you'll receive a response with a link to a GitHub issue (which is page that will represent your project on the Global Sprint site). The issue will contain a template for you to fill out with project information-- name, description... some very simple things! This form will also ask for a link to a **GitHub repository for your project.** 
 
-GitHub is an online, easy-to-use online platform for collaborative work and managing changes to code and content. **A repository is your collection of project files (code,content) on GitHub.** You DON'T need to be an expert in GitHub (or the version control software Git that powers it) to set up a repository, add project documentation, and create "issues" or chunks of work that participants can help with. 
-[This tutorial explains how to register for a GitHub account.]() coming soon!
-[This tutorial explains how to create a project repository.]() coming soon!
-[This tutorial explains how to use the Issues tracker]() to manage contributions. coming soon!
-[Here are set of complete lessons on using GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/).
+GitHub is an online, easy-to-use online platform for collaborative work and managing changes to code and content. **A repository is your collection of project files (code,content) on GitHub.** You DON'T need to be an expert in GitHub (or the version control software Git that powers it) to set up a repository, add project documentation, and create "issues" or chunks of work that participants can help with. If you are new to GitHub, refer to the tutorials below.
+
+* [This tutorial explains how to register for a GitHub account.]() coming soon!
+* [This tutorial explains how to create a project repository.]() coming soon!
+* [This tutorial explains how to use the Issues tracker]() to manage contributions. coming soon!
+* [Here are set of complete lessons on using GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/).
 
 That's all you need to be REGISTERED for the Sprint. To be FEATURED (and welcome as many contributors as possible) complete the list of documents below. We've inculded info about each document, and why it's important to your project's success at the Sprint. 
 
