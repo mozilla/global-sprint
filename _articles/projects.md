@@ -5,10 +5,10 @@ following: _articles/project-checklist.md
 ---
 ### Register Your Project In 4 easy steps!
 
-* **READ** the next 3 sections: The Basics, The Project Lead Role, Welcoming Contributions, Registered vs. Featured Projects, and Project Lead FAQs,
-* **COMPLETE** this [project submission form](https://goo.gl/forms/0enj1vARqdBA2FHF3),
-* **LOOK** for an email from us, with a point of contact and a link to a GitHub issue,
-* **FILL OUT/COMPLETE** the issue and your project documentation to add your project to the Global Sprint Projects Page.
+* **READ** the next 3 sections: The Basics, The Project Lead Role, Welcoming Contributions, Registered vs. Featured Projects, and Project Lead FAQs
+* **COMPLETE** this [project submission form](https://goo.gl/forms/0enj1vARqdBA2FHF3)
+* **LOOK** for an email from us, with a point of contact and a link to a GitHub issue
+* **FILL OUT/COMPLETE** the Git Hub issue. You are now registered. For a successful Global Sprint experience, be sure to document your project. [Click here to learn about our project documentation checklist.](https://mozilla.github.io/global-sprint/project-checklist/)
 
 
 ### The Basics
@@ -40,7 +40,7 @@ Every Global Sprint project should be ready to encourage and accept contribution
 
 
 ### Registered vs. FEATURED(!) Projects
-Our checklist covers everything a project needs to be REGISTERED for the Sprint. There are also extra, optional items that will level-up your open leadership skills and maximize participation. Complete this next level of preparation and your project will be FEATURED on [Network Pulse](https://www.mozillapulse.org/featured), where potential contributors will see it first.
+Our checklist covers everything a project needs to be FEATURED  for the Sprint. Complete this next level of preparation and your project will be FEATURED on [Network Pulse](https://www.mozillapulse.org/featured), where potential contributors will see it first.
 
 ### FAQs for Project Leads
 Coming soon!
