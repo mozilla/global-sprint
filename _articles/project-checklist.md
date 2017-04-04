@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "More About the Project Checklist"
+title: "Project Checklist"
 ---
 
 When you fill out a project application form, you'll receive a response with a link to a GitHub issue, containing a template for you to fill out with project information. You'll also see a **checklist of project documents** you'll need for the Global Sprint.
