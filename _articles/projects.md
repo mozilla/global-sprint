@@ -5,9 +5,9 @@ following: _articles/project-checklist.md
 ---
 ### Register Your Project In 4 easy steps!
 
-* **READ** the next 3 sections: The Basics, The Project Lead Role, Welcoming Contributions, Registered vs. Featured Projects
-* **COMPLETE** this project submission form
-* **LOOK** for an email from us, with a point of contact and a link to a GitHub issue
+* **READ** the next 3 sections: The Basics, The Project Lead Role, Welcoming Contributions, Registered vs. Featured Projects, and Project Lead FAQs,
+* **COMPLETE** this [project submission form](https://goo.gl/forms/0enj1vARqdBA2FHF3),
+* **LOOK** for an email from us, with a point of contact and a link to a GitHub issue,
 * **FILL OUT/COMPLETE** the issue and your project documentation to add your project to the Global Sprint Projects Page.
 
 
