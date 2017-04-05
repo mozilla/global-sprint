@@ -5,7 +5,7 @@ title: For Site Hosts
 ### Register to host a Site in the Global Sprint, in 3 easy steps!
 
 1. **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
-2 **READ** and ensure you agree with Mozilla's Participation Guidelines for this event.
+2. **READ** and ensure you agree with Mozilla's Participation Guidelines for this event.
 3. When [Site Host Registration]() is open (later this Spring), **REGISTER** as a Site Host. You'll get additional info and and a swag pack of stickers to help promote the Global Sprint.
 
 ### Hosting A Site at the Global Sprint
