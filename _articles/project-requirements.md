@@ -35,7 +35,9 @@ A license indicates to the world how exactly your project is open-- how the code
 6. **Issue Tracker.**
 The issue tracker is a GitHub feature that allows you to describe tasks or chunks of work, or "issues". Others can comment on an issue to discuss the work. You can assign an issue to a contributor, add tags to add extra information or categories to the work(like "new feature" "help wanted" "good first bug"), and you can link milestone info to an issue to help prioritze work. "Open"" issues are work that needs to be done or is underway. "Closed" issues are work that's completed. 
 
-### EXTRA CREDIT: Supercharge your Sprint project! These items are above and beyond what's required to be a FEATURED project. Do these exercises to maximize your Open Leadership skills!
+### EXTRA CREDIT: Supercharge your Sprint project! 
+
+These items are above and beyond what's required to be a FEATURED project. Do these exercises to maximize your Open Leadership skills.
 
 1. Vision Statement 
 By coming up with a super short, clear statement about what you're doing and why, you can become a better communicator and increase interest and contributor involvement with your open project. This [quick exericse](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) helps you create a polished statmement. 
