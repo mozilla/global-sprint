@@ -9,7 +9,7 @@ title: For Site Hosts
 3. When [Site Host Registration]() is open (later this Spring), **REGISTER** as a Site Host. You'll get additional info and and a swag pack of stickers to help promote the Global Sprint.
 
 ### Hosting A Site at the Global Sprint
-A Global Sprint site is a physical space where participants and project leads gather to work on the Sprint. A site needs good workspace for participants, and an internet connnection-- preferably good, strong Wi-Fi. Your site can be for three people, or for 30-- it's up to you. **While the Sprint itself is a 48 hour event, you only need to be present at your site from 9 to 5 local time on both days.** 
+A Global Sprint site is a physical space where participants and project leads gather to work on the Sprint. A site needs good workspace for participants, and an internet connnection-- preferably good, strong Wi-Fi. Your site can be for three people, or for 30 or more, it's up to you. **While the Sprint itself is a 48 hour event, you only need to be present at your site from 9 to 5 local time on both days.** 
 
 As site host, you're responsible for 
 * welcoming people who come to work in-person
