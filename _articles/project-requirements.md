@@ -5,21 +5,23 @@ title: "Project Requirements"
 Every Global Sprint project should be ready to encourage and accept contributions from a group of diverse, skilled and passionate people from around Mozilla’s Network. 
 
 ### REGISTERED Project Requirements
-When you fill out a project application form, you'll receive a response with a link to a GitHub issue (which is page that will represent your project on the Global Sprint site). The issue will contain a template for you to fill out with project information-- name, description... some very simple things! This form will also ask for a link to a **GitHub repository for your project.** 
-
+When you fill out a project application form, you'll receive a response with a link to a GitHub issue (which is page that will represent your project on the Global Sprint site). This is where you'll start documenting your project for the Sprint. The issue will contain a template for you to fill out with project information-- name, description... some very simple things! To complete your registration, you will also need:
+1. A **GitHub repository for your project.** 
 GitHub is an online, easy-to-use online platform for collaborative work and managing changes to code and content. **A repository is your collection of project files (code,content) on GitHub.** You DON'T need to be an expert in GitHub (or the version control software Git that powers it) to set up a repository, add project documentation, and create "issues" or chunks of work that participants can help with. If you are new to GitHub, refer to the tutorials below.
 
 * [This tutorial explains how to register for a GitHub account.]() coming soon!
 * [This tutorial explains how to create a project repository.]() coming soon!
-* [This tutorial explains how to use the Issues tracker]() to manage contributions. coming soon!
-* [Here are set of complete lessons on using GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/).
+* [Here are set of complete lessons on using GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/)-- these are NOT required, only useful if you plan to use GitHub to work on files with your collaborators. If you plan to use Google Docs or Etherpad, you won't need to know this!
+
+2. **A README File.**
+The README is your go-to project documentation file on your project Repository. The README explains what the project is, why the work is important, and how work currently underway supports the project goals. Your README should be written to be understandable to newcomers who might not be experts in your field or programming language, but still want to pitch in! If you're not sure where to start with your README, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), part of our Open Leadership Training Series.
+
+3. **ISSUES TRACKER**
+The issue tracker is a GitHub feature that allows you to describe tasks or chunks of work, or "issues". Others can comment on an issue to discuss the work. You can assign an issue to a contributor, add tags to add extra information or categories to the work(like "new feature" "help wanted" "good first bug"), and you can link milestone info to an issue to help prioritze work. "Open"" issues are work that needs to be done or is underway. "Closed" issues are work that's completed. [This tutorial explains how to use the Issues tracker on GitHub]() to manage contributions. Coming soon! 
 
 That's all you need to be REGISTERED for the Sprint! However, **good project documentation** enables contributors understand project aims and start collaborating quickly and easily away. To become a FEATURED project highlighted on our Projects Page, complete the list of documents below. If you're new to working open, we've inculded helpful info about each document, and why it's important to your project's success at the Sprint. 
 
 ### FEATURED Project Requirements
-1. **A README File.**
-The README is your go-to project documentation file. The README explains what the project is, why the work is important, and how work currently underway supports the project goals. Your README should be written to be understandable to newcomers who might not be experts in your field or programming language, but still want to pitch in! If you're not sure where to start with your README, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), part of our Open Leadership Training Series.
-
 2. **Contributor Guidelines.**
 These Guidelines tell potential contributors exactly HOW they can help-- from the format and style for any contributions to  the steps required for submission and approval. Without this document, contributors won't know how to help out, so Contributor Guidelines are **very very important.** For more info on how to write our own Guidelines [check out this lesson](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
 
@@ -31,9 +33,6 @@ A Roadmap is an outline of project work that's currently underway, and work that
 
 5. **License**
 A license indicates to the world how exactly your project is open-- how the code, content, curriculum, or design of an event can be used, distributed, resused, and remixed by others. If you need more info about choosing a license, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/).  
-
-6. **Issue Tracker.**
-The issue tracker is a GitHub feature that allows you to describe tasks or chunks of work, or "issues". Others can comment on an issue to discuss the work. You can assign an issue to a contributor, add tags to add extra information or categories to the work(like "new feature" "help wanted" "good first bug"), and you can link milestone info to an issue to help prioritze work. "Open"" issues are work that needs to be done or is underway. "Closed" issues are work that's completed. 
 
 ### EXTRA CREDIT: Supercharge your Sprint project! 
 
