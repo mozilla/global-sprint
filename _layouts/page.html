@@ -15,7 +15,7 @@ layout: default
 {{ content }}
 
 {% if page.contents %}
-  <h3>In This Section</h3>
+  <h3>More In This Section</h3>
 {% for path in page.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
    <p>
@@ -29,7 +29,7 @@ layout: default
 {% endif %}
 
 {% if page.following %}
- {% assign next = site.articles | where: "path", page.following | first %}
+ {% assign next = site.articles | where:"path",page.following | first %}
  <a class="btn btn-lg btn-default btn-next" href="{{ next.url | prepend: site.baseurl }}">
 next:
 {{ next.title }} &nbsp;

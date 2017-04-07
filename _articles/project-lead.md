@@ -1,7 +1,10 @@
 ---
 layout: page
 title: "For Project Leads"
-following: _articles/project-checklist.md
+following:  _articles/project-lead/project-requirements.md
+contents:
+  - _articles/project-lead/project-requirements.md
+  - _articles/project-lead/templates.md
 ---
 ### Register Your Project In 4 easy steps!
 
@@ -21,7 +24,7 @@ In 2017 we're inviting a wide range of projects, from security/privacy tools to 
 To REGISTER your project for the sprint, you will need, at minimum:
 
 * a GitHub account
-* a GitHub Repository to host your project information. 
+* a GitHub Repository to host your project information.
 
 [This is easy to do! Information about opening a GitHub account and creating a repository are here](https://mozilla.github.io/global-sprint/project-requirements/). You'll also find information about a few extra steps you can do to get your project FEATURED on Network Pulse and here on the Global Sprint site, where potential contributors will see them first. **In past Sprints, FEATURED projects had nearly 5 times as many contributions and active contributors as projects that were simply registered without good documentation.** (Registered projects are listed among our all the projects in our GitHub issue tracker for the Sprint).
 
