@@ -29,9 +29,6 @@ These Guidelines tell potential contributors exactly HOW they can help-- from th
 3. **Code of Conduct/Participation Guideline.s**
 This document outlines shared values and norms that contributors agree to when they join a  project community. Good Codes of Conduct should highlight positive community behaviors, like cooperation and honesty, as well as describing the negative behaviors that are not permitted, like harrassment or descrimination. A good CoC encourages contribution by letting contributors know they'll be treated respectfully. For an example, look at Mozilla's Participation Guidelines (and feel free to reuse and remix it for your project). If you need help writing your own CoC, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/).
 
-4. **Roadmap.**
-A Roadmap is an outline of project work that's currently underway, and work that's upcoming. It helps contributors understand project plans and project scope. Your roadmap should include "milestones," which are important chunks of work you are planning (like features, units of curriculum, or stages in event planning). If you need more info on writing a Roadmap, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/).
-
 5. **License**
 A license indicates to the world how exactly your project is open-- how the code, content, curriculum, or design of an event can be used, distributed, resused, and remixed by others. If you need more info about choosing a license, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/).
 
