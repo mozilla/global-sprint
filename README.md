@@ -1,2 +1,2 @@
-Mozilla's Global Sprint is a fun, fast-paced two-day collaborative work event to hack and build awesome open projects for vibrant, healthy Internet. We’ll be coming together, in person and online, to work on open projects from every discipline, from around the world.
+Mozilla’s Global Sprint is a fun, fast-paced and two-day collaborative event to hack and build projects for a healthy Internet. A diverse network of open-source advocates — from scientists and educators to artists and engineers — come together in person and online to innovate in the open.  
 
