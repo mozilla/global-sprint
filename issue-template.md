@@ -33,8 +33,6 @@ This [template repository WE NEED TO UPDATE THIS- WE ARE NOT DOING VISION STATEM
 * [ ] In your README, link to the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) or write your own.
 * [ ] [Create file: LICENSE](http://choosealicense.com/) to give your project an open license, allowing for sharing and remixing.
 * [ ] Create file: CONTRIBUTING.md so others know how they can contribute. If you'd like, you can [remix this template](https://github.com/acabunoc/mozsprint-repo-template/blob/master/CONTRIBUTING.md)
-* [ ] Create a ROADMAP to let contributors know what's currently happening, the scale and scope of your planned project work. 
-
 
 Once all of the above is complete,
 - [ ] post to [Network Pulse](http://mozillapulse.org/) by [filling out this form (need to make form)](). We'll review this issue to approve your post :balloon: :cake:
