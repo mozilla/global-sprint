@@ -756,3 +756,27 @@ video {
   margin-bottom: 1.5rem;
   border: solid 1px #DDD;
 }
+
+.card-container {
+  padding:0 15px;
+}
+
+.project-card {
+  background:white;
+  margin-bottom: 15px;
+}
+
+.project-card .content {
+  padding: 0 15px 15px;
+}
+
+.project-card .thumbnail {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+#content .project-card img {
+  vertical-align: middle;
+  border-style: none;
+}

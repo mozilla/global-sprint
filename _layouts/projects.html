@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="lesson-content" style="background:#f2f2f2">
+<div class="page-header">
+  <h2>
+    {% if page.module %}{{ page.module }}.{% endif %}
+    {{ page.title }}
+  </h2>
+</div>
+<div class="details">
+</div>
+
+{{ content }}
+
+
+<div class="project-list">
+  <div class="projects row">
+    {% for project in site.data.projects.results %}
+      {% include projectcard.html project=project %}
+    {% endfor %}
+  </div>
+</div>
+
+
+</div>
