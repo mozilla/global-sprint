@@ -38,6 +38,9 @@ redcarpet:
         'hardwrap'
     ]
 
+gems:
+   - jekyll-get
+
 # variables
 video: "<span class=\"video-player\"></span>"
 assignment: "<span class=\"assignment\">Assignment: </span>"
