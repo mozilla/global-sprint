@@ -6,7 +6,7 @@ contents:
   - _articles/project-lead/project-requirements.md
   - _articles/project-lead/templates.md
 ---
-** Project Leads have their own open projects, from brand new to established projects. By bringing their project to the Global Sprint, a Project Lead invites contribution (which may be code, content, design, editing, writing, testing, advice, etc) to their project from participants from across Mozilla's amazing Network. **  
+**Project Leads have their own open projects, from brand new to established projects. By bringing their project to the Global Sprint, a Project Lead invites contribution (which may be code, content, design, editing, writing, testing, advice, etc) to their project from participants from across Mozilla's amazing Network.**  
 
 ### Register your Project in 4 easy steps!
 
