@@ -2,6 +2,9 @@
 layout: page
 title: For Participants
 ---
+
+**Participants at the Global Sprint browse our list of awesome projects, and pick a project to contribute to. They can join the Sprint online and participate from wherever they are, or they can head to a local site during the Sprint and participate in person while meeting and networking with others. All skill levels are welcome!
+
 ### Register to participate in the Global Sprint, in 4 easy steps!
 
 * **WATCH** the short video below, and **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
