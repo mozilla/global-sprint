@@ -4,13 +4,14 @@ title: "Using the Templates"
 date: 2016-10-06 14:05:56
 ---
 
-We've created a [set of templates](https://github.com/acabunoc/mozsprint-repo-template) to help you get started on your project repository. You'll need to fork or clone the repository (or repo) to start using the templates. This exercise will walk you through forking the repo.
+We've created a [set of templates](https://github.com/acabunoc/mozsprint-repo-template) to help you get started on your own GitHub project repository. You'll need to fork or clone the repository (or repo) to start using the templates. A fork is your own copy of a GitHub repository that you can edit and change however you like.  A repository is a collection of files and history on your project. GitHub helps people work together and collaborate around a project.
+
+This exercise will walk you through forking the repo.
 
 If you already have a project repository, take a quick look at the template before you move on to the next section.
 
 Template: [https://github.com/acabunoc/mozsprint-repo-template](https://github.com/acabunoc/mozsprint-repo-template)
 
-A fork is your own copy of a GitHub repository that you can edit and change however you like. A repository is a collection of files and history on your project. GitHub helps people work together and collaborate around a project.
 
 ### 1. Fork the repo
 
