@@ -5,7 +5,7 @@ title: For Participants
 
 **Participants browse our list of awesome projects, and pick a project (or two) to work on during the Sprint. They can join the Sprint online, from wherever they are, or they can head to a local site during the Sprint to meet, work and network with others. All skill levels are welcome, and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
 
-Participants should be aware that their contributions to projects during the Sprint will be reused, remixed, and shared as deterimined by each project's license. By registering for the Sprint, participants understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
+Participants should be aware that their contributions to projects during the Sprint will fall under each project's own license, and may be  be reused, remixed, and shared according to that license. By registering for the Sprint, participants understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
 ### Register to participate in the Global Sprint, in 4 easy steps!
 
