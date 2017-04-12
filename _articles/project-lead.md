@@ -6,7 +6,9 @@ contents:
   - _articles/project-lead/project-requirements.md
   - _articles/project-lead/templates.md
 ---
-### Register Your Project In 4 easy steps!
+** Project Leads have their own open projects, from brand new to established projects. By bringing their project to the Global Sprint, a Project Lead invites contribution (which may be code, content, design, editing, writing, testing, advice, etc) to their project from participants from across Mozilla's amazing Network. **  
+
+### Register your Project in 4 easy steps!
 
 * **READ** the next 4 short sections: The Basics, The Project Lead Role, and Project Lead FAQs
 * **COMPLETE** this [project submission form](https://goo.gl/forms/0enj1vARqdBA2FHF3)
@@ -15,7 +17,7 @@ contents:
 
 ### The Basics
 
-In 2017 we're inviting a wide range of projects, from security/privacy tools to scientific software to web literacy curriculum to community events-- nearly anything that supports or builds the open web.  Any project entered in the sprint should:
+In 2017 we're inviting a wide range of open projects, from security/privacy tools to scientific software to web literacy curriculum to community events-- nearly anything that supports or builds the open web.  Any project entered in the sprint should:
 
 * have a designated **project lead** who can lead the work before and during the sprint
 * allow and **welcome contributions** by Sprint participants
@@ -25,8 +27,9 @@ To REGISTER your project for the sprint, you will need, at minimum:
 
 * a GitHub account
 * a GitHub Repository to host your project information.
+* a License indicating how users can reuse, remix and share your open project
 
-[This is easy to do! Information about opening a GitHub account and creating a repository are here](https://mozilla.github.io/global-sprint/project-requirements/). You'll also find information about a few extra steps you can do to get your project FEATURED on Network Pulse and here on the Global Sprint site, where potential contributors will see them first. **In past Sprints, FEATURED projects had nearly 5 times as many contributions and active contributors as projects that were simply registered without good documentation.** (Registered projects are listed among our all the projects in our GitHub issue tracker for the Sprint).
+[This is easy to do! Information about opening a GitHub account and creating a repository and choosing a license are here](https://mozilla.github.io/global-sprint/project-requirements/). You'll also find information about a few extra steps you can do to get your project FEATURED on Network Pulse and here on the Global Sprint site, where potential contributors will see them first. **In past Sprints, FEATURED projects had nearly 5 times as many contributions and active contributors as projects that were simply registered without good documentation.** (Registered projects are listed among our all the projects in our GitHub issue tracker for the Sprint).
 
 ### The Project Lead Role
 The Project Lead role is key for a successful run in the Global Sprint!  All Project Leads should have a good understanding of basic open practices. **We're strongly recommending that all Global Sprint Project Leads take ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101) a very short (1-hour) online course covering these concepts.**
