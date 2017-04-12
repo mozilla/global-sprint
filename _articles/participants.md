@@ -3,7 +3,7 @@ layout: page
 title: For Participants
 ---
 
-**Participants at the Global Sprint browse our list of awesome projects, and pick a project to contribute to. They can join the Sprint online and participate from wherever they are, or they can head to a local site during the Sprint and participate in person while meeting and networking with others. All skill levels are welcome!
+**Participants browse our list of awesome projects, and pick a project (or two) to work on during the Sprint. They can join the Sprint online, from wherever they are, or they can head to a local site during the Sprint to meet, work and network with others. All skill levels are welcome, and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
 
 ### Register to participate in the Global Sprint, in 4 easy steps!
 
