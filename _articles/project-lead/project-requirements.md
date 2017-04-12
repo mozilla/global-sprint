@@ -17,7 +17,10 @@ GitHub is an online, easy-to-use online platform for collaborative work and mana
 2. **A README File.**
 The README is your go-to project documentation file on your project Repository. The README explains what the project is, why the work is important, and how work currently underway supports the project goals. Your README should be written to be understandable to newcomers who might not be experts in your field or programming language, but still want to pitch in! If you're not sure where to start with your README, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), part of our Open Leadership Training Series.
 
-3. **ISSUES TRACKER**
+3. **License**
+A license indicates to the world how exactly your project is open-- how the code, content, curriculum, or design of an event can be used, distributed, resused, and remixed by others. If you need more info about choosing a license, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/).
+
+4. **ISSUES TRACKER**
 The issue tracker is a GitHub feature that allows you to describe tasks or chunks of work, or "issues". Others can comment on an issue to discuss the work. You can assign an issue to a contributor, add tags to add extra information or categories to the work(like "new feature" "help wanted" "good first bug"), and you can link milestone info to an issue to help prioritze work. "Open"" issues are work that needs to be done or is underway. "Closed" issues are work that's completed. [This tutorial explains how to use the Issues tracker on GitHub]() to manage contributions. Coming soon!
 
 That's all you need to be REGISTERED for the Sprint! However, **good project documentation** enables contributors understand project aims and start collaborating quickly and easily away. To become a FEATURED project highlighted on our Projects Page, complete the list of documents below. If you're new to working open, we've inculded helpful info about each document, and why it's important to your project's success at the Sprint.
@@ -29,8 +32,6 @@ These Guidelines tell potential contributors exactly HOW they can help-- from th
 3. **Code of Conduct/Participation Guideline.s**
 This document outlines shared values and norms that contributors agree to when they join a  project community. Good Codes of Conduct should highlight positive community behaviors, like cooperation and honesty, as well as describing the negative behaviors that are not permitted, like harrassment or descrimination. A good CoC encourages contribution by letting contributors know they'll be treated respectfully. For an example, look at Mozilla's Participation Guidelines (and feel free to reuse and remix it for your project). If you need help writing your own CoC, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/).
 
-5. **License**
-A license indicates to the world how exactly your project is open-- how the code, content, curriculum, or design of an event can be used, distributed, resused, and remixed by others. If you need more info about choosing a license, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/).
 
 ### EXTRA CREDIT: Supercharge your Sprint project!
 
