@@ -8,6 +8,8 @@ contents:
 ---
 **Project Leads have their own open projects, from brand new to established projects. By bringing their project to the Global Sprint, a Project Lead invites contribution (which may be code, content, design, editing, writing, testing, advice, etc) to their project from participants from across Mozilla's amazing Network.**  
 
+By registering for the Sprint, Project Leads understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
+
 ### Register your Project in 4 easy steps!
 
 * **READ** the next 4 short sections: The Basics, The Project Lead Role, and Project Lead FAQs
