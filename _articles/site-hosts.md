@@ -5,6 +5,8 @@ title: For Site Hosts
 
 **Site Hosts coordinate local, in-person work spaces for the Global Sprint, where contributors come together to work, network, and hang out. The Site Host also helps to promote the event within their local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small--welcoming just a handful of people-- or as large as you like.** 
 
+By registering for the Sprint, Site Hosts understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
+
 ### Register to host a Site in the Global Sprint, in 3 easy steps!
 
 1. **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
