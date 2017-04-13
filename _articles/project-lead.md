@@ -6,7 +6,7 @@ contents:
   - _articles/project-lead/project-requirements.md
   - _articles/project-lead/templates.md
 ---
-**If you have your own open project, whether it's a brand new project or well-established, you can be a Project Lead at the Sprint! By bringing your project to the Global Sprint, you invite contribution (which may be code, content, design, editing, writing, testing, advice, etc) from participants from across Mozilla's amazing Network.**  
+**If you have your own open project, whether it's brand new or well-established, you can be a Project Lead at the Sprint! By bringing your project to the Global Sprint, you invite contribution (which may be code, content, design, editing, writing, testing, advice, etc) from participants from across Mozilla's amazing Network.**  
 
 By registering for the Sprint, Project Leads understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
@@ -52,5 +52,5 @@ A: There are three great ways to attract contributors to your project.
 4. GET THE WORD OUT! This is perhaps most important. We'll be promoting the Sprint across our Network, and we invite you to do the same. Tweet, post, and share across your own personal and professional networks. 
 
 **Q: I can't be at the Sprint the whole time, but someone else on the project can fill in for me. Is this OK?**
-A: First, let's make it clear that we expect that Project Leads to be available only from 9 to 5 in their timezone-- we don't expect you to stay up all night! And we know that the Sprint takes place during the week, during work hours so your moment to moment availability may be limited. What's most important is that, during the Sprint, someone knowledgeable about the project can check in regularly with participants to assign work, answer questions, review and approve contributions, and generally be welcoming and encouraging. 
+A: First, please know that we ONLY expect that Project Leads to be available from 9 to 5 in their timezone on June 1st and 2nd-- **we don't expect you to stay up all night!** And we know that the Sprint takes place during the week during work hours. so your moment to moment availability may be limited. What's most important is that, during the Sprint, someone knowledgeable about the project is checking in regularly with participants to assign work, answer questions, review and approve contributions, and generally be welcoming and encouraging. 
 
