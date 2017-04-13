@@ -46,7 +46,7 @@ Project leads should:
 
 **Q: How can I get contributors to work on my project at the Sprint?**
 
-A: There are three great ways to attract contributors to your project.
+A: There are four great ways to attract contributors to your project.
 1. Be sure your project is well documented and all documentation is beginner-friendly. Complete the checklist for FEATURED projects to be highlighted on [Network Pulse](https://mozilla.github.io/network-pulse/) and the [Global Sprint Page Projects Page](https://mozilla.github.io/global-sprint/projects/). 
 2. Come up with lots of small- to medium- tasks that are appropriate and satisfying for newcomers to do. These are sometimes called "good first bugs" and you'll document them under the Issues tab in your project where contributors can find them and easily jump in to help out. 
 3. If you know you need specific skills on your project, ask for them! Make your needs clear in your README file for the project
