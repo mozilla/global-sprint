@@ -29,8 +29,21 @@ At the Sprint, you'll probably browse project tasks, called "Issues", in an onli
 
 If the project you choose is working primarily on GitHub, you may find it helpful to open a free account on GitHub. This is easy, quick, and, again free! Once you have an account, you can comment on issues and the project lead can add you on tasks. You can also add your changes to the code or content using GitHub. For more on how to use GitHub at the Global Sprint, see these two short, beginner friendly videos **(COMING SOON).**
 
-### FAQs for Participants
-Coming soon!
+### Frequently Asked Questions (for Participants)
+
+**Q: I’m not a coder, can I still participate in the Global Sprint?**
+A: Definitely! Many of our featured projects need help with design, proofreading, writing, testing applications, and much much more. Often the best contributions are insights from general users who respond to project ideas and prototypes in a fresh new way.
+
+**Q: How do I find the right project?**
+A: Search through the projects [listed on our site](https://mozilla.github.io/global-sprint/projects/). You can also browse projects in the [Global Sprint GitHub repo,](https://github.com/mozilla/global-sprint/issues) and filter the list using lables.  Projects labeled "beginner" and projects with "good first bugs"  are a great place to start if it's your first Sprint. Read the Contributor Guidelines if available, and reach out to the Project Lead with any questions. 
+
+**Q: How do I find a site near me?**
+A: All approved sites will be listed on our website [LINK], and you can click on links there to register. You can also register as a remote attendee and participate from the comfort of your home or workplace. Keep an eye on the video checkin times for your timezone-- we'd love for you to join us 
+
+**Q: What is this GitHub thing and how does it work?** 
+A: Github is a tool for working collaboratively online. It's used for managing projects, defining tasks for contributors, and tracking changes and additions to shared documents, whether that's content (curriculum, documents, event plans, game instructions, etc) or code. See the links above to learn more about GitHub. 
+
+
 
 
 
