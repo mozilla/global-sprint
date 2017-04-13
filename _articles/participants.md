@@ -3,7 +3,7 @@ layout: page
 title: For Participants
 ---
 
-**Participants browse our list of awesome projects, and pick a project (or two) to work on during the Sprint. You can join the Sprint online, from wherever they are, or head to a local site during the Sprint to meet, work and network with others. All skill levels are welcome, and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
+**Participants browse our list of awesome projects, and pick a project (or two) to work on during the Sprint. You can join the Sprint online, from wherever you are, or head to a local site during the Sprint to meet, work and network with others. All skill levels are welcome, and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
 
 Participants should be aware that their contributions to projects during the Sprint will fall under each project's own license, and may be  be reused, remixed, and shared according to that license. By registering for the Sprint, participants understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
