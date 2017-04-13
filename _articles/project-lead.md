@@ -6,7 +6,7 @@ contents:
   - _articles/project-lead/project-requirements.md
   - _articles/project-lead/templates.md
 ---
-**If you have your own open project, from brand new to established projects, you can be a Project Lead at the Sprint! By bringing your project to the Global Sprint, you invite contribution (which may be code, content, design, editing, writing, testing, advice, etc) from participants from across Mozilla's amazing Network.**  
+**If you have your own open project, whether it's a brand new project or well-established, you can be a Project Lead at the Sprint! By bringing your project to the Global Sprint, you invite contribution (which may be code, content, design, editing, writing, testing, advice, etc) from participants from across Mozilla's amazing Network.**  
 
 By registering for the Sprint, Project Leads understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
@@ -46,11 +46,11 @@ Project leads should:
 
 **Q: How can I get contributors to work on my project at the Sprint?**
 A: There are three great ways to attract contributors to your project.
-1. Be sure your project is well documented and all documentation is beginner-friendly. Complete the checklist for FEATURED projects to be highlighted on Network Pulse[link] and the Global Sprint Page [link]. 
+1. Be sure your project is well documented and all documentation is beginner-friendly. Complete the checklist for FEATURED projects to be highlighted on [Network Pulse](https://mozilla.github.io/network-pulse/) and the [Global Sprint Page Projects Page](https://mozilla.github.io/global-sprint/projects/). 
 2. Come up with lots of small- to medium- tasks that are appropriate and satisfying for newcomers to do. These are sometimes called "good first bugs" and you'll document them under the Issues tab in your project where contributors can find them and easily jump in to help out. 
 3. If you know you need specific skills on your project, ask for them! Make your needs clear in your README file for the project
 4. GET THE WORD OUT! This is perhaps most important. We'll be promoting the Sprint across our Network, and we invite you to do the same. Tweet, post, and share across your own personal and professional networks. 
 
 **Q: I can't be at the Sprint the whole time, but someone else on the project can fill in for me. Is this OK?**
-A: We expect that Project Leads will only be able to attend from 9 to 5 in their timezone-- we don't expect you to stay up all night! And we know that the Sprint takes place during the week, during work hours so your availability may be limited. What's most important is that someone knowledgeable about the project is available during the Sprint to check in regularly with participants to assign work, answer questions, review and approve contributions, and generally be welcoming and encouraging. 
+A: First, let's make it clear that we expect that Project Leads to be available only from 9 to 5 in their timezone-- we don't expect you to stay up all night! And we know that the Sprint takes place during the week, during work hours so your moment to moment availability may be limited. What's most important is that, during the Sprint, someone knowledgeable about the project can check in regularly with participants to assign work, answer questions, review and approve contributions, and generally be welcoming and encouraging. 
 
