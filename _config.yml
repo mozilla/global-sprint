@@ -22,10 +22,6 @@ collections:
 # Build settings
 markdown: kramdown
 
-jekyll_get:
-  data: projects
-  json: 'https://api.mozillapulse.org/entries/?format=json&search=mozsprint+2017'
-
 redcarpet:
     extensions: [
         'no_intra_emphasis',
@@ -38,8 +34,7 @@ redcarpet:
         'hardwrap'
     ]
 
-gems:
-   - jekyll-get
+
 
 # variables
 video: "<span class=\"video-player\"></span>"

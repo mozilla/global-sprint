@@ -1,0 +1,1 @@
+wget -O _data/projects.json "https://api.mozillapulse.org/entries/?format=json&search=mozsprint+2017"

@@ -1,10 +1,9 @@
-    {% assign link = "https://mozillapulse.org/entry/" | append: project["id"] %}
   <div class="card-container col-md-6 col-xs-12">
     <div class="project-card">
       <div class="main-content">
         <img class="thumbnail" src={{ project["thumbnail"]}}>
         <div class="content">
-          <h2><a target="_blank" href={{ link }}>{{ project["title"]}}</a></h2>
+          <h2>{{ project["title"]}}</h2>
           <div class="mb-2">
             <small class="creator d-block text-muted">By {{ project["creators"] | join: ', ' }}</small>
           </div>
