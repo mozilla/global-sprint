@@ -45,6 +45,7 @@ Project leads should:
 ### Frequently Asked Questions (for Project Leads)
 
 **Q: How can I get contributors to work on my project at the Sprint?**
+
 A: There are three great ways to attract contributors to your project.
 1. Be sure your project is well documented and all documentation is beginner-friendly. Complete the checklist for FEATURED projects to be highlighted on [Network Pulse](https://mozilla.github.io/network-pulse/) and the [Global Sprint Page Projects Page](https://mozilla.github.io/global-sprint/projects/). 
 2. Come up with lots of small- to medium- tasks that are appropriate and satisfying for newcomers to do. These are sometimes called "good first bugs" and you'll document them under the Issues tab in your project where contributors can find them and easily jump in to help out. 
@@ -52,5 +53,6 @@ A: There are three great ways to attract contributors to your project.
 4. GET THE WORD OUT! This is perhaps most important. We'll be promoting the Sprint across our Network, and we invite you to do the same. Tweet, post, and share across your own personal and professional networks. 
 
 **Q: I can't be at the Sprint the whole time, but someone else on the project can fill in for me. Is this OK?**
+
 A: First, please know that we ONLY expect that Project Leads to be available from 9 to 5 in their timezone on June 1st and 2nd-- **we don't expect you to stay up all night!** And we know that the Sprint takes place during the week during work hours. so your moment to moment availability may be limited. What's most important is that, during the Sprint, someone knowledgeable about the project is checking in regularly with participants to assign work, answer questions, review and approve contributions, and generally be welcoming and encouraging. 
 
