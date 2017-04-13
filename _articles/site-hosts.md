@@ -3,7 +3,7 @@ layout: page
 title: For Site Hosts
 ---
 
-**Site Hosts coordinate local, in-person work spaces for the Global Sprint, where contributors come together to work, network, and hang out. The Site Host also helps to promote the event within their local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small--welcoming just a handful of people-- or as large as you like.** 
+**Site Hosts coordinate local, in-person work spaces for the Global Sprint, where contributors come together to work, network, and hang out. As Site Host, you'll also helps to promote the event within your local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small--welcoming just a handful of people-- or as large as you like.** 
 
 By registering for the Sprint, Site Hosts understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
@@ -24,7 +24,37 @@ As site host, you're responsible for
 * helping to collect data on activities on the Site (# of partcipants and contributions)
 
 
-### Site Host FAQs
-(coming soon!)
+### Frequently Asked Questions (for Site Hosts)
 
 
+**Q: What space can be a site? Can my house, living room, or garage be a site? 
+
+A: Any space that has comfortable capacity for your attendees  and has good WiFi or an internet connection is appropriate! Yes, your home can be a site but keep in mind the Sprint is a public event. Be sure you're comfortable with Sprint participants who you may not know coming to your home to work. 
+
+
+**Q: I want to host a site, but I don't have my own space. What kinds of spaces should I look for?**
+
+A: We recommend relatively quiet space (busy coffee shops aren't the greatest). To bring on participants from a certain community (like a university) pick a site near or co-located with that community (a classroom or student center).  Libraries, community centers, hackerspaces-- all these make good sites. It's up to you as site host to define a space with the desired vibe and accommodations for your attendees. We can provide a letter of affiliation with Mozilla if you needed to secure a free site.
+
+**Q: What kind of resources are available to support my site?**
+
+A: We'll send swag packs to all sites that provide a mailing address, including stickers, nametags, and small posters. We also will provide digital files if you'd like to print out some of these materials on site. 
+
+**Q: How does my site and the work we are doing connect to the rest of the Sprint?**
+
+A: Each site is a home base for local community members to collaborate in-person during the sprint. Each site is also linked to other sites in the region. We'll have daily video conference check-ins for sites in the same time zone so you can meet other participants and hear about project work underway.
+
+**Q: What do I need to provide to be a successful site? 
+
+A: Each site should have working WiFi or Internet connection, chairs and tables to support 10-20 participants comfortably (more if desired). That's it!
+
+**Q: Should I provide food or drinks?**
+Providing snacks or coffee is not required, but is appreciated by participants. If the site is at a local company or university, sometimes that institution will donate refreshments for medium-sized events. We recommend looking into donation options from local businesses, and  having coffee on hand to support and energize attendees.
+
+** Q: Why do you need my mailing address in addition to knowing my site address?**
+
+A: As mentioned above, we plan to send participants small packages of swag (stickers, nametags, etc) to distribute to attendees at their event. We'll need a physical address, accessible to the site host in advance of the event, in order to mail the packs. 
+
+**Q: What are ways I can promote my site? How can I get more people beyond my project to come to my site?**
+
+A: We recommend sharing info about your site on social media networks (Twitter, Facebook). Send out emails to colleagues, friends, and any lists you’re on. You can also make posters and distribute postcards using easy-to-edit templates that will be emailed to you in advance. To get the most participants, start advertising early! Get the word out well in advance of the event so people have time to learn about it and make plans to attend. 
