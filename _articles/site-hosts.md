@@ -3,7 +3,7 @@ layout: page
 title: For Site Hosts
 ---
 
-**Site Hosts coordinate local, in-person work spaces for the Global Sprint, where contributors come together to work, network, and hang out. As Site Host, you'll also helps to promote the event within your local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small--welcoming just a handful of people-- or as large as you like.** 
+**Site Hosts coordinate local, in-person work spaces for the Global Sprint, where contributors come together to work, network, and hang out. As Site Host, you'll also help to promote the event within your local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small--welcoming just a handful of people-- or as large as you like.** 
 
 By registering for the Sprint, Site Hosts understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
