@@ -3,25 +3,26 @@ layout: page
 title: For Site Hosts
 ---
 
-**Site Hosts coordinate local, in-person work spaces for the Global Sprint, where contributors come together to work, network, and hang out. As Site Host, you'll also help to promote the event within your local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small--welcoming just a handful of people-- or as large as you like.** 
+**Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint. As Site Host, you'll also help to promote the event within your local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small -- welcoming just a handful of people -- or as large as you like.** 
 
 By registering for the Sprint, Site Hosts understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
-### Register to host a Site in the Global Sprint, in 3 easy steps!
+### Register to host a site for the Global Sprint, in 3 easy steps!
 
 1. **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
-2. **READ** and ensure you agree with Mozilla's Participation Guidelines for this event.
-3. When [Site Host Registration]() is open (later this Spring), **REGISTER** as a Site Host. You'll get additional info and and a swag pack of stickers to help promote the Global Sprint.
+2. **READ** and ensure you agree with [Mozilla's Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) for this event.
+3. When [Site Host Registration]() is open (later this Spring), **REGISTER** as a Site Host. You'll get additional info and the first 50 host sites will get a swag pack of stickers to help promote the Global Sprint.
 
-### Hosting A Site at the Global Sprint
-A Global Sprint site is a physical space where participants and project leads gather to work on the Sprint. A site needs good workspace for participants, and an internet connnection-- preferably good, strong Wi-Fi. Your site can be for three people, or for 30 or more, it's up to you. **While the Sprint itself is a 48 hour event, you only need to be present at your site from 9 to 5 local time on both days.** 
+### Hosting a site at the Global Sprint
+
+A Global Sprint site is a physical space where participants and project leads gather to work on the Sprint. A site needs good workspace for participants and an internet connnection -- preferably good, strong Wi-Fi. Your site can be for three people, or for 30 or more, it's up to you. **While the Sprint itself is a 48 hour event, you only need to be present at your site from 9am to 5pm local time on both days.** 
 
 As site host, you're responsible for 
 * welcoming people who come to work in-person
-* ensuring that your Site is a safe and friendly working environment for all
+* ensuring that your site is a safe and friendly working environment for all
 * helping to promote the Global Sprint to your commmunities and encourage local participation
-* serving  as a point of contact for communicating (updates, progress) with the rest of the Sprint during the event
-* helping to collect data on activities on the Site (# of partcipants and contributions)
+* serving as a point of contact for communicating (updates, progress) with the rest of the Sprint during the event
+* helping to collect data on activities at the site (# of partcipants and contributions)
 
 
 ### Frequently Asked Questions (for Site Hosts)
@@ -29,16 +30,16 @@ As site host, you're responsible for
 
 **Q: What space can be a site? Can my house, living room, or garage be a site? 
 
-A: Any space that has comfortable capacity for your attendees  and has good WiFi or an internet connection is appropriate! Yes, your home can be a site but keep in mind the Sprint is a public event. Be sure you're comfortable with Sprint participants who you may not know coming to your home to work. 
+A: Any space that has comfortable capacity for your attendees and has good WiFi or an internet connection is appropriate! Yes, your home can be a site but keep in mind the Sprint is a public event. Be sure you're comfortable with Sprint participants who you may not know they are coming to your home to work. 
 
 
 **Q: I want to host a site, but I don't have my own space. What kinds of spaces should I look for?**
 
-A: We recommend relatively quiet space (busy coffee shops aren't the greatest). To bring on participants from a certain community (like a university) pick a site near or co-located with that community (a classroom or student center).  Libraries, community centers, hackerspaces-- all these make good sites. It's up to you as site host to define a space with the desired vibe and accommodations for your attendees. We can provide a letter of affiliation with Mozilla if you needed to secure a free site.
+A: We recommend a relatively quiet space (busy coffee shops aren't the greatest). To bring on participants from a certain community (like a university) pick a site near or co-located with that community (a classroom or student center).  Libraries, community centers, hackerspaces-- all these make good sites. It's up to you as site host to define a space with the desired vibe and accommodations for your attendees. We can provide a letter of affiliation with Mozilla if you need it to secure a free site.
 
 **Q: What kind of resources are available to support my site?**
 
-A: We'll send swag packs to all sites that provide a mailing address, including stickers, nametags, and small posters. We also will provide digital files if you'd like to print out some of these materials on site. 
+A: We'll send swag packs to the first 50 sites to register that provide a mailing address, including stickers, nametags, and small posters. We also will provide digital files if you'd like to print out some of these materials on site. 
 
 **Q: How does my site and the work we are doing connect to the rest of the Sprint?**
 
@@ -49,7 +50,8 @@ A: Each site is a home base for local community members to collaborate in-person
 A: Each site should have working WiFi or Internet connection, chairs and tables to support 10-20 participants comfortably (more if desired). That's it!
 
 **Q: Should I provide food or drinks?**
-Providing snacks or coffee is not required, but is appreciated by participants. If the site is at a local company or university, sometimes that institution will donate refreshments for medium-sized events. We recommend looking into donation options from local businesses, and  having coffee on hand to support and energize attendees.
+
+Providing snacks or coffee is not required, but is appreciated by participants. If the site is at a local company or university, sometimes that institution will donate refreshments for medium-sized events. We recommend looking into donation options from local businesses, and having coffee on hand to support and energize attendees.
 
 ** Q: Why do you need my mailing address in addition to knowing my site address?**
 
