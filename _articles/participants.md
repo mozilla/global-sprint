@@ -10,7 +10,7 @@ Participants should be aware that their contributions to projects during the Spr
 ### Register to participate in the Global Sprint, in 4 easy steps!
 
 * **WATCH** the short video and **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
-* **BROWSE** our [Project List]() (coming soon!) to discover a project that you'd like to work on
+* **BROWSE** our [Project List](https://github.com/mozilla/global-sprint/issues) to discover a project that you'd like to work on
 * When our [Site List]() is available (later this Spring) **CHECK OUT** the list to find an in-person site to Sprint with others, if you'd like. Of course, you can also join us online wherever you have internet access.
 * When [Registration]() is open (later this Spring), **REGISTER** as a paraticipant so we know to expect you!
 
