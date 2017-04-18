@@ -11,7 +11,7 @@ By registering for the Sprint, Site Hosts understand and agree that any data the
 
 1. **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
 2. **READ** and ensure you agree with [Mozilla's Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) for this event.
-3. When [Site Host Registration]() is open (later this Spring), **REGISTER** as a Site Host. You'll get additional info and the first 50 host sites will get a swag pack of stickers to help promote the Global Sprint.
+3. [**REGISTER** your Site!](https://goo.gl/forms/MX01siV4Je6HMYUF3). You'll hear back from us with more info, particularly about communications, and the first 50 host sites will get a swag pack of stickers to help promote the Global Sprint.
 
 ### Hosting a site at the Global Sprint
 
@@ -52,10 +52,7 @@ A: Each site should have working WiFi or Internet connection, chairs and tables 
 **Q: Should I provide food or drinks?**
 
 Providing snacks or coffee is not required, but is appreciated by participants. If the site is at a local company or university, sometimes that institution will donate refreshments for medium-sized events. We recommend looking into donation options from local businesses, and having coffee on hand to support and energize attendees.
-
-** Q: Why do you need my mailing address in addition to knowing my site address?**
-
-A: As mentioned above, we plan to send participants small packages of swag (stickers, nametags, etc) to distribute to attendees at their event. We'll need a physical address, accessible to the site host in advance of the event, in order to mail the packs. 
+ 
 
 **Q: What are ways I can promote my site? How can I get more people beyond my project to come to my site?**
 
