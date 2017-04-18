@@ -1,4 +1,4 @@
-var url = "https://api.mozillapulse.org/entries/?format=json&search=mozsprint+2017";
+var url = "https://api.mozillapulse.org/entries/?format=json&ordering=-created&search=mozsprint+2017";
 var projectList = $(".project-list .projects");
 
 $.ajax({
