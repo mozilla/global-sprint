@@ -54,6 +54,6 @@ A: Each site should have working WiFi or Internet connection, chairs and tables 
 Providing snacks or coffee is not required, but is appreciated by participants. If the site is at a local company or university, sometimes that institution will donate refreshments for medium-sized events. We recommend looking into donation options from local businesses, and having coffee on hand to support and energize attendees.
  
 
-**Q: What are ways I can promote my site? How can I get more people beyond my project to come to my site?**
+**Q: What are ways I can promote my site? How can I get more people beyond those I already know (or those involved in my project) to come to my site?**
 
 A: We recommend sharing info about your site on social media networks (Twitter, Facebook). Send out emails to colleagues, friends, and any lists you’re on. You can also make posters and distribute postcards using easy-to-edit templates that will be emailed to you in advance. To get the most participants, start advertising early! Get the word out well in advance of the event so people have time to learn about it and make plans to attend. 
