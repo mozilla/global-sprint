@@ -45,7 +45,7 @@ function SendGoogleForm(e)
 
     var getWrangler = {
       "Mozilla Science": ["@stephwright", "stephanie@mozillafoundation.org", "Steph"],
-      "Web Literacy": ["@jvallera", "julia@mozillafoundation.org", "Julia"],
+      "Teach the Web": ["@jvallera", "julia@mozillafoundation.org", "Julia"],
       "Women in Technology": ["@amirad", "amira@mozillafoundation.org", "Amira"],
       "Mozilla Clubs": ["@jvallera", "julia@mozillafoundation.org", "Julia"],
       "Open Web Fellows (past & present fellows only)": ["@vanessarhinesmith", "vanessa@mozillafoundation.org", "Vanessa"],
