@@ -5,12 +5,12 @@ title: For Participants
 
 **Participants browse our list of awesome projects, and pick a project (or two) to work on during the Sprint. You can join the Sprint online from wherever you happen to be or head to a local host site during the Sprint to meet, work, and network with others. All skill levels are welcome and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
 
-This year we're Sprinting on projects that promote, protect and build the open web, in line with Mozilla's key issues for Internet health.  
+This year we're Sprinting on projects that promote, protect and build the open Web, in line with Mozilla's key issues for Internet health.  
 
-* **OPEN INNOVATION**: projects that help anyone publish or invent online without asking permission and/or ensure that technologies used to run the web are transparent and understandable.
-* **PRIVACY & SECURITY**: projects that support our ability to understand what is happening to our data onlinem and our ability to control how that data is used.
+* **OPEN INNOVATION**: projects that help anyone publish or invent online without asking permission and/or ensure that technologies used to run the Web are transparent and understandable.
+* **PRIVACY & SECURITY**: projects that support our ability to understand what is happening to our data online, and our ability to control how that data is used.
 * **DIGITAL INCLUSION**: projects that help ensure that everyone has equal opportunity to access the Internet and can use it to improve their lives and societies.
-* **WEB LITERACY**: projects that promote or teach the skills to read, write and participate in the digital world, and the ability to shape (not just consume) the web.
+* **WEB LITERACY**: projects that promote or teach the skills to read, write, and participate in the digital world-- and the ability to shape (not just consume) the Web.
 * **DECENTRALIZATION**: projects that help protect and secure an Internet controlled by many so, that no one actor can own it or control it or switch it off.
 
 Participants should be aware that their contributions to projects during the Sprint will fall under each project's own license, and may be  be reused, remixed, and shared according to that license. By registering for the Sprint, participants understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
