@@ -1,0 +1,115 @@
+{
+    "Bangladesh": [
+        {
+            "siteLocationCity": "Sylhet",
+            "siteLocationStateProvince": "Sylhet",
+            "siteLocationCountry": "Bangladesh",
+            "countryCode": "BD",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-hexit-sylhet"
+        },
+        {
+            "siteLocationCity": "Sylhet",
+            "siteLocationStateProvince": "Sylhet",
+            "siteLocationCountry": "Bangladesh",
+            "countryCode": "BD",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-sylhet-mozillians"
+        }
+    ],
+    "Canada": [
+        {
+            "siteLocationCity": "Toronto",
+            "siteLocationStateProvince": "ON",
+            "siteLocationCountry": "Canada",
+            "countryCode": "CA",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-toronto"
+        },
+        {
+            "siteLocationCity": "Toronto",
+            "siteLocationStateProvince": "ON",
+            "siteLocationCountry": "Canada",
+            "countryCode": "CA"
+        }
+    ],
+    "Colombia": [
+        {
+            "siteLocationCity": "Medellín",
+            "siteLocationStateProvince": "Antioquia",
+            "siteLocationCountry": "Colombia",
+            "countryCode": "CO",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-medellin"
+        }
+    ],
+    "Kenya": [
+        {
+            "siteLocationCity": "Kisumu",
+            "siteLocationStateProvince": "Nyanza",
+            "siteLocationCountry": "Kenya",
+            "countryCode": "KE",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-kisumu-kenya"
+        }
+    ],
+    "México": [
+        {
+            "siteLocationCity": "México",
+            "siteLocationStateProvince": "Ciudad de méxico",
+            "siteLocationCountry": "México",
+            "countryCode": "MX",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-mexico-city"
+        }
+    ],
+    "Taiwan": [
+        {
+            "siteLocationCity": "Taipei City",
+            "siteLocationStateProvince": "Taiwan",
+            "siteLocationCountry": "Taiwan",
+            "countryCode": "TW",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-taipei"
+        }
+    ],
+    "UK": [
+        {
+            "siteLocationCity": "London",
+            "siteLocationStateProvince": "London",
+            "siteLocationCountry": "UK",
+            "countryCode": "UK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-london"
+        }
+    ],
+    "USA": [
+        {
+            "siteLocationCity": "Seattle",
+            "siteLocationStateProvince": "Washington",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-seattle"
+        },
+        {
+            "siteLocationCity": "Brooklyn",
+            "siteLocationStateProvince": "New York",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-brooklyn"
+        },
+        {
+            "siteLocationCity": "Portland",
+            "siteLocationStateProvince": "Oregon",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-portland"
+        },
+        {
+            "siteLocationCity": "Washington",
+            "siteLocationStateProvince": "District of Columbia",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-washington-dc"
+        },
+        {
+            "siteLocationCity": "Pasadena",
+            "siteLocationStateProvince": "CA",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-pasadena-CA"
+        }
+    ]
+}

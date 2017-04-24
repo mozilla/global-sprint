@@ -730,10 +730,6 @@ footer.col-sm-12 {
   margin-bottom: 1.75rem;
 }
 
-hr {
-  margin: 2rem 0;
-}
-
 .help-us {
   margin-top: 2.5rem;
   padding-top: 1rem;
@@ -798,4 +794,20 @@ video {
 #content .project-card img {
   vertical-align: middle;
   border-style: none;
+}
+
+.map-sites>div {
+  text-align:center;
+  padding: 2em 0 2em;
+}
+
+.map-sites div hr {
+  width:35%;
+  border-top:2px solid #5F94BA;
+  border-bottom: 2px solid #5F94BA;
+  height: 3px;
+}
+
+.map-sites div h4 {
+  padding-left:15px;
 }
