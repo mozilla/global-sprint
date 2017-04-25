@@ -1,6 +1,7 @@
 {
     "Bangladesh": [
         {
+            "siteName": "Mozilla Global Sprint at Sylhet (HEXit)",
             "siteLocationCity": "Sylhet",
             "siteLocationStateProvince": "Sylhet",
             "siteLocationCountry": "Bangladesh",
@@ -8,6 +9,7 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-hexit-sylhet"
         },
         {
+            "siteName": "Sylhet Mozillians",
             "siteLocationCity": "Sylhet",
             "siteLocationStateProvince": "Sylhet",
             "siteLocationCountry": "Bangladesh",
@@ -17,21 +19,17 @@
     ],
     "Canada": [
         {
+            "siteName": "Mozilla Toronto",
             "siteLocationCity": "Toronto",
             "siteLocationStateProvince": "ON",
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-toronto"
-        },
-        {
-            "siteLocationCity": "Toronto",
-            "siteLocationStateProvince": "ON",
-            "siteLocationCountry": "Canada",
-            "countryCode": "CA"
         }
     ],
     "Colombia": [
         {
+            "siteName": "Causa y Efecto",
             "siteLocationCity": "Medellín",
             "siteLocationStateProvince": "Antioquia",
             "siteLocationCountry": "Colombia",
@@ -41,6 +39,7 @@
     ],
     "Kenya": [
         {
+            "siteName": "LakeHub",
             "siteLocationCity": "Kisumu",
             "siteLocationStateProvince": "Nyanza",
             "siteLocationCountry": "Kenya",
@@ -50,6 +49,7 @@
     ],
     "México": [
         {
+            "siteName": "Telmexhub",
             "siteLocationCity": "México",
             "siteLocationStateProvince": "Ciudad de méxico",
             "siteLocationCountry": "México",
@@ -59,6 +59,7 @@
     ],
     "Taiwan": [
         {
+            "siteName": "Mozilla Community Space Taipei",
             "siteLocationCity": "Taipei City",
             "siteLocationStateProvince": "Taiwan",
             "siteLocationCountry": "Taiwan",
@@ -68,6 +69,7 @@
     ],
     "UK": [
         {
+            "siteName": "MozLDN",
             "siteLocationCity": "London",
             "siteLocationStateProvince": "London",
             "siteLocationCountry": "UK",
@@ -77,6 +79,7 @@
     ],
     "USA": [
         {
+            "siteName": "Seattle",
             "siteLocationCity": "Seattle",
             "siteLocationStateProvince": "Washington",
             "siteLocationCountry": "USA",
@@ -84,6 +87,7 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-seattle"
         },
         {
+            "siteName": "Brooklyn, NY",
             "siteLocationCity": "Brooklyn",
             "siteLocationStateProvince": "New York",
             "siteLocationCountry": "USA",
@@ -91,6 +95,7 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-brooklyn"
         },
         {
+            "siteName": "Portland, OR",
             "siteLocationCity": "Portland",
             "siteLocationStateProvince": "Oregon",
             "siteLocationCountry": "USA",
@@ -98,6 +103,7 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-portland"
         },
         {
+            "siteName": "Open Technology Institute at New America Foundation",
             "siteLocationCity": "Washington",
             "siteLocationStateProvince": "District of Columbia",
             "siteLocationCountry": "USA",
@@ -105,6 +111,7 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-washington-dc"
         },
         {
+            "siteName": "Caltech Library (Sherman Fairchild Room 328)",
             "siteLocationCity": "Pasadena",
             "siteLocationStateProvince": "CA",
             "siteLocationCountry": "USA",
