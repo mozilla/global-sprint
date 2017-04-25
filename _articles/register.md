@@ -26,11 +26,11 @@ Find a site near you!
   <i class="mg mg-5x map-glb-am"></i>
   <hr >
   <h4>Virtual</h4>
-  <div><a target="_blank" href="/">Virtual Participant</a></div>
+  <div><a target="_blank" href="https://ti.to/Mozilla/global-sprint-virtual">Virtual Participant</a></div>
   </div>
 
 </div>
 
-Don't see a site near you? You can also [join virtually]()!
+Don't see a site near you? You can also [join virtually](https://ti.to/Mozilla/global-sprint-virtual)!
 
 Map Icons by [MapGlyphs.com](http://mapglyphs.com/) CC BY-ND 3.0
