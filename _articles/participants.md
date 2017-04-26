@@ -30,7 +30,7 @@ There are countless ways for you to participate...
 
 Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement Manager at Mozilla.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-b3hdxvSMU" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/m-b3hdxvSMU" frameborder="0" allowfullscreen></iframe>
 
 ### Finding Tasks and Making Contributions
 During the Sprint, you'll contact the Lead on the project you'd like to work on, and volunteer to help out with a task. Be sure to ask any questions you have, and then get to work! When you've completed your task, you'll submit your work for review by the Project Lead, who'll provide, feedback, comments, gratitude... and if all goes well, the Project Lead will incorporate your work into the project. Yay!
