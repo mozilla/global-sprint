@@ -10,6 +10,7 @@ There are countless ways for you to participate...
 * You can do QA (quality assurance) testing on protype tools or apps
 * You can do proofreading or writing, visual design and graphic art
 * You can advise or comment on project ideas or plans from your own unique perspective...
+
 **All skill levels are welcome and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
 
 
