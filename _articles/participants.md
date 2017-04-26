@@ -3,7 +3,9 @@ layout: page
 title: For Participants
 ---
 
-**Participants browse our list of awesome projects, and pick a project (or two) to work on during the Sprint. You can join the Sprint online from wherever you happen to be or head to a local host site during the Sprint to meet, work, and network with others. All skill levels are welcome and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
+**Participants browse our list of awesome projects-- [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and [all registered Sprint projects](https://github.com/mozilla/global-sprint/issues)--and pick a project (or two) to work on during the Sprint. You can join the Sprint online from wherever you happen to be or head to a local host site during the Sprint to meet, work, and network with others -- our [site list is here](https://mozilla.github.io/global-sprint/register/). 
+
+**All skill levels are welcome and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
 
 This year we're Sprinting on projects that promote, protect and build the open Web, in line with Mozilla's key issues for Internet health.  
 
