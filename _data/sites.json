@@ -2,7 +2,7 @@
     "Bangladesh": [
         {
             "siteName": "Mozilla Global Sprint at Sylhet (HEXit)",
-            "siteLocationCity": "Sylhet",
+            "siteLocationCity": "Sylhet - HEXit",
             "siteLocationStateProvince": "Sylhet",
             "siteLocationCountry": "Bangladesh",
             "countryCode": "BD",
@@ -20,11 +20,19 @@
     "Canada": [
         {
             "siteName": "Mozilla Toronto",
-            "siteLocationCity": "Toronto",
+            "siteLocationCity": "Toronto - Mozilla Office",
             "siteLocationStateProvince": "ON",
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-toronto"
+        },
+        {
+            "siteName": "Dames Making Games",
+            "siteLocationCity": "Toronto - DMG",
+            "siteLocationStateProvince": "ON",
+            "siteLocationCountry": "Canada",
+            "countryCode": "CA",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-toronto-dmg"
         }
     ],
     "Colombia": [
@@ -35,6 +43,15 @@
             "siteLocationCountry": "Colombia",
             "countryCode": "CO",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-medellin"
+        }
+    ],
+    "India": [
+        {
+            "siteName": "HasGeek",
+            "siteLocationCity": "Bengaluru",
+            "siteLocationStateProvince": "Karnataka",
+            "siteLocationCountry": "India",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-bengaluru"
         }
     ],
     "Kenya": [
@@ -55,6 +72,15 @@
             "siteLocationCountry": "México",
             "countryCode": "MX",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-mexico-city"
+        }
+    ],
+    "Netherlands": [
+        {
+            "siteName": "Tilburg Universit",
+            "siteLocationCity": "Tilburg",
+            "siteLocationStateProvince": "North-Brabant",
+            "siteLocationCountry": "Netherlands",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-tilburg"
         }
     ],
     "Taiwan": [
