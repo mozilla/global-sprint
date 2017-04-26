@@ -8,14 +8,17 @@ contents:
 ---
 **If you have your own open project, whether it's brand new or well-established, you can be a Project Lead at the Sprint! By bringing your project to the Global Sprint, you invite contribution (which may be code, content, design, editing, writing, testing, advice, etc) from participants from across Mozilla's amazing Network.**  
 
+Take a look at our amazing list of Sprint Projects-- [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and [all registered Sprint projects](https://github.com/mozilla/global-sprint/issues)-- to see what others are working on this year. 
+
 By registering for the Sprint, Project Leads understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
-### Register your Project in 4 easy steps!
+### Register your Project in 5 easy steps!
 
 * **READ** the next 4 short sections: The Basics, The Project Lead Role, and Project Lead FAQs
 * **COMPLETE** this [project submission form](https://goo.gl/forms/0enj1vARqdBA2FHF3)
 * **LOOK** for an email from us, with a point of contact and a link to a GitHub issue
-* **FILL OUT/COMPLETE** the Git Hub issue.
+* **FILL OUT/COMPLETE** the Git Hub issue
+* [**REGISTER**](https://mozilla.github.io/global-sprint/register/) for the Sprint, either at a local site, or as an online participant
 
 ### The Basics
 
