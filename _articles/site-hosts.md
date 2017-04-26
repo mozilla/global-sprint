@@ -3,7 +3,9 @@ layout: page
 title: For Site Hosts
 ---
 
-**Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint.** As Site Host, you'll also help to promote the event within your local area. This is a great chance to meet new people and strengthen your existing community! Your site can be small -- welcoming just a handful of people -- or as large as you like. Before you register as a host, check to see if there's already a site in your local area. [Our site list is here](https://mozilla.github.io/global-sprint/register/).
+**Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint. As Site Host, you'll also help to promote the event within your local area.**
+
+This is a great chance to meet new people and strengthen your existing community! Your site can be small -- welcoming just a handful of people -- or as large as you like. Before you register as a host, check to see if there's already a site in your local area. [Our site list is here](https://mozilla.github.io/global-sprint/register/).
 
 By registering for the Sprint, Site Hosts understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
 
