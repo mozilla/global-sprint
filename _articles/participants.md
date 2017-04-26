@@ -5,7 +5,13 @@ title: For Participants
 
 **Participants browse our list of awesome projects-- [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and [all registered Sprint projects](https://github.com/mozilla/global-sprint/issues)--and pick a project (or two) to work on during the Sprint. You can join the Sprint online from wherever you happen to be or head to a local host site during the Sprint to meet, work, and network with others -- our [site list is here](https://mozilla.github.io/global-sprint/register/). 
 
+There are countless ways for you to participate... 
+* You can contribute code or content
+* You can do QA (quality assurance) testing on protype tools or apps
+* You can do proofreading or writing, visual design and graphic art
+* You can advise or comment on project ideas or plans from your own unique perspective...
 **All skill levels are welcome and you don't have to commit to being at the entire Sprint-- drop in for two hours or two days, whatever works for you!** 
+
 
 This year we're Sprinting on projects that promote, protect and build the open Web, in line with Mozilla's key issues for Internet health.  
 
@@ -21,14 +27,8 @@ Participants should be aware that their contributions to projects during the Spr
 
 * **WATCH** the short video and **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
 * **BROWSE** our [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and check out our [full list of all registered Sprint projects](https://github.com/mozilla/global-sprint/issues) to discover a project that you'd like to work on
-* When our [Site List]() is available (later this Spring) **CHECK OUT** the list to find an in-person site to Sprint with others, if you'd like. Of course, you can also join us online wherever you have internet access.
-* When [Registration]() is open (later this Spring), **REGISTER** as a paraticipant so we know to expect you!
-
-There are countless ways for you to participate... 
-* You can contribute code or content
-* You can do QA (quality assurance) testing on protype tools or apps
-* You can do proofreading or writing, visual design and graphic art
-* You can advise or comment on project ideas or plans from your own unique perspective...  
+* **CHECK OUT** our [Registration page](https://mozilla.github.io/global-sprint/register/) to find an in-person site to Sprint with others, if you'd like. Of course, you can also join us online wherever you have internet access.
+* Using the link under your desired site [**REGISTER**](https://mozilla.github.io/global-sprint/register/) as a paraticipant so we know to expect you! You may also select Virtual Participation.  
 
 Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement Manager at Mozilla.
 
