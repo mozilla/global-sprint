@@ -31,7 +31,7 @@ There are countless ways for you to participate...
 Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement Manager at Mozilla.
 
 {% include videowrapper.html
-  url="https://embedwistia-a.akamaihd.net/deliveries/16017481c4380b3f415357062b47e4a555c76303/file.mp4"
+  url="https://youtu.be/m-b3hdxvSMU"
   title="Participation Basics" %}
 
 ### Finding Tasks and Making Contributions
