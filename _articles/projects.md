@@ -11,4 +11,4 @@ We have a wide range of projects you can contribute to at #mozsprint! We have fi
 [Web Literacy](https://github.com/mozilla/global-sprint/labels/%5BTrack%5D%20Web%20Literacy).
 
 
-Browse our featured projects below or see the [full list of projects on GitHub](https://github.com/mozilla/global-sprint/issues). Want to bring your own project to #mozsprint? [Register your project]({{ site.baseurl }}/project-lead)!
+Browse our featured projects below or see the [full list of projects on GitHub](https://github.com/mozilla/global-sprint/issues). Want to bring your own project to #mozsprint? [Register your project]({{ site.baseurl }}/project-lead)! Want to participate and contribute to one of these awesome projects? [Our site list and Registration page is here](https://mozilla.github.io/global-sprint/register/).
