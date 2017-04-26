@@ -28,6 +28,14 @@ In 2017 we're inviting a wide range of open projects, from security/privacy tool
 * allow and **welcome contributions** by Sprint participants
 * support the **open web and a healthy internet.**
 
+This year we're categorizing projects into one or more "tracks", in line with Mozilla's key issues for Internet health. You'll select a track for project (there is an "Other" category if you're not sure what to select).
+
+* **OPEN INNOVATION**: projects that help anyone publish or invent online without asking permission and/or ensure that technologies used to run the Web are transparent and understandable.
+* **PRIVACY & SECURITY**: projects that support our ability to understand what is happening to our data online, and our ability to control how that data is used.
+* **DIGITAL INCLUSION**: projects that help ensure that everyone has equal opportunity to access the Internet and can use it to improve their lives and societies.
+* **WEB LITERACY**: projects that promote or teach the skills to read, write, and participate in the digital world-- and the ability to shape (not just consume) the Web.
+* **DECENTRALIZATION**: projects that help protect and secure an Internet controlled by many so, that no one actor can own it or control it or switch it off.
+
 To REGISTER your project for the sprint, you will need, at minimum:
 
 * a GitHub account
