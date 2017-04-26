@@ -51,6 +51,7 @@
             "siteLocationCity": "Bengaluru",
             "siteLocationStateProvince": "Karnataka",
             "siteLocationCountry": "India",
+            "countryCode": "IN",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-bengaluru"
         }
     ],
@@ -80,6 +81,7 @@
             "siteLocationCity": "Tilburg",
             "siteLocationStateProvince": "North-Brabant",
             "siteLocationCountry": "Netherlands",
+            "countryCode": "NL",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-tilburg"
         }
     ],
