@@ -3,7 +3,7 @@ layout: page
 title: For Participants
 ---
 
-**Participants browse our list of awesome projects-- [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and [all registered Sprint projects](https://github.com/mozilla/global-sprint/issues)--and pick a project (or two) to work on during the Sprint. You can join the Sprint online from wherever you happen to be or head to a local host site during the Sprint to meet, work, and network with others -- our [site list is here](https://mozilla.github.io/global-sprint/register/). 
+**Participants browse our list of awesome projects-- [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and [all registered Sprint projects](https://github.com/mozilla/global-sprint/issues)--and pick a project (or two) to work on during the Sprint. You can join the Sprint online from wherever you happen to be or head to a local host site during the Sprint to meet, work, and network with others -- our [site list is here](https://mozilla.github.io/global-sprint/register/).**
 
 There are countless ways for you to participate... 
 * You can contribute code or content
