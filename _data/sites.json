@@ -55,15 +55,6 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-bengaluru"
         }
     ],
-    "Ireland": [
-        {
-            "siteName": "Kilroy's College",
-            "siteLocationCity": "Dublin 2",
-            "siteLocationStateProvince": "Leinster",
-            "siteLocationCountry": "Ireland",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-dublin"
-        }
-    ],
     "Kenya": [
         {
             "siteName": "LakeHub",
@@ -112,6 +103,14 @@
             "siteLocationCountry": "UK",
             "countryCode": "UK",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-london"
+        },
+        {
+            "siteName": "Kilroy's College",
+            "siteLocationCity": "Dublin 2",
+            "siteLocationStateProvince": "Leinster",
+            "siteLocationCountry": "UK",
+            "countryCode": "UK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-dublin"
         }
     ],
     "USA": [
@@ -154,14 +153,13 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-pasadena-CA"
-        }
-    ],
-    "United States of America": [
+        },
         {
             "siteName": "Cape Cod Chamber of Commerce LaunchPad Co-Working Space",
             "siteLocationCity": "Barnstable (Village of Centerville)",
             "siteLocationStateProvince": "MA",
-            "siteLocationCountry": "United States of America",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-barnstable-ma "
         }
     ]
