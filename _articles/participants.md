@@ -41,7 +41,9 @@ During the Sprint, you'll contact the Lead on the project you'd like to work on,
 
 At the Sprint, you'll probably browse project tasks, called "Issues", in an online collaboration platform called GitHub. Some projects will have their code and content there in GitHub as well; some will be working with other collaboration tools, like Google Docs or Etherpad. 
 
-If the project you choose is working primarily on GitHub, you may find it helpful to open a free account on GitHub. This is easy, quick, and, again free! Once you have an account, you can comment on issues and the project lead can add you to tasks. You can also add your changes to the code or content using GitHub. For more on how to use GitHub at the Global Sprint, see these two short, beginner friendly videos **(COMING SOON).**
+If the project you choose is working primarily on GitHub, you may find it helpful to open a free account on GitHub. This is easy, quick, and, again free! Once you have an account, you can comment on issues and the project lead can add you to tasks. You can also contribute work to the project using GitHub. **For more on how to use GitHub at the Global Sprint, see this short beginner-friendly video where we tour the list of projects and start off the contribution process using GitHub issues.**
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/N4Bl54_Xxis" frameborder="0" allowfullscreen></iframe>
 
 ### Frequently Asked Questions (for Participants)
 
