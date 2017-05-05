@@ -16,7 +16,7 @@ By registering for the Sprint, Site Hosts understand and agree that any data the
 1. **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
 2. **READ** and ensure you agree with [Mozilla's Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) for this event.
 3. **CHECK** to see if there's already a site in your local area, using [this list](https://mozilla.github.io/global-sprint/register/) Depending on the level of interest in your community, can join forces with any existing sites, or start your own. 
-4. [**REGISTER** your site!](https://goo.gl/forms/MX01siV4Je6HMYUF3) You'll hear back from us with more info, particularly about communications with other sites during the Sprint... We'll also send you printable promotional materials, and the first 50 host sites will get a swag pack of stickers to help promote the Global Sprint.
+4. [**REGISTER** your site!](https://goo.gl/forms/MX01siV4Je6HMYUF3) You'll hear back from us with more info, particularly about communications with other sites during the Sprint... We'll also send you printable promotional materials, and the first 50 host sites will get a swag pack of stickers and a $50 coffee subsidy to help promote the Global Sprint.
 
 ### Hosting a site at the Global Sprint
 
