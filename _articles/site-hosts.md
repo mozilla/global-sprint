@@ -5,7 +5,9 @@ title: For Site Hosts
 
 **Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint. As Site Host, you'll also help to promote the event within your local area. 
 
-**FUEL YOUR SPRINT! WE'LL BUY THE FIRST 50 SITES TO REGISTER COFFEE! (limit $50 USD per site)**
+## UPDATE
+**FUEL YOUR SPRINT! WE'LL BUY COFFEE FOR THE FIRST 50 SITES TO REGISTER! (limit $50 USD per site)**  
+We will email a $50 Starbucks card to the first 50 sites to register.  We are happy to work with sites who do not have access to Starbucks for an alternative method of funding.  Just email us at [globalsprint@mozillafoundation.org](mailto:globalsprint@mozillafoundation.org).
 
 This is a great chance to meet new people and strengthen your existing community! Your site can be small -- welcoming just a handful of people -- or as large as you like. Before you register as a host, check to see if there's already a site in your local area. [Our site list is here](https://mozilla.github.io/global-sprint/register/).
 
@@ -33,7 +35,7 @@ As site host, you're responsible for
 ### Frequently Asked Questions (for Site Hosts)
 
 
-**Q: What space can be a site? Can my house, living room, or garage be a site? 
+**Q: What space can be a site? Can my house, living room, or garage be a site?**   
 
 A: Any space that has comfortable capacity for your attendees and has good WiFi or an internet connection is appropriate! Yes, your home can be a site but keep in mind the Sprint is a public event. Be sure you're comfortable with Sprint participants who you may not know they are coming to your home to work. 
 
