@@ -1,4 +1,14 @@
 {
+    "Australia": [
+        {
+            "siteName": "Brisbane Library Carpentry",
+            "siteLocationCity": "Brisbane",
+            "siteLocationStateProvince": "Queensland, Australia",
+            "siteLocationCountry": "Australia",
+            "countryCode": "AU",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-brisbane"
+        }
+    ],
     "Bangladesh": [
         {
             "siteName": "Mozilla Global Sprint at Sylhet (HEXit)",
@@ -15,6 +25,16 @@
             "siteLocationCountry": "Bangladesh",
             "countryCode": "BD",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-sylhet-mozillians"
+        }
+    ],
+    "Brasil": [
+        {
+            "siteName": "MaceioMozillaClube",
+            "siteLocationCity": "maceió",
+            "siteLocationStateProvince": "alagoas",
+            "siteLocationCountry": "Brasil",
+            "countryCode": "BR",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-maceio-brazil"
         }
     ],
     "Canada": [
@@ -53,6 +73,32 @@
             "siteLocationCountry": "India",
             "countryCode": "IN",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-bengaluru"
+        },
+        {
+            "siteName": "Zarget",
+            "siteLocationCity": "Chennai",
+            "siteLocationStateProvince": "Tamilnadu",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-chennai"
+        },
+        {
+            "siteName": "ICFOSS",
+            "siteLocationCity": "Thiruvananthapuram",
+            "siteLocationStateProvince": "Kerala",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-kerala"
+        }
+    ],
+    "Italy": [
+        {
+            "siteName": "University of Catania",
+            "siteLocationCity": "Catania",
+            "siteLocationStateProvince": "Catania (CT)",
+            "siteLocationCountry": "Italy",
+            "countryCode": "IT",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-cantania"
         }
     ],
     "Kenya": [
@@ -75,6 +121,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-mexico-city"
         }
     ],
+    "Nepal": [
+        {
+            "siteName": "Real Time Solutions",
+            "siteLocationCity": "Kathmandu",
+            "siteLocationStateProvince": "Central Region",
+            "siteLocationCountry": "Nepal",
+            "countryCode": "NP",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-kathmandu"
+        }
+    ],
     "Netherlands": [
         {
             "siteName": "Tilburg Universit",
@@ -83,6 +139,16 @@
             "siteLocationCountry": "Netherlands",
             "countryCode": "NL",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-tilburg"
+        }
+    ],
+    "Sri Lanka ": [
+        {
+            "siteName": "TechOrin Lab 17'",
+            "siteLocationCity": "Colombo",
+            "siteLocationStateProvince": "Western Province ",
+            "siteLocationCountry": "Sri Lanka ",
+            "countryCode": "LK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo"
         }
     ],
     "Taiwan": [
@@ -161,6 +227,30 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-barnstable-ma "
+        },
+        {
+            "siteName": "Twin Cities (MSP)",
+            "siteLocationCity": "St Paul",
+            "siteLocationStateProvince": "Minnesota",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-twin-cities"
+        },
+        {
+            "siteName": "Chicago - Make Offices",
+            "siteLocationCity": "Chicago",
+            "siteLocationStateProvince": "IL",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-chicago "
+        },
+        {
+            "siteName": "University of Oklahoma Libraries",
+            "siteLocationCity": "Norman",
+            "siteLocationStateProvince": "OK",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-norman"
         }
     ]
 }
