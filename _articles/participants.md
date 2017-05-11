@@ -20,7 +20,7 @@ Participants should be aware that their contributions to projects during the Spr
 * **WATCH** the short video and **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
 * **BROWSE** our [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and check out our [full list of all registered Sprint projects](https://github.com/mozilla/global-sprint/issues) to discover a project that you'd like to work on
 * **CHECK OUT** our [Registration page](https://mozilla.github.io/global-sprint/register/) to find an in-person site to Sprint with others, if you'd like. Of course, you can also join us online wherever you have internet access.
-* Using the link under your desired site [**REGISTER**](https://mozilla.github.io/global-sprint/register/) as a paraticipant so we know to expect you! You may also select Virtual Participation.  
+* Using the link under your desired site [**REGISTER**](https://mozilla.github.io/global-sprint/register/) as a participant so we know to expect you! You may also select Virtual Participation.  
 
 Here's more on participation on open projects from Abby Cabunoc Mayes, Developer Engagement Manager at Mozilla.
 
