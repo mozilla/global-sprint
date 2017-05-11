@@ -197,6 +197,14 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-dublin"
         },
         {
+            "siteName": "British Library",
+            "siteLocationCity": "London",
+            "siteLocationStateProvince": "London",
+            "siteLocationCountry": "UK",
+            "countryCode": "UK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-britishlibrary"
+        },
+        {
             "siteName": "Aberdeen",
             "siteLocationCity": "Aberdeen",
             "siteLocationStateProvince": "Aberdeenshire",
@@ -285,16 +293,6 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-norman"
-        }
-    ],
-    "United Kingdom": [
-        {
-            "siteName": "British Library",
-            "siteLocationCity": "London",
-            "siteLocationStateProvince": "London",
-            "siteLocationCountry": "United Kingdom",
-            "countryCode": "UK",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-british-library"
         }
     ]
 }
