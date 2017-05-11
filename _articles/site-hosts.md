@@ -7,7 +7,7 @@ title: For Site Hosts
 
 ### UPDATE
 **FUEL YOUR SPRINT! WE'LL BUY COFFEE FOR THE FIRST 50 SITES TO REGISTER! (limit $50 USD per site)**  
-We will email a $50 Starbucks card and swag pack of stickers to the first 50 sites to register.  We are happy to work with sites who do not have access to Starbucks for an alternative method of funding.  Just email us at [globalsprint@mozillafoundation.org](mailto:globalsprint@mozillafoundation.org).  Keep in mind that postal times may not allow for swag packs to reach your site on time for the Sprint but we'll do our best!
+We will email a $50 Starbucks card and swag pack of Global Sprint Fox stickers to the first 50 sites to register.  We are happy to work with sites who do not have access to Starbucks for an alternative method of funding coffee.  Just email us at [globalsprint@mozillafoundation.org](mailto:globalsprint@mozillafoundation.org).  Keep in mind that our sticker supplies are limited, and postal times may not allow for packages to reach your site on time for the Sprint but we'll do our best!
 
 This is a great chance to meet new people and strengthen your existing community! Your site can be small -- welcoming just a handful of people -- or as large as you like. Before you register as a host, check to see if there's already a site in your local area. [Our site list is here](https://mozilla.github.io/global-sprint/register/).
 
