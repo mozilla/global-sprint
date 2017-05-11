@@ -89,6 +89,14 @@
             "siteLocationCountry": "India",
             "countryCode": "IN",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-kerala"
+        },
+        {
+            "siteName": "FoxIOT HackerSpace",
+            "siteLocationCity": "Coimbatore",
+            "siteLocationStateProvince": "TamilNadu",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-coimbatore"
         }
     ],
     "Italy": [
@@ -161,6 +169,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-taipei"
         }
     ],
+    "The Netherlands": [
+        {
+            "siteName": "Koninklijke Bibliotheek (KB)",
+            "siteLocationCity": "The Hague",
+            "siteLocationStateProvince": "zuid-Holland",
+            "siteLocationCountry": "The Netherlands",
+            "countryCode": "NL",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-the-hague"
+        }
+    ],
     "UK": [
         {
             "siteName": "MozLDN",
@@ -177,6 +195,22 @@
             "siteLocationCountry": "UK",
             "countryCode": "UK",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-dublin"
+        },
+        {
+            "siteName": "Aberdeen",
+            "siteLocationCity": "Aberdeen",
+            "siteLocationStateProvince": "Aberdeenshire",
+            "siteLocationCountry": "UK",
+            "countryCode": "UK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-aberdeen"
+        },
+        {
+            "siteName": "University of Sheffield",
+            "siteLocationCity": "Sheffield",
+            "siteLocationStateProvince": "South Yorkshire",
+            "siteLocationCountry": "UK",
+            "countryCode": "UK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-sheffield"
         }
     ],
     "USA": [
@@ -251,6 +285,16 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-norman"
+        }
+    ],
+    "United Kingdom": [
+        {
+            "siteName": "British Library",
+            "siteLocationCity": "London",
+            "siteLocationStateProvince": "London",
+            "siteLocationCountry": "United Kingdom",
+            "countryCode": "UK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-british-library"
         }
     ]
 }
