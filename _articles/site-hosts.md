@@ -3,7 +3,7 @@ layout: page
 title: For Site Hosts
 ---
 
-**Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint. As Site Host, you'll also help to promote the event within your local area. 
+**Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint. As Site Host, you'll also help to promote the event within your local area.**
 
 ### UPDATE
 **FUEL YOUR SPRINT! WE'LL BUY COFFEE FOR THE FIRST 50 SITES TO REGISTER! (limit $50 USD per site)**  
