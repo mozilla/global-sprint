@@ -7,6 +7,14 @@
             "siteLocationCountry": "Australia",
             "countryCode": "AU",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-brisbane"
+        },
+        {
+            "siteName": "Curtin University",
+            "siteLocationCity": "Perth",
+            "siteLocationStateProvince": "WA",
+            "siteLocationCountry": "Australia",
+            "countryCode": "AU",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-perth"
         }
     ],
     "Bangladesh": [
@@ -65,6 +73,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-medellin"
         }
     ],
+    "Croatia": [
+        {
+            "siteName": "Pleternica",
+            "siteLocationCity": "SPLIT",
+            "siteLocationStateProvince": "CROATIA",
+            "siteLocationCountry": "Croatia",
+            "countryCode": "HR",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-croatia"
+        }
+    ],
     "India": [
         {
             "siteName": "HasGeek",
@@ -109,6 +127,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-cantania"
         }
     ],
+    "Japan": [
+        {
+            "siteName": "Mozilla Japan Community Space",
+            "siteLocationCity": "Chuo-ku",
+            "siteLocationStateProvince": "Tokyo",
+            "siteLocationCountry": "Japan",
+            "countryCode": "JP",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-tokyo"
+        }
+    ],
     "Kenya": [
         {
             "siteName": "LakeHub",
@@ -117,6 +145,14 @@
             "siteLocationCountry": "Kenya",
             "countryCode": "KE",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-kisumu-kenya"
+        },
+        {
+            "siteName": "Digital Opportunity Trust Kenya Office",
+            "siteLocationCity": "Nairobi",
+            "siteLocationStateProvince": "Nairobi",
+            "siteLocationCountry": "Kenya",
+            "countryCode": "KE",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-nairobi"
         }
     ],
     "México": [
@@ -147,6 +183,16 @@
             "siteLocationCountry": "Netherlands",
             "countryCode": "NL",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-tilburg"
+        }
+    ],
+    "Nigeria": [
+        {
+            "siteName": "CUBRe",
+            "siteLocationCity": "Sango-Ota",
+            "siteLocationStateProvince": "Ogun State",
+            "siteLocationCountry": "Nigeria",
+            "countryCode": "NG",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ota-nigeria"
         }
     ],
     "Sri Lanka ": [
@@ -293,6 +339,48 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-norman"
+        },
+        {
+            "siteName": "UCLA Library",
+            "siteLocationCity": "Los Angeles",
+            "siteLocationStateProvince": "California",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-los-angeles"
+        },
+        {
+            "siteName": "Willis Library, University of North Texas",
+            "siteLocationCity": "Denton",
+            "siteLocationStateProvince": "TX",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-denton-tx"
+        },
+        {
+            "siteName": "University of Arizona - CyVerse",
+            "siteLocationCity": "Tucson",
+            "siteLocationStateProvince": "Arizona",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-tuscon-az "
+        },
+        {
+            "siteName": "University of Nebraska at Omaha",
+            "siteLocationCity": "Omaha",
+            "siteLocationStateProvince": "NE",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-omaha"
+        }
+    ],
+    "USA ": [
+        {
+            "siteName": "UC Berkeley Library",
+            "siteLocationCity": "Berkeley ",
+            "siteLocationStateProvince": "California ",
+            "siteLocationCountry": "USA ",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-berkeley"
         }
     ]
 }
