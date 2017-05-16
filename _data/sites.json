@@ -83,6 +83,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-croatia"
         }
     ],
+    "France": [
+        {
+            "siteName": "Coop Infolab",
+            "siteLocationCity": "Grenoble",
+            "siteLocationStateProvince": "Isère",
+            "siteLocationCountry": "France",
+            "countryCode": "FR",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-grenoble"
+        }
+    ],
     "India": [
         {
             "siteName": "HasGeek",
@@ -163,6 +173,22 @@
             "siteLocationCountry": "Kenya",
             "countryCode": "KE",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-nairobi"
+        },
+        {
+            "siteName": "Jomo Kenyatta University of Agriculture and Technology",
+            "siteLocationCity": "MOMBASA",
+            "siteLocationStateProvince": "COAST",
+            "siteLocationCountry": "Kenya",
+            "countryCode": "KE",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-jkuat-mombassa"
+        },
+        {
+            "siteName": "Swahilipot Hub",
+            "siteLocationCity": "Mombasa",
+            "siteLocationStateProvince": "Mombasa",
+            "siteLocationCountry": "Kenya",
+            "countryCode": "KE",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-swahilipothub-mombassa"
         }
     ],
     "México": [
