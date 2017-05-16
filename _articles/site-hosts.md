@@ -6,9 +6,6 @@ title: For Site Hosts
 **Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint. As Site Host, you'll also help to promote the event within your local area.**
 
 ### UPDATE
-**FUEL YOUR SPRINT! WE'LL BUY COFFEE FOR THE FIRST 50 SITES TO REGISTER! (limit $50 USD per site)**  
-We will email a $50 Starbucks card and swag pack of Global Sprint Fox stickers to the first 50 sites to register.  We are happy to work with sites who do not have access to Starbucks for an alternative method of funding coffee.  Just email us at [globalsprint@mozillafoundation.org](mailto:globalsprint@mozillafoundation.org).  Keep in mind that our sticker supplies are limited, and postal times may not allow for packages to reach your site on time for the Sprint but we'll do our best!
-
 This is a great chance to meet new people and strengthen your existing community! Your site can be small -- welcoming just a handful of people -- or as large as you like. Before you register as a host, check to see if there's already a site in your local area. [Our site list is here](https://mozilla.github.io/global-sprint/register/).
 
 By registering for the Sprint, Site Hosts understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
@@ -37,7 +34,7 @@ As site host, you're responsible for
 
 **Q: What space can be a site? Can my house, living room, or garage be a site?**   
 
-A: Any space that has comfortable capacity for your attendees and has good WiFi or an internet connection is appropriate! Yes, your home can be a site but keep in mind the Sprint is a public event. Be sure you're comfortable with Sprint participants who you may not know they are coming to your home to work. 
+A: You are welcome to gather with your friends to Sprint in your home. Only sites in community spaces-- such as community centers, universities, libraries, labs, and of course Mozilla offices-- will be listed on our map and made available for registration.  Sites should also have comfortable capacity for your attendees and has good WiFi or an internet connection is appropriate!
 
 
 **Q: I want to host a site, but I don't have my own space. What kinds of spaces should I look for?**
