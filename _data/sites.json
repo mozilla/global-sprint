@@ -117,6 +117,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-coimbatore"
         }
     ],
+    "Ireland": [
+        {
+            "siteName": "Kilroy's College",
+            "siteLocationCity": "Dublin 2",
+            "siteLocationStateProvince": "Leinster",
+            "siteLocationCountry": "Ireland",
+            "countryCode": "IE",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-dublin"
+        }
+    ],
     "Italy": [
         {
             "siteName": "University of Catania",
@@ -235,14 +245,6 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-london"
         },
         {
-            "siteName": "Kilroy's College",
-            "siteLocationCity": "Dublin 2",
-            "siteLocationStateProvince": "Leinster",
-            "siteLocationCountry": "UK",
-            "countryCode": "UK",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-dublin"
-        },
-        {
             "siteName": "British Library",
             "siteLocationCity": "London",
             "siteLocationStateProvince": "London",
@@ -357,6 +359,14 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-denton-tx"
         },
         {
+            "siteName": "UC Berkeley Library",
+            "siteLocationCity": "Berkeley ",
+            "siteLocationStateProvince": "California ",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-berkeley"
+        },
+        {
             "siteName": "University of Arizona - CyVerse",
             "siteLocationCity": "Tucson",
             "siteLocationStateProvince": "Arizona",
@@ -371,16 +381,6 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-omaha"
-        }
-    ],
-    "USA ": [
-        {
-            "siteName": "UC Berkeley Library",
-            "siteLocationCity": "Berkeley ",
-            "siteLocationStateProvince": "California ",
-            "siteLocationCountry": "USA ",
-            "countryCode": "US",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-berkeley"
         }
     ]
 }
