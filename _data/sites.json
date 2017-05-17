@@ -219,6 +219,14 @@
             "siteLocationCountry": "Netherlands",
             "countryCode": "NL",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-tilburg"
+        },
+        {
+            "siteName": "Koninklijke Bibliotheek (KB)",
+            "siteLocationCity": "The Hague",
+            "siteLocationStateProvince": "zuid-Holland",
+            "siteLocationCountry": "Netherlands",
+            "countryCode": "NL",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-the-hague"
         }
     ],
     "Nigeria": [
@@ -249,16 +257,6 @@
             "siteLocationCountry": "Taiwan",
             "countryCode": "TW",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-taipei"
-        }
-    ],
-    "The Netherlands": [
-        {
-            "siteName": "Koninklijke Bibliotheek (KB)",
-            "siteLocationCity": "The Hague",
-            "siteLocationStateProvince": "zuid-Holland",
-            "siteLocationCountry": "The Netherlands",
-            "countryCode": "NL",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-the-hague"
         }
     ],
     "UK": [
