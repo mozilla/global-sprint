@@ -11,8 +11,8 @@ When you fill out a project application form, you'll receive a response with a l
 1. A **GitHub repository for your project.**
 GitHub is an online, easy-to-use online platform for collaborative work and managing changes to code and content. **A repository is your collection of project files (code,content) on GitHub.** You DON'T need to be an expert in GitHub (or the version control software Git that powers it) to set up a repository, add project documentation, and create "issues" or chunks of work that participants can help with. If you are new to GitHub, refer to the tutorials below.
 
-* [This tutorial explains how to register for a GitHub account.]() coming soon!
-* [This tutorial explains how to create a project repository.]() coming soon!
+* [The first part of this tutorial shows how to register for a GitHub account. It also shows how participants will use GitHub to interact with your project](https://www.youtube.com/watch?time_continue=4&v=N4Bl54_Xxis)
+* [This tutorial explains how to create a project repository.](https://mozilla.github.io/global-sprint/project-lead/templates/) 
 * [Here is a set of complete lessons on using GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/)-- these are NOT required, only useful if you plan to use GitHub to work on files with your collaborators. If you plan to use Google Docs or Etherpad, you won't need to know this!
 
 2. **README FILE**  
