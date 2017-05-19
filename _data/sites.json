@@ -45,6 +45,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-maceio-brazil"
         }
     ],
+    "COTE D IVOIRE / IVORY COAST ": [
+        {
+            "siteName": "IT INCEPT ",
+            "siteLocationCity": "ABIDJAN ",
+            "siteLocationStateProvince": "REGION DES LAGUNES",
+            "siteLocationCountry": "COTE D IVOIRE / IVORY COAST ",
+            "countryCode": "CI",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ivory-coast"
+        }
+    ],
     "Canada": [
         {
             "siteName": "Mozilla Toronto",
@@ -153,6 +163,14 @@
             "siteLocationCountry": "Italy",
             "countryCode": "IT",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-cantania"
+        },
+        {
+            "siteName": "Milano-Bicocca",
+            "siteLocationCity": "Milan",
+            "siteLocationStateProvince": "Milan",
+            "siteLocationCountry": "Italy",
+            "countryCode": "IT",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-milan"
         }
     ],
     "Japan": [
@@ -343,14 +361,6 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-pasadena-CA"
         },
         {
-            "siteName": "Cape Cod Chamber of Commerce LaunchPad Co-Working Space",
-            "siteLocationCity": "Barnstable (Village of Centerville)",
-            "siteLocationStateProvince": "MA",
-            "siteLocationCountry": "USA",
-            "countryCode": "US",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-barnstable-ma "
-        },
-        {
             "siteName": "Twin Cities (MSP)",
             "siteLocationCity": "St Paul",
             "siteLocationStateProvince": "Minnesota",
@@ -413,6 +423,22 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-omaha"
+        },
+        {
+            "siteName": "Manylabs",
+            "siteLocationCity": "San Francisco",
+            "siteLocationStateProvince": "California",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-manylabs-sf"
+        },
+        {
+            "siteName": "Merrill-Cazier Library, Utah State Univesity",
+            "siteLocationCity": "Logan",
+            "siteLocationStateProvince": "UT",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-utah-state"
         }
     ]
 }
