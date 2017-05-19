@@ -58,7 +58,7 @@ The space must have ...
 * As new people arrive help set them up on wi-fi, point them to projects they may be interested in 
 * Make connections and introductions between Sprinters who may have similar interests
 * Be availalble to answer any questions that come up about the site (wi-fi, restrooms, food options nearby, etc)
-* (OTPTIONAL) If you are providing refreshments, such as coffee/tea or snacks, put out fresh drinks or snacks periodically
+* (OPTIONAL) If you are providing refreshments, such as coffee/tea or snacks, put out fresh drinks or snacks periodically
 * Tweet or post about the Sprint at your site as it happens! Let everyone know what's going on!
 * If you are connected to our Vidyo room, check in during the Check-in/Demo session in your time Zone to share projects and progress. 
 
