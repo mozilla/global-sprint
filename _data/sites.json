@@ -45,16 +45,6 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-maceio-brazil"
         }
     ],
-    "COTE D IVOIRE / IVORY COAST ": [
-        {
-            "siteName": "IT INCEPT ",
-            "siteLocationCity": "ABIDJAN ",
-            "siteLocationStateProvince": "REGION DES LAGUNES",
-            "siteLocationCountry": "COTE D IVOIRE / IVORY COAST ",
-            "countryCode": "CI",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-ivory-coast"
-        }
-    ],
     "Canada": [
         {
             "siteName": "Mozilla Toronto",
@@ -81,6 +71,16 @@
             "siteLocationCountry": "Colombia",
             "countryCode": "CO",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-medellin"
+        }
+    ],
+    "Cote D'Ivoire ": [
+        {
+            "siteName": "IT INCEPT ",
+            "siteLocationCity": "ABIDJAN ",
+            "siteLocationStateProvince": "REGION DES LAGUNES",
+            "siteLocationCountry": "Cote D'Ivoire ",
+            "countryCode": "CI",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ivory-coast"
         }
     ],
     "Croatia": [
