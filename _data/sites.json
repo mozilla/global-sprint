@@ -439,6 +439,13 @@
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-utah-state"
+        },
+        {
+            "siteName": "Mozilla  Mountain View",
+            "siteLocationCity": "Mountain View",
+            "siteLocationStateProvince": "California",
+            "siteLocationCountry": "USA",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-mountainview"
         }
     ]
 }
