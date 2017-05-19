@@ -4,16 +4,14 @@ title: "Site Host Checklist"
 date: 2016-10-06 14:05:56
 ---
 
-###Space Requirements
+### Space Requirements
 
 Ideally your space is a community space-- at a library, school or university, maker-space, community center, etc. 
 The space must have ...
 
-- [ ] good WiFi or some way of connecting ot the Internet
-
-- [ ] power outlets
-
-- [ ] designated computer with video screen for video conferencing (if possible/optional)
+![valid XHTML][checkmark] good WiFi or some way of connecting ot the Internet
+* power outlets
+* designated computer with video screen for video conferencing (if possible/optional)
 
 OPTIONAL: 
 - [ ]Refreshments: snacks, coffee, tea and water. 
