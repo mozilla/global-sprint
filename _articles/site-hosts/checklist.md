@@ -9,10 +9,10 @@ date: 2016-10-06 14:05:56
 Ideally your space is a community space-- at a library, school or university, maker-space, community center, etc. 
 The space must have ...
 
-* good WiFi or some way of connecting ot the Internet
+* good WiFi or some way of connecting to the Internet
 * power outlets
 * designated computer with video screen for video conferencing (if possible)
-* Refreshments (**OPTIONAL**) snacks, coffee or tea, and water. 
+* (OPTIONAL) Refreshments such snacks, coffee or tea, and water. 
 
 ### What to do two weeks before the Sprint
 
@@ -22,7 +22,7 @@ The space must have ...
 * Blog, post, and/or tweet about the event. Include the registration link for your site's registration page. We've written lots of [social media posts for you to use here!](https://public.etherpad-mozilla.org/p/globalsprint-what-to-tweet)
 * Send email invites to any list-servs you belong to, forward to campus or student groups, local meet-up groups. Also invite to specific people you think might be interested. [A template email for you to remix is here.](https://public.etherpad-mozilla.org/p/globalsprint-email-template)
 * Print signage or flyers to (links to updated materials coming very soon!)
-* If you are providing food (OPTIONAL) plan what you will bring, and where you will get it. 
+* (OPTIONAL) If you are providing food, plan what you will bring, and where you will get it. 
 
 
 ### What to do one week before the Sprint
@@ -38,7 +38,7 @@ The space must have ...
 * If possible, print off list of participants from your Ti.to registration site, so you know who to expect and can check people in as they arrive
 * Print signage: posters, Participation Guidelines, nametags as needed to bring to the Site.
 * Test network access - confirm WiFi name and password for your site
-* OPTIONAL: check in with food suppliers, if providing
+* (OPTIONAL) Check in with food suppliers, if providing
 
 
 ### What do do the morning of the Sprint
@@ -58,7 +58,7 @@ The space must have ...
 * As new people arrive help set them up on wi-fi, point them to projects they may be interested in 
 * Make connections and introductions between Sprinters who may have similar interests
 * Be availalble to answer any questions that come up about the site (wi-fi, restrooms, food options nearby, etc)
-* If you are providing refreshments (OTPTIONAL) such as coffee/tea or snacks, put out fresh drinks or snacks periodically
+* (OTPTIONAL) If you are providing refreshments, such as coffee/tea or snacks, put out fresh drinks or snacks periodically
 * Tweet or post about the Sprint at your site as it happens! Let everyone know what's going on!
 * If you are connected to our Vidyo room, check in during the Check-in/Demo session in your time Zone to share projects and progress. 
 
