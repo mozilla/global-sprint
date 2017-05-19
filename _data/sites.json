@@ -33,6 +33,14 @@
             "siteLocationCountry": "Bangladesh",
             "countryCode": "BD",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-sylhet-mozillians"
+        },
+        {
+            "siteName": "Banani",
+            "siteLocationCity": "Dhaka",
+            "siteLocationStateProvince": "BD",
+            "siteLocationCountry": "Bangladesh",
+            "countryCode": "BD",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-dhaka"
         }
     ],
     "Brasil": [
@@ -61,6 +69,14 @@
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-toronto-dmg"
+        },
+        {
+            "siteName": "Koerner Library",
+            "siteLocationCity": "Vancouver",
+            "siteLocationStateProvince": "BC",
+            "siteLocationCountry": "Canada",
+            "countryCode": "CA",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-vancouver"
         }
     ],
     "Colombia": [
@@ -143,6 +159,22 @@
             "siteLocationCountry": "India",
             "countryCode": "IN",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-coimbatore"
+        },
+        {
+            "siteName": "OI Amigo",
+            "siteLocationCity": "Jaipur",
+            "siteLocationStateProvince": "Rajasthan",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-jaipur"
+        },
+        {
+            "siteName": "Hyderabad Action Sprint",
+            "siteLocationCity": "Hyderabad",
+            "siteLocationStateProvince": "Telangana",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-hyderabad"
         }
     ],
     "Ireland": [
@@ -445,7 +477,16 @@
             "siteLocationCity": "Mountain View",
             "siteLocationStateProvince": "California",
             "siteLocationCountry": "USA",
+            "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-mountainview"
+        },
+        {
+            "siteName": "University of Michigan Library",
+            "siteLocationCity": "Ann Arbor",
+            "siteLocationStateProvince": "MI",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ann-arbor"
         }
     ]
 }
