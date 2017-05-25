@@ -41,7 +41,7 @@ The space must have ...
 * (OPTIONAL) Check in with food suppliers, if providing
 
 
-### What do do the morning of the Sprint
+### What to do the morning of the Sprint
 
 * Put up signage
 * Post Wi-Fi network information in the space
@@ -63,7 +63,7 @@ The space must have ...
 * If you are connected to our Vidyo room, check in during the Check-in/Demo session in your time Zone to share projects and progress. 
 
 
-### What do do at the end of the Sprint
+### What to do at the end of the Sprint
 
 * Thank all participants for coming
 * Encourage participants to complete the post-sprint survey
