@@ -53,6 +53,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-maceio-brazil"
         }
     ],
+    "Brazil": [
+        {
+            "siteName": "São Paulo",
+            "siteLocationCity": "São Paulo",
+            "siteLocationStateProvince": "São Paulo",
+            "siteLocationCountry": "Brazil",
+            "countryCode": "BR",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-sao-paulo"
+        }
+    ],
     "Canada": [
         {
             "siteName": "Mozilla Toronto",
@@ -77,6 +87,14 @@
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-vancouver"
+        },
+        {
+            "siteName": "University of Toronto Scarborough Library",
+            "siteLocationCity": "Toronto",
+            "siteLocationStateProvince": "Ontario",
+            "siteLocationCountry": "Canada",
+            "countryCode": "CA",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ut-toronto"
         }
     ],
     "Colombia": [
@@ -117,6 +135,16 @@
             "siteLocationCountry": "France",
             "countryCode": "FR",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-grenoble"
+        }
+    ],
+    "Germany": [
+        {
+            "siteName": "Cliqz",
+            "siteLocationCity": "Munich",
+            "siteLocationStateProvince": "Bavaria",
+            "siteLocationCountry": "Germany",
+            "countryCode": "DE",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-munich"
         }
     ],
     "India": [
@@ -175,6 +203,38 @@
             "siteLocationCountry": "India",
             "countryCode": "IN",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-hyderabad"
+        },
+        {
+            "siteName": "IIT Indore",
+            "siteLocationCity": "IIT Indore",
+            "siteLocationStateProvince": "Madhya Pradesh",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-itt-indore"
+        },
+        {
+            "siteName": "USICT Dwarka",
+            "siteLocationCity": "Dwarka ",
+            "siteLocationStateProvince": "New Delhi",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-dwarka"
+        },
+        {
+            "siteName": "Knowledge Lab",
+            "siteLocationCity": "Surat",
+            "siteLocationStateProvince": "Gujarat",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-surat"
+        },
+        {
+            "siteName": "sofinelabs",
+            "siteLocationCity": "nashik",
+            "siteLocationStateProvince": "Maharashtra",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-nashik"
         }
     ],
     "Ireland": [
@@ -295,6 +355,36 @@
             "siteLocationCountry": "Nigeria",
             "countryCode": "NG",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-ota-nigeria"
+        }
+    ],
+    "Pakistan": [
+        {
+            "siteName": "Moz_Sprint@UOGSKT",
+            "siteLocationCity": "Sialkot",
+            "siteLocationStateProvince": "Punjab",
+            "siteLocationCountry": "Pakistan",
+            "countryCode": "PK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-sialkot"
+        }
+    ],
+    "Portugal": [
+        {
+            "siteName": "Faculty of Sciences of the University of Lisbon",
+            "siteLocationCity": "Lisbon",
+            "siteLocationStateProvince": "Lisbon",
+            "siteLocationCountry": "Portugal",
+            "countryCode": "PT",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-lisbon"
+        }
+    ],
+    "Sri Lanka": [
+        {
+            "siteName": "WSO2.Telco inc",
+            "siteLocationCity": "Colombo 10",
+            "siteLocationStateProvince": "Western Province",
+            "siteLocationCountry": "Sri Lanka",
+            "countryCode": "SL",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo-ws02telco"
         }
     ],
     "Sri Lanka ": [
@@ -473,6 +563,14 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-utah-state"
         },
         {
+            "siteName": "University of Michigan Library",
+            "siteLocationCity": "Ann Arbor",
+            "siteLocationStateProvince": "MI",
+            "siteLocationCountry": "USA",
+            "countryCode": "US",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ann-arbor"
+        },
+        {
             "siteName": "Mozilla  Mountain View",
             "siteLocationCity": "Mountain View",
             "siteLocationStateProvince": "California",
@@ -481,12 +579,12 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-mountainview"
         },
         {
-            "siteName": "University of Michigan Library",
-            "siteLocationCity": "Ann Arbor",
-            "siteLocationStateProvince": "MI",
+            "siteName": "Technocopia",
+            "siteLocationCity": "Worcester",
+            "siteLocationStateProvince": "MA",
             "siteLocationCountry": "USA",
             "countryCode": "US",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-ann-arbor"
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-worcester"
         }
     ]
 }
