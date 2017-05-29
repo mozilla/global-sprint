@@ -58,8 +58,14 @@ When you're ready to save your changes, scroll down to a section called **Commit
 Now you have templates and a way to edit them! Keep reading to see how you can make your repository more contributor friendly.
 
 ### 4. Create issues
+![make_issue](https://cloud.githubusercontent.com/assets/617994/26560941/466b5fd4-4488-11e7-8c80-63807b2974b8.gif)
 
 ### 5. Add a `mozsprint` label
+Create a label called `mozsprint`
+![make_label](https://cloud.githubusercontent.com/assets/617994/26560945/510d7058-4488-11e7-91cb-f16c51b85d4e.gif)
+
+Add the `mozsprint` label to the issues people can work on during #mozsprint.
+![apply_label](https://cloud.githubusercontent.com/assets/617994/26560942/4969b73a-4488-11e7-9320-155382a9ae4c.gif)
 
 ### Further Reading
 
