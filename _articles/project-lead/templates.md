@@ -59,6 +59,7 @@ Now you have templates and a way to edit them! Keep reading to see how you can m
 
 ### 4. Create issues
 ![make_issue](https://cloud.githubusercontent.com/assets/617994/26560941/466b5fd4-4488-11e7-8c80-63807b2974b8.gif)
+Each issue should be a small chunk of work someone can do during the sprint. It's best to have a range of issues with different levels of difficulty and types of contributions.
 
 ### 5. Add a `mozsprint` label
 Create a label called `mozsprint`
