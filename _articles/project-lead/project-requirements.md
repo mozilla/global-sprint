@@ -39,7 +39,7 @@ This document outlines shared values and norms that contributors agree to when t
 These items are above and beyond what's required to be a FEATURED project. Do these exercises to maximize your Open Leadership skills.
 
 1. Vision Statement  
-By coming up with a super short, clear statement about what you're doing and why, you can become a better communicator and increase interest and contributor involvement with your open project. This [quick exericse](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) helps you create a polished statmement.
+By coming up with a super short, clear statement about what you're doing and why, you can become a better communicator and increase interest and contributor involvement with your open project. This [quick exercise](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) helps you create a polished statmement.
 2. Open Canvas  
 Open Canvas is a one-page planning tool designed specifically for open projects, modeled on a business plan format used in the start-up world. Creating an Open Canvas can help you think strategically about your project. Our [Open Canvas lesson is here](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/).
 3. Personas Exercise  
