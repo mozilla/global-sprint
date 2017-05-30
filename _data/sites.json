@@ -43,7 +43,7 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-dhaka"
         }
     ],
-    "Brasil": [
+    "Brazil": [
         {
             "siteName": "MaceioMozillaClube",
             "siteLocationCity": "maceió",
@@ -51,9 +51,7 @@
             "siteLocationCountry": "Brasil",
             "countryCode": "BR",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-maceio-brazil"
-        }
-    ],
-    "Brazil": [
+        },
         {
             "siteName": "São Paulo",
             "siteLocationCity": "São Paulo",
@@ -385,9 +383,7 @@
             "siteLocationCountry": "Sri Lanka",
             "countryCode": "SL",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo-ws02telco"
-        }
-    ],
-    "Sri Lanka ": [
+        },
         {
             "siteName": "TechOrin Lab 17'",
             "siteLocationCity": "Colombo",
@@ -419,7 +415,7 @@
         {
             "siteName": "British Library",
             "siteLocationCity": "London",
-            "siteLocationStateProvince": "London",
+            "siteLocationStateProvince": "England",
             "siteLocationCountry": "UK",
             "countryCode": "UK",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-britishlibrary"
