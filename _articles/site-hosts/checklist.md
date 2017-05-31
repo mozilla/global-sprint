@@ -21,7 +21,16 @@ The space must have ...
 * Set up communication channels! Log into our [Global Sprint Gitter Chat.](https://gitter.im/mozilla/global-sprint-2017)
 * Blog, post, and/or tweet about the event. Include the registration link for your site's registration page. We've written lots of [social media posts for you to use here!](https://public.etherpad-mozilla.org/p/globalsprint-what-to-tweet)
 * Send email invites to any list-servs you belong to, forward to campus or student groups, local meet-up groups. Also invite to specific people you think might be interested. [A template email for you to remix is here.](https://public.etherpad-mozilla.org/p/globalsprint-email-template)
-* Print signage or flyers to (links to updated materials coming very soon!)
+* Print signage or flyers:
+  * Global Sprint Site Announcement 
+    [(8.5" x 11" PDF](https://github.com/MozillaFoundation/Design/files/1033127/global-sprint-editable-8p5x11.pdf))
+    [(11" x 17" PDF](https://github.com/MozillaFoundation/Design/files/1033126/global-sprint-editable-11x17.pdf))    
+  * Participation Guidelines
+    ([8.5" x 11" PDF](https://github.com/MozillaFoundation/Design/files/1033129/participation-guidelines-8p5x11.pdf))
+    ([11" x 17" PDF](https://github.com/MozillaFoundation/Design/files/1033128/participation-guildelines-11x17.pdf))
+  * What is Mozilla? 
+    [(8.5" x 11" PDF](https://github.com/MozillaFoundation/Design/files/1033130/what-is-mozilla-8p5x11.pdf))
+    [(11" x 17" PDF](https://github.com/MozillaFoundation/Design/files/1033131/what-is-mozilla-11x17.pdf))
 * (OPTIONAL) If you are providing food, plan what you will bring, and where you will get it. 
 
 
