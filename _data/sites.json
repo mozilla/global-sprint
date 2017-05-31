@@ -48,7 +48,7 @@
             "siteName": "MaceioMozillaClube",
             "siteLocationCity": "maceió",
             "siteLocationStateProvince": "alagoas",
-            "siteLocationCountry": "Brasil",
+            "siteLocationCountry": "Brazil",
             "countryCode": "BR",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-maceio-brazil"
         },
@@ -212,7 +212,7 @@
         },
         {
             "siteName": "USICT Dwarka",
-            "siteLocationCity": "Dwarka ",
+            "siteLocationCity": "Dwarka",
             "siteLocationStateProvince": "New Delhi",
             "siteLocationCountry": "India",
             "countryCode": "IN",
@@ -383,7 +383,9 @@
             "siteLocationCountry": "Sri Lanka",
             "countryCode": "SL",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo-ws02telco"
-        },
+        }
+    ],
+    "Sri Lanka ": [
         {
             "siteName": "TechOrin Lab 17'",
             "siteLocationCity": "Colombo",
