@@ -363,28 +363,12 @@
             "siteLocationCountry": "Nigeria",
             "countryCode": "NG",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-ota-nigeria"
-        },
-        {
-            "siteName": "Wennovation Hub",
-            "siteLocationCity": "Ibadan",
-            "siteLocationStateProvince": "Oyo State",
-            "siteLocationCountry": "Nigeria",
-            "countryCode": "NG",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-ibadan"
         }
     ],
     "Pakistan": [
         {
             "siteName": "Moz_Sprint@UOGSKT",
-            "siteLocationCity": "Sialkot",
-            "siteLocationStateProvince": "Punjab",
-            "siteLocationCountry": "Pakistan",
-            "countryCode": "PK",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-sialkot"
-        },
-        {
-            "siteName": "Moz_Sprint@UOGSKT",
-            "siteLocationCity": "Sialkot",
+            "siteLocationCity": "Sialkot - University of Gujart",
             "siteLocationStateProvince": "Punjab",
             "siteLocationCountry": "Pakistan",
             "countryCode": "PK",
