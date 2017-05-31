@@ -18,7 +18,7 @@ Participants should be aware that their contributions to projects during the Spr
 ### Register to participate in the Global Sprint, in 4 easy steps!
 
 * **WATCH** the short video and **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
-* **BROWSE** our [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and check out our [full list of all registered Sprint projects](https://github.com/mozilla/global-sprint/issues) to discover a project that you'd like to work on
+* **BROWSE** our [Featured Projects](https://mozilla.github.io/global-sprint/projects/) and check out our [full list of all registered Sprint projects](https://github.com/mozilla/global-sprint/issues) or [this project overview](https://medium.com/@MozOpenLeaders/what-to-work-on-at-mozsprint-d88e1b9f3799) to discover a project that you'd like to work on. 
 * **CHECK OUT** our [Registration page](https://mozilla.github.io/global-sprint/register/) to find an in-person site to Sprint with others, if you'd like. Of course, you can also join us online wherever you have internet access.
 * Using the link under your desired site [**REGISTER**](https://mozilla.github.io/global-sprint/register/) as a participant so we know to expect you! You may also select Virtual Participation.  
 
@@ -46,6 +46,10 @@ If the project you choose is working primarily on GitHub, you may find it helpfu
 <iframe width="853" height="480" src="https://www.youtube.com/embed/N4Bl54_Xxis" frameborder="0" allowfullscreen></iframe>
 
 ### Frequently Asked Questions (for Participants)
+
+**Q: How can I keep in touch with everyone during the Global Sprint?**
+
+A: There's a [chat room](http://gitter.im/mozilla/global-sprint-2017) (say hi!) and [an etherpad](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint) with a schedule.
 
 **Q: I’m not a coder, can I still participate in the Global Sprint?**
 
