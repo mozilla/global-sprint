@@ -388,19 +388,17 @@
     "Sri Lanka": [
         {
             "siteName": "WSO2.Telco inc",
-            "siteLocationCity": "Colomb - WS02 Telco",
+            "siteLocationCity": "Colombo - WS02 Telco",
             "siteLocationStateProvince": "Western Province",
             "siteLocationCountry": "Sri Lanka",
             "countryCode": "LK",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo-ws02telco"
-        }
-    ],
-    "Sri Lanka ": [
+        },
         {
             "siteName": "TechOrin Lab 17'",
             "siteLocationCity": "Colombo - TechOrin",
             "siteLocationStateProvince": "Western Province ",
-            "siteLocationCountry": "Sri Lanka ",
+            "siteLocationCountry": "Sri Lanka",
             "countryCode": "LK",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo"
         }
