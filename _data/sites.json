@@ -28,7 +28,7 @@
         },
         {
             "siteName": "Sylhet Mozillians",
-            "siteLocationCity": "Sylhet",
+            "siteLocationCity": "Sylhet - Mozillians",
             "siteLocationStateProvince": "Sylhet",
             "siteLocationCountry": "Bangladesh",
             "countryCode": "BD",
@@ -72,7 +72,7 @@
         },
         {
             "siteName": "Dames Making Games",
-            "siteLocationCity": "Toronto - DMG",
+            "siteLocationCity": "Toronto - Dames Making Games",
             "siteLocationStateProvince": "Ontario",
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
@@ -404,17 +404,17 @@
     "Sri Lanka": [
         {
             "siteName": "WSO2.Telco inc",
-            "siteLocationCity": "Colombo 10",
+            "siteLocationCity": "Colomb - WS02 Telco",
             "siteLocationStateProvince": "Western Province",
             "siteLocationCountry": "Sri Lanka",
-            "countryCode": "SL",
+            "countryCode": "LK",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo-ws02telco"
         }
     ],
     "Sri Lanka ": [
         {
             "siteName": "TechOrin Lab 17'",
-            "siteLocationCity": "Colombo",
+            "siteLocationCity": "Colombo - TechOrin",
             "siteLocationStateProvince": "Western Province ",
             "siteLocationCountry": "Sri Lanka ",
             "countryCode": "LK",
@@ -434,7 +434,7 @@
     "UK": [
         {
             "siteName": "MozLDN",
-            "siteLocationCity": "Moz-London",
+            "siteLocationCity": "London - Mozilla Office",
             "siteLocationStateProvince": "England",
             "siteLocationCountry": "UK",
             "countryCode": "UK",
@@ -442,7 +442,7 @@
         },
         {
             "siteName": "British Library",
-            "siteLocationCity": "London",
+            "siteLocationCity": "London - British Library",
             "siteLocationStateProvince": "England",
             "siteLocationCountry": "UK",
             "countryCode": "UK",
