@@ -11,7 +11,7 @@
         {
             "siteName": "Curtin University",
             "siteLocationCity": "Perth",
-            "siteLocationStateProvince": "WA",
+            "siteLocationStateProvince": "Western Australia",
             "siteLocationCountry": "Australia",
             "countryCode": "AU",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-perth"
@@ -37,7 +37,7 @@
         {
             "siteName": "Banani",
             "siteLocationCity": "Dhaka",
-            "siteLocationStateProvince": "BD",
+            "siteLocationStateProvince": "Bangladesh",
             "siteLocationCountry": "Bangladesh",
             "countryCode": "BD",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-dhaka"
@@ -46,8 +46,8 @@
     "Brazil": [
         {
             "siteName": "MaceioMozillaClube",
-            "siteLocationCity": "maceió",
-            "siteLocationStateProvince": "alagoas",
+            "siteLocationCity": "Maceió",
+            "siteLocationStateProvince": "Alagoas",
             "siteLocationCountry": "Brazil",
             "countryCode": "BR",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-maceio-brazil"
@@ -65,7 +65,7 @@
         {
             "siteName": "Mozilla Toronto",
             "siteLocationCity": "Toronto - Mozilla Office",
-            "siteLocationStateProvince": "ON",
+            "siteLocationStateProvince": "Ontario",
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-toronto"
@@ -73,7 +73,7 @@
         {
             "siteName": "Dames Making Games",
             "siteLocationCity": "Toronto - DMG",
-            "siteLocationStateProvince": "ON",
+            "siteLocationStateProvince": "Ontario",
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-toronto-dmg"
@@ -81,7 +81,7 @@
         {
             "siteName": "Koerner Library",
             "siteLocationCity": "Vancouver",
-            "siteLocationStateProvince": "BC",
+            "siteLocationStateProvince": "British Columbia",
             "siteLocationCountry": "Canada",
             "countryCode": "CA",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-vancouver"
@@ -108,8 +108,8 @@
     "Cote D'Ivoire ": [
         {
             "siteName": "IT INCEPT ",
-            "siteLocationCity": "ABIDJAN ",
-            "siteLocationStateProvince": "REGION DES LAGUNES",
+            "siteLocationCity": "Abidjan",
+            "siteLocationStateProvince": "Region de Lagunes",
             "siteLocationCountry": "Cote D'Ivoire ",
             "countryCode": "CI",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-ivory-coast"
@@ -118,8 +118,8 @@
     "Croatia": [
         {
             "siteName": "Pleternica",
-            "siteLocationCity": "SPLIT",
-            "siteLocationStateProvince": "CROATIA",
+            "siteLocationCity": "Split",
+            "siteLocationStateProvince": "Croatia",
             "siteLocationCountry": "Croatia",
             "countryCode": "HR",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-croatia"
@@ -145,6 +145,16 @@
             "linkToTito": "https://ti.to/Mozilla/global-sprint-munich"
         }
     ],
+    "Ghana": [
+        {
+            "siteName": "Ho Node Hub",
+            "siteLocationCity": "Ho",
+            "siteLocationStateProvince": "Volta Region",
+            "siteLocationCountry": "Ghana",
+            "countryCode": "GH",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ho-ghana"
+        }
+    ],
     "India": [
         {
             "siteName": "HasGeek",
@@ -156,7 +166,7 @@
         },
         {
             "siteName": "Srinivasa Institute of engineering and technology ",
-            "siteLocationCity": "amalapuram",
+            "siteLocationCity": "Amalapuram",
             "siteLocationStateProvince": "Andhra Pradesh",
             "siteLocationCountry": "India",
             "countryCode": "IN",
@@ -228,7 +238,7 @@
         },
         {
             "siteName": "sofinelabs",
-            "siteLocationCity": "nashik",
+            "siteLocationCity": "Nashik",
             "siteLocationStateProvince": "Maharashtra",
             "siteLocationCountry": "India",
             "countryCode": "IN",
@@ -292,8 +302,8 @@
         },
         {
             "siteName": "Jomo Kenyatta University of Agriculture and Technology",
-            "siteLocationCity": "MOMBASA",
-            "siteLocationStateProvince": "COAST",
+            "siteLocationCity": "Mombasa",
+            "siteLocationStateProvince": "Coast",
             "siteLocationCountry": "Kenya",
             "countryCode": "KE",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-jkuat-mombassa"
@@ -353,9 +363,25 @@
             "siteLocationCountry": "Nigeria",
             "countryCode": "NG",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-ota-nigeria"
+        },
+        {
+            "siteName": "Wennovation Hub",
+            "siteLocationCity": "Ibadan",
+            "siteLocationStateProvince": "Oyo State",
+            "siteLocationCountry": "Nigeria",
+            "countryCode": "NG",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ibadan"
         }
     ],
     "Pakistan": [
+        {
+            "siteName": "Moz_Sprint@UOGSKT",
+            "siteLocationCity": "Sialkot",
+            "siteLocationStateProvince": "Punjab",
+            "siteLocationCountry": "Pakistan",
+            "countryCode": "PK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-sialkot"
+        },
         {
             "siteName": "Moz_Sprint@UOGSKT",
             "siteLocationCity": "Sialkot",
@@ -408,7 +434,7 @@
     "UK": [
         {
             "siteName": "MozLDN",
-            "siteLocationCity": "London",
+            "siteLocationCity": "Moz-London",
             "siteLocationStateProvince": "England",
             "siteLocationCountry": "UK",
             "countryCode": "UK",
@@ -475,7 +501,7 @@
         {
             "siteName": "Caltech Library (Sherman Fairchild Room 328)",
             "siteLocationCity": "Pasadena",
-            "siteLocationStateProvince": "CA",
+            "siteLocationStateProvince": "California",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-pasadena-CA"
@@ -491,7 +517,7 @@
         {
             "siteName": "Chicago - Make Offices",
             "siteLocationCity": "Chicago",
-            "siteLocationStateProvince": "IL",
+            "siteLocationStateProvince": "Illinois",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-chicago "
@@ -499,7 +525,7 @@
         {
             "siteName": "University of Oklahoma Libraries",
             "siteLocationCity": "Norman",
-            "siteLocationStateProvince": "OK",
+            "siteLocationStateProvince": "Oklahoma",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-norman"
@@ -515,7 +541,7 @@
         {
             "siteName": "Willis Library, University of North Texas",
             "siteLocationCity": "Denton",
-            "siteLocationStateProvince": "TX",
+            "siteLocationStateProvince": "Texas",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-denton-tx"
@@ -539,7 +565,7 @@
         {
             "siteName": "University of Nebraska at Omaha",
             "siteLocationCity": "Omaha",
-            "siteLocationStateProvince": "NE",
+            "siteLocationStateProvince": "Nebraska",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-omaha"
@@ -555,7 +581,7 @@
         {
             "siteName": "Merrill-Cazier Library, Utah State Univesity",
             "siteLocationCity": "Logan",
-            "siteLocationStateProvince": "UT",
+            "siteLocationStateProvince": "Utah",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-utah-state"
@@ -563,7 +589,7 @@
         {
             "siteName": "University of Michigan Library",
             "siteLocationCity": "Ann Arbor",
-            "siteLocationStateProvince": "MI",
+            "siteLocationStateProvince": "Michigan",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-ann-arbor"
@@ -579,7 +605,7 @@
         {
             "siteName": "Technocopia",
             "siteLocationCity": "Worcester",
-            "siteLocationStateProvince": "MA",
+            "siteLocationStateProvince": "Massachusetts",
             "siteLocationCountry": "USA",
             "countryCode": "US",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-worcester"
