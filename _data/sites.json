@@ -363,6 +363,14 @@
             "siteLocationCountry": "Nigeria",
             "countryCode": "NG",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-ota-nigeria"
+        },
+        {
+            "siteName": "Wennovation Hub",
+            "siteLocationCity": "Ibadan",
+            "siteLocationStateProvince": "Oyo State",
+            "siteLocationCountry": "Nigeria",
+            "countryCode": "NG",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-ibadan"
         }
     ],
     "Pakistan": [
@@ -387,20 +395,20 @@
     ],
     "Sri Lanka": [
         {
-            "siteName": "WSO2.Telco inc",
-            "siteLocationCity": "Colombo - WS02 Telco",
-            "siteLocationStateProvince": "Western Province",
-            "siteLocationCountry": "Sri Lanka",
-            "countryCode": "LK",
-            "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo-ws02telco"
-        },
-        {
             "siteName": "TechOrin Lab 17'",
             "siteLocationCity": "Colombo - TechOrin",
             "siteLocationStateProvince": "Western Province ",
             "siteLocationCountry": "Sri Lanka",
             "countryCode": "LK",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo"
+        },
+        {
+            "siteName": "WSO2.Telco inc",
+            "siteLocationCity": "Colombo - WS02 Telco",
+            "siteLocationStateProvince": "Western Province",
+            "siteLocationCountry": "Sri Lanka",
+            "countryCode": "LK",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-colombo-ws02telco"
         }
     ],
     "Taiwan": [

@@ -45,37 +45,38 @@ The space must have ...
 ### What to do the day before the Sprint
 
 * If possible, print off list of participants from your Ti.to registration site, so you know who to expect and can check people in as they arrive
-* Print signage: posters, Participation Guidelines, name tags as needed to bring to the Site.
+* Print signage: posters, Participation Guidelines, name tags as needed to bring to the Site (see links to printable materials above).
 * Test network access - confirm WiFi name and password for your site
 * (OPTIONAL) Check in with food suppliers, if providing
 
 
 ### What to do the morning of the Sprint
 
-* Put up signage
+* Put up signage (see links to printable materials above)
+* Get connected on the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 * Post Wi-Fi network information in the space
 * As they arrive, check-in participants via Ti.to registration site, or on printed out list to transfer to Ti.to later.
 * Greet participants as they arrive, make sure they feel welcome! Show them around
 * Make introductions among all participants
 * Help participants get set up on Wi-Fi, direct them to the [Gitter Chat](https://gitter.im/mozilla/global-sprint-2017)
-* Be sure to point out your Participation Guidelines / Code of Conduct and ask them to review it. 
+* Be sure to point out your [Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) / [Code of Conduct]() and ask them to review it. 
 * Ask participants to sign a Photo Release form (if needed)
 
 
 ### What to do during the Sprint
 
-* As new people arrive help set them up on wi-fi, point them to projects they may be interested in 
+* As new people arrive help set them up on wi-fi, point them to projects they may be interested in and get them connected to the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 * Make connections and introductions between Sprinters who may have similar interests
 * Be available to answer any questions that come up about the site (wi-fi, restrooms, food options nearby, etc)
 * (OPTIONAL) If you are providing refreshments, such as coffee/tea or snacks, put out fresh drinks or snacks periodically
 * Tweet or post about the Sprint at your site as it happens! Let everyone know what's going on!
-* If you are connected to our Vidyo room, check in during the Check-in/Demo session in your time Zone to share projects and progress. 
+* If you are connected to our Vidyo room, check in during the Check-in/Demo session in your time Zone to share projects and progress. See the schedule on the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 
 
 ### What to do at the end of the Sprint
 
 * Thank all participants for coming
-* Encourage participants to complete the post-sprint survey
+* Encourage participants to complete the post-sprint survey (coming soon!)
 
 
 ### How to follow up after the Sprint
