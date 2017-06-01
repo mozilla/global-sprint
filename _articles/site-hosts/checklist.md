@@ -35,7 +35,7 @@ The space must have ...
 
 
 ### What to do one week before the Sprint
-* Email participants through Ti.to with directions to the location and any additional logistics requirements. *When you registered your site, you should have recieved a Ti.to log-in with instructions for managing your event. If you don't have this, let us know via the [Global Sprint Gitter Chat.](https://gitter.im/mozilla/global-sprint-2017)*
+* Email participants through Ti.to with directions to the location and any additional logistics requirements. *When you registered your site, you should have received a Ti.to log-in with instructions for managing your event. If you don't have this, let us know via the [Global Sprint Gitter Chat.](https://gitter.im/mozilla/global-sprint-2017)*
 * If you do not have computers in the space, remember to encourage participants to bring their own laptops (if available) 
 * Test Vidyo Conferencing using the [schedule here.](https://public.etherpad-mozilla.org/p/globalsprint-AV-testing-schedule)
 * Post, tweet, and/or blog about the event about the event! (include registration link for your site registration page if you still have spaces available). Again, you can use our pre-written posts. 
@@ -45,7 +45,7 @@ The space must have ...
 ### What to do the day before the Sprint
 
 * If possible, print off list of participants from your Ti.to registration site, so you know who to expect and can check people in as they arrive
-* Print signage: posters, Participation Guidelines, nametags as needed to bring to the Site (see links to printable materials above).
+* Print signage: posters, Participation Guidelines, name tags as needed to bring to the Site (see links to printable materials above).
 * Test network access - confirm WiFi name and password for your site
 * (OPTIONAL) Check in with food suppliers, if providing
 
@@ -67,7 +67,7 @@ The space must have ...
 
 * As new people arrive help set them up on wi-fi, point them to projects they may be interested in and get them connected to the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
 * Make connections and introductions between Sprinters who may have similar interests
-* Be availalble to answer any questions that come up about the site (wi-fi, restrooms, food options nearby, etc)
+* Be available to answer any questions that come up about the site (wi-fi, restrooms, food options nearby, etc)
 * (OPTIONAL) If you are providing refreshments, such as coffee/tea or snacks, put out fresh drinks or snacks periodically
 * Tweet or post about the Sprint at your site as it happens! Let everyone know what's going on!
 * If you are connected to our Vidyo room, check in during the Check-in/Demo session in your time Zone to share projects and progress. See the schedule on the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/sciencelab-2017globalsprint)
