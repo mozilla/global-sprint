@@ -133,6 +133,14 @@
             "siteLocationCountry": "France",
             "countryCode": "FR",
             "linkToTito": "https://ti.to/Mozilla/global-sprint-grenoble"
+        },
+        {
+            "siteName": "Institute Pasteur ",
+            "siteLocationCity": "Paris",
+            "siteLocationStateProvince": "Ile-de-France",
+            "siteLocationCountry": "France",
+            "countryCode": "FR",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-paris"
         }
     ],
     "Germany": [
