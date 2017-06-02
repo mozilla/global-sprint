@@ -157,7 +157,15 @@
     ],
     "India": [
         {
-            "siteName": "HasGeek",
+            "siteName": "University School of Information, Communication and Technology",
+            "siteLocationCity": "New Delhi",
+            "siteLocationStateProvince": "Delhi",
+            "siteLocationCountry": "India",
+            "countryCode": "IN",
+            "linkToTito": "https://ti.to/Mozilla/global-sprint-dwarka"
+        },
+        {
+             "siteName": "HasGeek",
             "siteLocationCity": "Bengaluru",
             "siteLocationStateProvince": "Karnataka",
             "siteLocationCountry": "India",
