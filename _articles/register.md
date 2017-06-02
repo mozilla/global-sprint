@@ -13,10 +13,10 @@ Find a site near you!
   <div class="col-lg-3 col-sm-4 col-xs-6">
   <i class="mg mg-5x map-{{ country[1][0].countryCode | downcase }}"></i>
   <hr >
-  <h4>{{ country[0] }}</h4>
-  {% for host in country[1] %}
+  <h4>Ghana</h4>
+  {% Ho Node Hub[1] %}
     {% if host.linkToTito %}
-      <div><a target="_blank" href="{{ host.linkToTito }}">{{ host.siteLocationCity }}, {{ host.siteLocationStateProvince}}</a></div>
+      <div><a target="_blank" href="{{ host.linkToTito }}">Ho Node Hub, Cherubim Mawuli Amenyedor</a></div>
     {% endif %}
   {% endfor %}
   </div>
