@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects
 title: "Open" at the Global Sprint
 ---
 
