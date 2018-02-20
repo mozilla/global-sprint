@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Open at Mozilla's Global Sprint
+title: "Open" at the Global Sprint
 ---
 
 **The Global Sprint itself-- and all the projects we'll sprint on at the event-- are open projects.** That means these project are designed especially  for: 
