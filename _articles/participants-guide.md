@@ -1,6 +1,11 @@
 ---
 layout: page
 title: Participants' Guide
+following:  _articles/participants/find-a-project.md
+contents:
+  - _articles/participants/find-a-project.md
+  - _articles/participants/collaborating.md
+  - _articles/participants/share-your-story.md
 ---
 
 Welcome! We’re excited you’re participating in Mozilla’s Global Sprint. This guide explains how to find a Sprint project and collaborate at the event. 
