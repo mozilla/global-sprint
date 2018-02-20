@@ -47,15 +47,6 @@ function SendGoogleForm(e)
 
     var row = e.range.getRow();
 
-    var body = "Host Site Registration"
-      + encodeURIComponent("\n**[ Site Name ]** " + site)
-      + encodeURIComponent("\n**[ Track ]** " + track)
-      + encodeURIComponent("\n**[ Location ]** " + location)
-      + encodeURIComponent("\n\n### Description\n" + description + "\n")
-      + template_contribute
-      + encodeURIComponent(github)
-      + template_notes_to_project_lead;
-
 
     var subject = "site registration " + site;
     var message = "Dear " + name + ",";
@@ -70,6 +61,7 @@ function SendGoogleForm(e)
      to: reply,
      subject: subject,
      htmlBody: message
+     // ADD cc:globalsprint@mofo!!
     });
 
   } catch (e) {
