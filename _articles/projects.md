@@ -3,7 +3,7 @@ layout: projects
 title: Open at Mozilla's Global Sprint
 ---
 
-**The Global Sprint itself, and all the projects we'll sprint-- on are open projects** That means these project are designed especially  for: 
+**The Global Sprint itself-- and all the projects we'll sprint on at the event-- are open projects** That means these project are designed especially  for: 
 
 * **Understanding**: open projects have clear documentation, so it’s easy to understand the project concept, goals, and process; this information is accessible to everyone
 * **Participation & inclusion**: open projects invite and empower diverse contributors; anyone can volunteer their skills, knowledge and insights to shape the project
