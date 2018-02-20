@@ -25,7 +25,7 @@ In 2018, the Sprint will take place on May 10-11th, from 9am to 5pm local time, 
 
 You’re not required to attend both full days of the Sprint-- though you’re welcome to!  But if you do join us, be sure to allow enough Sprinting time to meaningfully contribute to a project-- usually two or three hours.
 
-Whether you work from home or at a site, you’ll use free online collaboration tools like online chat, video conferencing, and GitHub. If you’re new to these tools, don’t worry! There’s more about these tools in the section “Finding Tasks and Collaborating at the Sprint.”
+Whether you work from home or at a site, you’ll use free online collaboration tools like online chat, video conferencing, and GitHub. If you’re new to these tools, don’t worry! There is information about these tools in the section “Collaboration Tools.”
 
 
 
