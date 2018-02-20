@@ -8,7 +8,7 @@ As you click through from a pulse listing to project sites, you may get your fir
 
 Tip! Each individual Sprint project (and the Sprint as a whole) has a repository or  “repo”  on GitHub. A repository is a public collection of files-- stuff like code, content, and discussions for collaboration.  In any repo, look for a file called “README.md” that explains what the project is about. 
 
-
+![pulse listing](https://github.com/mozilla/global-sprint/blob/master/img/pulse-listing.png)
 
 
 In addition to featured projects on Pulse, there’s a full list of 2018 projects in the [“issues tab” of our main Global Sprint repository](https://github.com/mozilla/global-sprint/issues). Each issue represents a project in the Global Sprint. You can click from these issues to that individual project’s repository to learn more. 
