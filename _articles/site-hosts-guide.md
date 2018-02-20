@@ -1,6 +1,6 @@
 ---
 layout: page
-title: For Site Hosts
+title: Site Host Guide
 following:  _articles/site-hosts/checklist.md
 contents:
   - _articles/site-hosts/checklist.md
