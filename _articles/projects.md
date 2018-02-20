@@ -11,6 +11,8 @@ title: Open at Mozilla's Global Sprint
 
 These three principles make it possible-- easy, even-- for you to participate in the event, hold your own local Sprint, and make meaningful contributions to Sprint projects. Attending an open event and working on an open project is a bit different from your usual event or volunteer experience. Here’s a short video on participation on open projects from Abby Cabunoc Mayes, Developer Engagement Manager at Mozilla, from our course [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101).
 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/m-b3hdxvSMU" frameborder="0" allowfullscreen></iframe>
+
 To recap, here are the 5 steps for participation on Open Projects:
 
 * **Choose a project**: Decide what you’re most excited about. What do you want work on, or learn? Look for a project that can give you that experience.     
