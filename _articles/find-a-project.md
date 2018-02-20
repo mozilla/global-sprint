@@ -12,3 +12,5 @@ Tip! Each individual Sprint project (and the Sprint as a whole) has a repository
 
 
 In addition to featured projects on Pulse, there’s a full list of 2018 projects in the [“issues tab” of our main Global Sprint repository](https://github.com/mozilla/global-sprint/issues). Each issue represents a project in the Global Sprint. You can click from these issues to that individual project’s repository to learn more. 
+
+![repo with README](https://github.com/mozilla/global-sprint/blob/master/img/mainGSrepo.png)
