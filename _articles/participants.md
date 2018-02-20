@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guide For Participants
+title: Participants' Guide
 ---
 
 Welcome! We’re excited you’re participating in Mozilla’s Global Sprint. This guide explains how to find a Sprint project and collaborate at the event. 
