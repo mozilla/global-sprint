@@ -20,4 +20,4 @@ To recap, here are the 5 steps for participation on Open Projects:
 * **Be respectful and honest**: Participation is about working together in a community. Be respectful of the ideas and perspective of others. And be honest with your new collaborators-- be realistic about what you have the time, energy and skills to do.     
 
 
-If you’d like to know more about collaboration for the open web, we recommend taking our 1-hour online course, [Open Leadership 101.](https://mozilla.teachable.com/p/open-leadership-101)
+If you’d like to know more about collaboration for the open web, we recommend taking our 1-hour online course, [Open Leadership 101](https://mozilla.teachable.com/p/open-leadership-101).
