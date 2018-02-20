@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "For Project Leads"
+title: "Project Lead Guide"
 following:  _articles/project-lead/project-requirements.md
 contents:
   - _articles/project-lead/project-requirements.md
