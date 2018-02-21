@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Share Your Story
+title: Sharing Your Story
 ---
 
 Share your Sprint story!
