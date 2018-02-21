@@ -9,6 +9,6 @@ Part of the "open" nature of the Sprint is connecting and sharing our work, proc
 Blog posts are a great way to recap your Sprint, and capture your learnings, challenges. and successes. Check out these terrific posts from the 2017 Sprint:
 
 * [Francesca, Scotland](https://francescamancini.github.io/MozSprint/)
-* [Anna Krystalli, England](http://rse.shef.ac.uk/blog/mozsprint-2017-at-the-university-of-sheffield/)
-* [Julia Vallera, USA](https://medium.com/read-write-participate/mozilla-global-sprint-is-an-event-for-everyone-5848faef2c3f)
+* [Jason, USA](https://medium.com/@jaheppler/introducing-omaha-parks-26bc64ff2e0b)
 * [Eduoardo, Italy](https://medium.com/@edovio/two-days-at-mozilla-global-sprint-2017-83c90b8f0cd3)
+* [Anna, England](http://rse.shef.ac.uk/blog/mozsprint-2017-at-the-university-of-sheffield/)
