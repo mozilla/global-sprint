@@ -1,4 +1,10 @@
+---
+layout: page
+title: Site Host Guide
+---
+
 Welcome! We’re pleased you’re considering hosting a Sprint site.
+
 **Sprint sites are pop-up collaborative spaces; while lots of collaboration happens online, face-to-face interactions generate much of energy and excitement during the event. Hosting a site is an amazing opportunity to make new connections, build community, and have fun. [Click here to Register your site]().**
 
 As a site host you’ll
