@@ -7,7 +7,7 @@ GitHub is an online platform for collaborative work. At the Sprint, participants
 
 You DON’T need to be an expert in GitHub to participate or lead a project at the Sprint. If you’ve written a blog post or posted a comment online, used an online forum, clicked around a website to find information, or used tags to search for content on a site, many of GitHub’s basic collaboration features will be familiar. 
 
-To prepare for the Sprint, Project leads use GitHub to set up a collection of project files (called a repository), create project documentation in the repository, and create “issues” or chunks of work that participants can help with-- our Project Lead Guide includes GitHub tutorials, tips, and templates. Participants use GitHub learn about projects, see what tasks they might take on, and discuss and share work. See the Participant Guide for tutorials and tips. 
+To prepare for the Sprint, project leads use GitHub to set up a collection of project files (called a repository), create project documentation in the repository, and create “issues” or chunks of work that participants can help with. Our [Project Lead Guide](https://mozilla.github.io/global-sprint/project-lead-guide/) includes GitHub tutorials, tips, and templates. Participants use GitHub learn about projects, see what tasks they might take on, and discuss and share work. See the [Participant Guide](https://mozilla.github.io/global-sprint/participants-guide/) for tutorials and tips. 
 
 ### Etherpad
 Etherpad at the Sprint, a web-based text editor for note-taking and collaboration. We use etherpad during our video calls, to keep track of the schedule, and share notes and comments on project updates. 
@@ -19,7 +19,7 @@ Participants add their name and pick a color at top right-- when they type comme
 Feel free to jump into the conversation below and add comments/notes wherever you want or ask questions to other participants. You can also add a +1 next to someone else's comment to show that you "like" it. You don’t need to sign in to use Etherpad-- just type in your name at right and start commenting! 
 
 ### Gitter Chat
-Gitter Chat is a chat client.  You can join the Global Sprint channel here, signing in with a  GitHub account or Twitter ID.  It works much like other chat clients. In the run-up to the sprint, you can ask all your site, project, and participant questions here.  Pop in and introduce yourself-- you can use it to chat with others about your plans for the sprint, and get advice from veteran sprinters. During the sprint, we use Gitter Chat for site and project updates, comments, questions, requests for help on issues, and of course to share Sprint-related cat photos! 
+Gitter Chat is an application for chatting online.  You can join the Global Sprint channel here, signing in with a  GitHub account or Twitter ID.  In the run-up to the sprint, you can ask all your site, project, and participant questions here.  Pop in and introduce yourself-- you can use it to chat with others about your plans for the sprint, and get advice from veteran sprinters. During the sprint, we use Gitter Chat for site and project updates, comments, questions, requests for help on issues, and of course to share Sprint-related cat photos! 
 
 ![gitter chat](global-sprint/img/gitter.png) 
 
