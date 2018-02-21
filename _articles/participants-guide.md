@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Participants' Guide
+title: Participant Guide
 following:  _articles/participants/find-a-project.md
 contents:
   - _articles/participants/find-a-project.md
