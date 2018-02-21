@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Open" at the Global Sprint
+title: Open & the Global Sprint
 ---
 
 **The Global Sprint itself-- and all the projects we'll sprint on at the event-- are open projects.** That means these project are designed especially  for: 
