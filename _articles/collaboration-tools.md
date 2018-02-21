@@ -3,7 +3,7 @@ layout: page
 title: Collaboration Tools for the Sprint
 ---
 
-**The Global Sprint is a great opportunity to try out collaboration tools and techniques, and experiment with working open best practices.** These are some of the tried and true tools that Mozilla uses for the Global Sprint, and in our day-to-day work in the organization.
+**The Global Sprint is a great opportunity to try collaboration tools and techniques, and experiment with working open.** These are some of the tried and true tools that we suggest for the Global Sprint, and that Mozilla uses in our day-to-day work in the organization.
 
 ### GitHub
 GitHub is an online platform for collaborative work. At the Sprint, participants and project leads use GitHub to share and discuss project plans and materials, assign work, and make changes to code or content. Software projects may use GitHub’s full version control functionality at the Sprint to accept code changes, while projects that aren’t code-heavy may just use GitHub to list, discuss and assign tasks. Project work can happen elsewhere-- in word processing or design apps, in code editors, or on regular old paper.  
@@ -17,14 +17,14 @@ Etherpad at the Sprint, a web-based text editor for note-taking and collaboratio
 
 Participants add their name and pick a color at top right-- when they type comments in the main pad window or the chat at right, text they type will be marked with that color.  
  
-![etherpad image](global-sprint/img/etherpad.png) 
+![etherpad image](../../img/etherpad.png) 
  
 Feel free to jump into the conversation below and add comments/notes wherever you want or ask questions to other participants. You can also add a +1 next to someone else's comment to show that you "like" it. You don’t need to sign in to use Etherpad-- just type in your name at right and start commenting! 
 
 ### Gitter Chat
 Gitter Chat is an application for chatting online.  You can join the Global Sprint channel here, signing in with a  GitHub account or Twitter ID.  In the run-up to the sprint, you can ask all your site, project, and participant questions here.  Pop in and introduce yourself-- you can use it to chat with others about your plans for the sprint, and get advice from veteran sprinters. During the sprint, we use Gitter Chat for site and project updates, comments, questions, requests for help on issues, and of course to share Sprint-related cat photos! 
 
-![gitter chat](global-sprint/img/gitter.png) 
+![gitter chat](../../img/gitter.png) 
 
 ### Vidyo
 Finally, we use the video conferencing software Vidyo during the sprint. We have “demo” or demonstration calls scheduled throughout the Sprint-- you can join to hear and see what other sites and Sprinters are doing. It’s a great way to learn about the full range projects in the Sprint, and connect with virtually at the event. Instructions for using Vidyo are here https://public.etherpad-mozilla.org/p/globalsprint-webconferencing
