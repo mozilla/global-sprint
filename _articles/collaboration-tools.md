@@ -3,7 +3,7 @@ layout: page
 title: Collaboration Tools for the Sprint
 ---
 
-**The Global Sprint is a great opportunity to try collaboration tools and techniques, and experiment with working open.** These are some of the tried and true tools that we suggest for the Global Sprint, and that Mozilla uses in our day-to-day work in the organization.
+**The Global Sprint is a great opportunity to try collaboration tools and techniques, and experiment with working open.** These are some of the tried and true tools that we suggest for the Global Sprint, and that Mozilla uses in our day-to-day work. 
 
 ### GitHub
 GitHub is an online platform for collaborative work. At the Sprint, participants and project leads use GitHub to share and discuss project plans and materials, assign work, and make changes to code or content. Software projects may use GitHub’s full functionality to accept code changes, while projects that aren’t code-heavy may use GitHub simply to list, discuss and assign tasks. Project work can happen elsewhere-- in word processing or design apps, in code editors, or on regular old paper.  
