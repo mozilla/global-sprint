@@ -1,65 +1,38 @@
----
-layout: page
-title: Site Host Guide
-following:  _articles/site-hosts/checklist.md
-contents:
-  - _articles/site-hosts/checklist.md
----
+Welcome! We’re pleased you’re considering hosting a Sprint site.
+**Sprint sites are pop-up collaborative spaces; while lots of collaboration happens online, face-to-face interactions generate much of energy and excitement during the event. Hosting a site is an amazing opportunity to make new connections, build community, and have fun. [Click here to Register your site]().**
 
-**Site Hosts coordinate local, in-person work spaces where contributors come together to work, network, and hang out during the Global Sprint. As Site Host, you'll also help to promote the event within your local area.**
+As a site host you’ll
+* Identify and reserve a public space with internet access for May 10-11
+* Help publicize the sprint in your local community, with support from Mozilla
+* Be on-site during your opening hours throughout the Sprint, to welcome participants and help connect them with projects to work on
+* Ensure that the Sprint environment is friendly, safe, and productive for all participants
+* During the sprint, serve as point of contact to connect your Sprite site via video conference to our network of Sprint sites 
+* Help collect data about Sprint activity at your site (number of participants, etc)
 
-This is a great chance to meet new people and strengthen your existing community! Your site can be small -- welcoming just a handful of people -- or as large as you like. Before you register as a host, check to see if there's already a site in your local area. [Our site list is here](https://mozilla.github.io/global-sprint/register/).
+_Still not clear on what’s involved? Check out [this 2017 success story]() from Arliss, Site Host in Toronto.
 
-By registering for the Sprint, Site Hosts understand and agree that any data they provide will be handled according to [Mozilla's Privacy Policy](https://www.mozilla.org/en-US/privacy/).
+#### Space Requirements
+Your space should be a public,  community space– at a library, school or university, makerspace, community center, etc. Your space must have:
 
-### Register to host a site for the Global Sprint, in 4 easy steps!
+* good WiFi or some way of connecting to the Internet
+* tables and chairs where Sprinters can work
+* power outlets so those with laptop computers can plug in
+* designated computer with video screen for video conferencing (OPTIONAL/PREFERRED)
+* refreshments such snacks, coffee or tea, and water (OPTIONAL)
 
-1. **READ** the short sections below. If you'd like to know more about collaboration for the open web, we recommend this *optional*, 1-hour course, ["Open Leadership 101"](https://mozilla.teachable.com/p/open-leadership-101).
-2. **READ** and ensure you agree with [Mozilla's Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) for this event.
-3. **CHECK** to see if there's already a site in your local area, using [this list](https://mozilla.github.io/global-sprint/register/) Depending on the level of interest in your community, can join forces with any existing sites, or start your own.
-4. **REGISTER** your site! **UPDATED as of 25 May 2017:** Global Sprint Site registration is now closed.  Please [REGISTER to participate virtually](https://ti.to/Mozilla/global-sprint-virtual) or check our list of [open sites](https://mozilla.github.io/global-sprint/register/) to find one near you!
+The sprint is a 48 hour event, but we certainly don’t expect you to be open the entire time!
+You should be on-site the entire time your site is open-- usually this is from 9-5 local time, during both days of the Sprint. If you need to be open for different or limited hours, be sure to advertise your particular hours. 
 
-### Hosting a site at the Global Sprint
+#### Understanding the Sprint Experience
+If you’re a first-time sprinter who’d like to host a site, be sure you read and understand the [Participant Guide](). Part of your job as host is to help participants begin their Sprint experience-- get them up and running, introduce them to other sprinters, and answer any questions. The Guide will help you know what to expect and how to assist them.
 
-A Global Sprint site is a physical space where participants and project leads gather to work on the Sprint. A site needs good workspace for participants and an internet connnection -- preferably good, strong Wi-Fi. Your site can be for three people, or for 30 or more, it's up to you. **While the Sprint itself is a 48 hour event, we only expect you to be sprinting between 9am to 5pm local time. Ideally your site would be open from 9am-5pm on both days, but it's fine if your site can only be open on one full day, or in the afternoon or morning. Note your exact Site hours on your registration form**
+#### Publicizing Your Site 
+Once you register, the Global Sprint team will set up a page for you on the event platform Ti.to, and send you information on how to use that platform to register and communicate with Sprinters. It’s up to spread the word about your site-- let your community know, using the channels that work best where you are. You might advertise the event via email, social media, flyers, or announcements on listservs, forums, and online groups. Whatever works for you! Advertise early and often. 
 
-As site host, you're responsible for
-* welcoming people who come to work in-person
-* ensuring that your site is a safe and friendly working environment for all
-* helping to promote the Global Sprint to your commmunities and encourage local participation
-* serving as a point of contact for communicating (updates, progress) with the rest of the Sprint during the event
-* helping to collect data on activities at the site (# of partcipants and contributions)
+#### Global Sprint Swag
+We will provide swag (stickers) to the first 50 sites registered! Swag will be sent via post to you in the weeks before the Sprint. While we do our best to get swag to you, we cannot guarantee its arrival. We are at the mercy of the postal service, and international mail can be slow. You are welcome to print your own stickers, or create your own Global Sprint swag!
 
+#### Participation Guidelines
+As site host, you’re responsible for creating a welcoming, friendly, safe environment for everyone. Please read and be sure you agree with [Mozilla’s Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), and are willing to enforce them at your site. We’ll have online trainings on the Participation Guidelines as the event approaches-- check here for more info, or ask us in the Gitter Chat. Generally, you shold greet everyone who comes to your site, and take the time to find out a little bit about them-- their skills and interest. Try to introduce them to other Sprinters, and help them find projects (if they don't already have one). 
 
-### Frequently Asked Questions (for Site Hosts)
-
-
-**Q: What space can be a site? Can my house, living room, or garage be a site?**
-
-A: You are welcome to gather with your friends to Sprint in your home. Only sites in community spaces-- such as community centers, universities, libraries, labs, and of course Mozilla offices-- will be listed on our map and made available for registration.  Sites should also have comfortable capacity for your attendees and has good WiFi or an internet connection is appropriate!
-
-
-**Q: I want to host a site, but I don't have my own space. What kinds of spaces should I look for?**
-
-A: We recommend a relatively quiet space (busy coffee shops aren't the greatest). To bring on participants from a certain community (like a university) pick a site near or co-located with that community (a classroom or student center).  Libraries, community centers, hackerspaces-- all these make good sites. It's up to you as site host to define a space with the desired vibe and accommodations for your attendees. We can provide a letter of affiliation with Mozilla if you need it to secure a free site.
-
-**Q: What kind of resources are available to support my site?**
-
-A: We'll send swag packs to the first 50 sites to register that provide a mailing address, including stickers, nametags, and small posters. We also will provide digital files if you'd like to print out some of these materials on site.
-
-**Q: How does my site and the work we are doing connect to the rest of the Sprint?**
-
-A: Each site is a home base for local community members to collaborate in-person during the sprint. Each site is also linked to other sites in the region. We'll have daily video conference check-ins for sites in the same time zone so you can meet other participants and hear about project work underway.
-
-**Q: What do I need to provide to be a successful site?
-
-A: Each site should have working WiFi or Internet connection, chairs and tables to support 10-20 participants comfortably (more if desired). That's it!
-
-**Q: Should I provide food or drinks?**
-
-Providing snacks or coffee is not required, but is appreciated by participants. If the site is at a local company or university, sometimes that institution will donate refreshments for medium-sized events. We recommend looking into donation options from local businesses, and having coffee on hand to support and energize attendees.
-
-
-**Q: What are ways I can promote my site? How can I get more people beyond those I already know (or those involved in my project) to come to my site?**
-
-A: We recommend sharing info about your site on social media networks (Twitter, Facebook). Send out emails to colleagues, friends, and any lists you’re on. You can also make posters and distribute postcards using easy-to-edit templates that will be emailed to you in advance. To get the most participants, start advertising early! Get the word out well in advance of the event so people have time to learn about it and make plans to attend.
+As site host, you’ll get periodic emails from the Global Sprint team with instructions and reminders about the event. Keep an eye out for these messages, and a handy Site Hosting Schedule, coming soon!
