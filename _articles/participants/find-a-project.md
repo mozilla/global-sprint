@@ -4,7 +4,7 @@ title: Finding Projects
 ---
 To get started, find a project! There’s a “featured” project list on Mozilla Pulse. Featured projects have gone the extra mile to be contributor-friendly, so this is a great place to start. So, for example, if you want to work on the “Teen Driven inquiry and working in the open” project, click  on the blue bar “VISIT” bar in Pulse to go to the project-specific info, on a website or gitHub repository.
 
-![pulse listing](http://github.com/mozilla/global-sprint/img/pulse-listing.png)
+![pulse listing](../../img/repo-readme2.png )
 
 
 As you click through from a pulse listing to project sites, you may get your first glimpse of the code/content sharing and collaboration tool GitHub. GitHub may not be pretty, but it’s easy to use-- if you’ve ever clicked around on a website and left comments on a blog post or youtube video, you can use GitHub for the Sprint. 
