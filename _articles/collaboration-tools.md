@@ -5,7 +5,7 @@ title: Collaboration Tools for the Sprint
 ### GitHub
 GitHub is an online platform for collaborative work. At the Sprint, participants and project leads use GitHub to share and discuss project plans and materials, assign work, and make changes to code or content. Software projects may use GitHub’s full version control functionality at the Sprint to accept code changes, while projects that aren’t code-heavy may just use GitHub to list, discuss and assign tasks. Project work can happen elsewhere-- in word processing or design apps, in code editors, or on regular old paper.  
 
-You DON’T need to be an expert in GitHub to participate or lead a project at the Sprint. If you’ve written a blog post or posted a comment online, used an online forum, clicked around a website to find information, or used tags to search for content on a site, many of GitHub’s basic collaboration features will be familiar.. 
+You DON’T need to be an expert in GitHub to participate or lead a project at the Sprint. If you’ve written a blog post or posted a comment online, used an online forum, clicked around a website to find information, or used tags to search for content on a site, many of GitHub’s basic collaboration features will be familiar. 
 
 To prepare for the Sprint, Project leads use GitHub to set up a collection of project files (called a repository), create project documentation in the repository, and create “issues” or chunks of work that participants can help with-- our Project Lead Guide includes GitHub tutorials, tips, and templates. Participants use GitHub learn about projects, see what tasks they might take on, and discuss and share work. See the Participant Guide for tutorials and tips. 
 
