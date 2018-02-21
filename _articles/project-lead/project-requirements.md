@@ -3,44 +3,55 @@ layout: page
 title: "Project Requirements"
 following: _articles/project-lead/templates.md
 ---
-Every Global Sprint project should be ready to encourage and accept contributions from a group of diverse, skilled and passionate people from around Mozilla’s Network.
 
-### REGISTERED Project Requirements
-When you fill out a project application form, you'll receive a response with a link to a GitHub issue (which is a page that will represent your project on the Global Sprint site). This is where you'll start documenting your project for the Sprint. The issue will contain a template for you to fill out with project information-- name, description... some very simple things! To complete your registration, you will also need:
+### Minimum Project Requirements
+Every Global Sprint project should be ready to encourage and accept contributions from a group of diverse participants. To do so your project needs at minimum:
 
-1. A **GitHub repository for your project.**
-GitHub is an online, easy-to-use online platform for collaborative work and managing changes to code and content. **A repository is your collection of project files (code,content) on GitHub.** You DON'T need to be an expert in GitHub (or the version control software Git that powers it) to set up a repository, add project documentation, and create "issues" or chunks of work that participants can help with. If you are new to GitHub, refer to the tutorials below.
+* a GitHub repository to host project information, including good documentation
+* a license indicating how users can reuse, remix and share project materials, like code and content
+* a README file
+* an active Issues Tracker
+* Registration in the Sprint
 
-* The first part of [this tutorial](https://www.youtube.com/watch?time_continue=4&v=N4Bl54_Xxis) shows how to register for a GitHub account. The rest of the tutorial shows how participants will use GitHub to interact with you and your project!
-* This tutorial explains [how to create a project repository unsing our templates.](https://mozilla.github.io/global-sprint/project-lead/templates/) 
-* [Here is a set of complete lessons on using GitHub](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/introducing-github-for-collaborative-work-and-version-control/)-- these are NOT required, only useful if you plan to use GitHub to work on files with your collaborators. If you plan to use Google Docs or Etherpad, you won't need to know this!
+If you’re not familiar with GitHub or some of these items, that’s OK! Instructions and explanations are below. Click here for the [Registration form]().  
 
-2. **README FILE**  
-The README is your go-to project documentation file on your project Repository. The README explains what the project is, why the work is important, and how work currently underway supports the project goals. Your README should be written to be understandable to newcomers who might not be experts in your field or programming language, but still want to pitch in! If you're not sure where to start with your README, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), part of our Open Leadership Training Series.
+#### Create a GitHub account and a project repository. 
+The following tutorials should help:
+* This [intro tutorial]() showing how participants use GitHub at the Sprint will come in handy if you’re new to the platform
+* This [template tutorial]() shows how to create a project repository using our readymade templates.
+* Optional! If you’d like to do more with GitHub for collaboration, take a look at [this set of more in-depth lessons](). 
 
-3. **LICENSE**  
-A license indicates to the world how exactly your project is open-- how the code, content, curriculum, or design of an event can be used, distributed, reused, and remixed by others. If you need more info about choosing a license [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/).
+#### Write a README file
+The README is the go-to project documentation file on your repo. This file explains what the project is, why the work is important, and how work currently underway supports the project goals. Your README should be written to be understandable to newcomers who might not be experts in your field or programming language, but still want to pitch in! If you’re not sure what to write in your README, [refer to this lesson]().
 
-4. **ISSUES TRACKER**  
-The issue tracker is a GitHub feature that allows you to describe tasks or chunks of work known as "issues". Others can comment on an issue to discuss the work. You can assign an issue to a contributor, add tags to add extra information or categories to the work (like "new feature", "help wanted", or "good first bug") and you can link milestone info to an issue to help prioritze work. "Open" issues are work that needs to be done or is underway. "Closed" issues are work that's completed. [This tutorial explains how to use the Issues tracker on GitHub]() to manage contributions. Coming soon!
+#### Choose a License
+A license indicates to the world how exactly your project is open– how it’s code, content, curriculum, or design can be used, distributed, reused, and remixed by others. If you need more info about choosing a license [refer to this lesson]().
 
-That's all you need to be REGISTERED for the Sprint! **Good project documentation**, however, enables contributors to understand project aims and start collaborating quickly and easily right away. To become a FEATURED project highlighted on our Projects Page, complete the list of documents below. If you're new to working open, we've inculded helpful info about each document and why it's important to your project's success at the Sprint.
+Turn on your Issues Tracker
+The issue tracker is a GitHub feature that allows you to describe tasks or chunks work (“issues”). Others can comment on an issue to discuss the work. You can assign an issue to a contributor, add tags to add extra information or categories to the work (like “new feature”, “help wanted”, or “good first bug”). “Open” issues are work that needs to be done or is underway. “Closed” issues are work that’s completed. To turn on issues in your Repository, go to the “Settings” tab and check the box that says “Issues.”
+ 
+#### Register your project
+When you fill out the Project Registration form, we’ll automatically generate an GitHub issue for you to fill out in the Global Sprint repository (The issues tab in the main repo serves as an index to all the projects in the Sprint.)
 
-### FEATURED Project Requirements
-1. **Contributor Guidelines**  
-These Guidelines tell potential contributors exactly HOW they can help-- from the format and style for any contributions to  the steps required for submission and approval. Without this document, contributors won't know how to help out, so Contributor Guidelines are **very, very important.** For more info on how to write our own Guidelines [check out this lesson](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/).
+The issue is a template for you to fill out with project information– name, description, link to your project repo… if you've done the above, you've already got it all. And that's it-- you’re good to Sprint!
 
-2. **Code of Conduct/Participation Guidelines**  
-This document outlines shared values and norms that contributors agree to when they join a  project community. Good Codes of Conduct (CoC) should highlight positive community behaviors like cooperation and honesty, as well as describing the negative behaviors that are not permitted, like harrassment or descrimination. A good CoC encourages contribution by letting contributors know they'll be treated respectfully. For an example, look at Mozilla's Participation Guidelines (and feel free to reuse and remix it for your project). If you need help writing your own CoC, [refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/).
+_We strongly recommend that all projects complete some extra documentation that makes it extra easy for participants to dive in and start working right away! To encourage you to do so (and to highlight projects that are the most contributor-ready), we’re featuring projects with this extra documentation on Mozilla Pulse. Read on for Featured Project requirements._
 
+### Featured Project Requirements
+#### Contributor Guidelines
+This file tells potential contributors exactly HOW they can help– from the format and style for any contributions to the steps required for submission and approval. Without this document, contributors won’t know the specifics of how to help out, so Contributor Guidelines are very important. For more info on how to write [Contributor Guidelines]() check out this lesson.
 
-### EXTRA CREDIT: Supercharge your Sprint project!
+#### Code of Conduct/Participation Guidelines
+This document outlines shared values and norms that contributors agree to when they join a project community. Good Codes of Conduct (CoC) should highlight positive community behaviors like cooperation and honesty, as well as describing the negative behaviors that are not permitted, like harassment or discrimination. A good CoC encourages contribution by letting contributors know they’ll be treated respectfully. For an example, look at [Mozilla’s Participation Guidelines]() (and feel free to reuse and remix it for your project). If you need help [writing your own CoC, refer to this lesson]().
 
-These items are above and beyond what's required to be a FEATURED project. Do these exercises to maximize your Open Leadership skills.
+### EXTRA CREDIT
+These items are above and beyond what’s required to be a FEATURED project. Do these exercises to supercharge your project and maximize your Open Leadership skills.
 
-1. Vision Statement  
-By coming up with a super short, clear statement about what you're doing and why, you can become a better communicator and increase interest and contributor involvement with your open project. This [quick exercise](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) helps you create a polished statmement.
-2. Open Canvas  
-Open Canvas is a one-page planning tool designed specifically for open projects, modeled on a business plan format used in the start-up world. Creating an Open Canvas can help you think strategically about your project. Our [Open Canvas lesson is here](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/).
-3. Personas Exercise  
-A persona is a profile of a potential contributor or user which you can use to design a welcoming and easy process for partcipation on your open project. Personas are a great tool to help you understand your community and grow it to sustain your project. [Our exercise on personas is here.](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/)
+#### Vision Statement
+Come up with a super short, clear statement about what you’re doing and why. Having a clear, compelling vision can increase interest and involvement with your open project. This [quick exercise helps you create a polished statement]().
+
+#### Open Canvas
+Open Canvas is a one-page planning tool designed specifically for open projects, modeled on a business plan format used in the start up world. Creating an Open Canvas can help you think strategically about your project. Our [Open Canvas lesson]() is here.
+
+#### Personas Exercise
+A persona is a profile of a potential contributor or user which you can use to design a welcoming and easy process for participation on your open project. Personas are a great tool to help you understand your and grow community to sustain your project. Our [exercise on personas]() is here.
