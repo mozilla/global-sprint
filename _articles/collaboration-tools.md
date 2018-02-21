@@ -14,7 +14,7 @@ GitHub is an online platform for collaborative work. At the Sprint, participants
 
 **You DON’T need to be an expert in GitHub to participate or lead a project at the Sprint. If you’ve written a blog post or posted a comment online, used an online forum, clicked around a website to find information, or used tags to search for content on a site, many of GitHub’s basic collaboration features will be familiar.** !
 
-[github convo](../img/ghconvo.png)
+![github convo](../img/ghconvo.png)
 
 ###### a conversation in GitHub issues at the 2017 sprint
 
