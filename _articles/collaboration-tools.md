@@ -15,11 +15,11 @@ To prepare for the Sprint, project leads use GitHub to set up a collection of pr
 ### Etherpad
 Etherpad at the Sprint, a web-based text editor for note-taking and collaboration. We use etherpad during our video calls, to keep track of the schedule, and share notes and comments on project updates. 
 
-Participants add their name and pick a color at top right-- when they type comments in the main pad window or the chat at right, text they type will be marked with that color.  
+Participants add their name and pick a color at top right-- when they type comments in the main pad window or the chat window at right, text they type will be marked with thier signature color.  
  
 ![etherpad image](../img/etherpad.png) 
  
-Feel free to jump into the conversation below and add comments/notes wherever you want or ask questions to other participants. You can also add a +1 next to someone else's comment to show that you "like" it. You don’t need to sign in to use Etherpad-- just type in your name at right and start commenting! 
+Feel free to jump into any etherpad conversation and add comments/notes wherever you want, or ask questions of other participants. You can also add a +1 next to someone else's comment to show that you "like" it. You don’t need to sign in to use Etherpad-- just type in your name at right and start commenting! 
 
 ### Gitter Chat
 Gitter Chat is an application for chatting online.  You can join the Global Sprint channel here, signing in with a  GitHub account or Twitter ID.  In the run-up to the sprint, you can ask all your site, project, and participant questions here.  Pop in and introduce yourself-- you can use it to chat with others about your plans for the sprint, and get advice from veteran sprinters. During the sprint, we use Gitter Chat for site and project updates, comments, questions, requests for help on issues, and of course to share Sprint-related cat photos! 
