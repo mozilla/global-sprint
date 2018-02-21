@@ -3,12 +3,18 @@ layout: page
 title: Collaboration Tools for the Sprint
 ---
 
-**The Global Sprint is a great opportunity to experiment with collaboration tools and techniques, and with working open.** These are some of the tried and true tools that we suggest you use for the Global Sprint-- tools that Mozilla staff use in our day-to-day work. 
+**The Global Sprint is a great opportunity to experiment with collaboration tools and techniques, and with working open.** These are some of the tried and true tools that we suggest you use for the Global Sprint-- tools that Mozilla staff use in our day-to-day work.
+
+ ![github stickers](../img/ghstickers.png)
+ _image by othree
 
 ### GitHub
 GitHub is an online platform for collaborative work. At the Sprint, participants and project leads use GitHub to share and discuss project plans and materials, assign work, and make changes to code or content. Software projects may use GitHub’s full functionality to accept code changes, while projects that aren’t code-heavy may use GitHub simply to list, discuss and assign tasks. Project work can happen elsewhere-- in word processing or design apps, in code editors, or on regular old paper.  
 
 **You DON’T need to be an expert in GitHub to participate or lead a project at the Sprint. If you’ve written a blog post or posted a comment online, used an online forum, clicked around a website to find information, or used tags to search for content on a site, many of GitHub’s basic collaboration features will be familiar.**
+
+![github convo](../img/githubconvo.png)
+_a conversation on GitHub issues at the 2017 sprint
 
 To prepare for the Sprint, project leads use GitHub to set up a collection of project files (called a repository), create project documentation in the repository, and create “issues” or chunks of work that participants can help with. Our [Project Lead Guide](https://mozilla.github.io/global-sprint/project-lead-guide/) includes GitHub tutorials, tips, and templates. Participants use GitHub learn about projects, see what tasks they might take on, and discuss and share work. See the [Participant Guide](https://mozilla.github.io/global-sprint/participants-guide/) for tutorials and tips. 
 
