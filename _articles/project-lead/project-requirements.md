@@ -42,7 +42,7 @@ This file tells potential contributors exactly HOW they can help– from the for
 #### Code of Conduct/Participation Guidelines
 This document outlines shared values and norms that contributors agree to when they join a project community. Good Codes of Conduct (CoC) should highlight positive community behaviors like cooperation and honesty, as well as describing the negative behaviors that are not permitted, like harassment or discrimination. A good CoC encourages contribution by letting contributors know they’ll be treated respectfully. For an example, look at [Mozilla’s Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) (and feel free to reuse and remix it for your project). If you need help [writing your own CoC, refer to this lesson](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/).
 
-### Extra Credit
+### Extra Credit 
 These items are above and beyond what’s required to be a FEATURED project. Do these exercises to supercharge your project and maximize your Open Leadership skills.
 
 #### Vision Statement
