@@ -7,7 +7,9 @@ contents:
   - _articles/project-lead/templates.md
 ---
 
-Project leads have a pivotal role in the Global Sprint. Your creativity and your ability to connect and inspire participants draws new ideas and collaborative energy to the event-- and your project! As a Project Lead, you should have a basic understanding of open practices, specifically: 
+**Project leads have a pivotal role in the Global Sprint. Your creativity and your ability to connect and inspire participants draws new ideas and collaborative energy to the event-- and your project! [Register your project here!](https://goo.gl/forms/AcPeWqeHzcfFEbEh2)** 
+
+As a Project Lead, you should have a basic understanding of open practices, specifically: 
 
 * designing and documenting your project so it’s easy for anyone to understand
 * inviting and encouraging participants, welcoming many diverse viewpoints and skill sets
