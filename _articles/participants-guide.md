@@ -32,7 +32,7 @@ You’re not required to attend both full days of the Sprint-- though you’re w
 
 Whether you work from home or at a site, you’ll use free online collaboration tools like online chat, video conferencing, and GitHub. If you’re new to these tools, don’t worry! There is information about these tools in the section “Collaboration Tools.”
 
-_Still not clear on what’s involved? Check out this 2017 success story from Geraldo, participant and site host in Brazil.
+_Still not clear on what’s involved? Check out this [2017 success story from Geraldo](https://medium.com/read-write-participate/geraldo-participant-and-site-host-a-global-sprint-2017-story-8b35844f2d64), participant and site host in Brazil.
 
 
 
