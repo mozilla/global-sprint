@@ -36,4 +36,4 @@ Gitter Chat is an application for chatting online.  You can join the Global Spri
 ![gitter chat](../img/gitter.png) 
 
 ### Vidyo
-Finally, we use the video conferencing software Vidyo during the sprint. We have “demo” or demonstration calls scheduled throughout the Sprint-- you can join to hear what other sites and Sprinters are working on. It’s a great way to learn about the full range projects in the Sprint, and connect with Sprinters around the world. Instructions for using Vidyo are here https://public.etherpad-mozilla.org/p/globalsprint-webconferencing
+Finally, we use the video conferencing software Vidyo during the sprint. We have “demo” or demonstration calls scheduled throughout the Sprint-- you can join to hear what other sites and Sprinters are working on. It’s a great way to learn about the full range projects in the Sprint, and connect with Sprinters around the world. [Instructions for using Vidyo are here]( https://public.etherpad-mozilla.org/p/globalsprint-webconferencing)
