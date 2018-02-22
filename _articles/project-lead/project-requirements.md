@@ -13,7 +13,7 @@ Every Global Sprint project should be ready to encourage and accept contribution
 * an active Issues Tracker
 * Registration in the Sprint
 
-If you’re not familiar with GitHub or some of these items, that’s OK! Instructions and explanations are below. Click here for the [Registration form](https://goo.gl/forms/AcPeWqeHzcfFEbEh2 ).  
+If you’re not familiar with GitHub or some of these items, that’s OK!
 
 #### Create a GitHub account and a project repository. 
 The following tutorials should help:
