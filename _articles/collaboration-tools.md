@@ -3,7 +3,7 @@ layout: page
 title: Collaboration Tools for the Sprint
 ---
 
-**The Global Sprint is a great opportunity to experiment with collaboration tools and techniques.** These are some of the tried and true tools that we suggest you use for the Global Sprint-- tools that Mozilla staff use in our day-to-day work. 
+**The Global Sprint is a great opportunity to experiment with online collaboration tools and techniques.** These are the tried and true tools we use to work togther at the Global Sprint-- tools that Mozilla staff use in our day-to-day work. 
 
 
 ![github stickers](../img/ghstickers.jpg)
