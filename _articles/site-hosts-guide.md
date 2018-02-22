@@ -15,7 +15,7 @@ As a site host you’ll
 * During the sprint, serve as point of contact to connect your Sprite site via video conference to our network of Sprint sites 
 * Help collect data about Sprint activity at your site (number of participants, etc)
 
-Still not clear on what’s involved? Check out [this 2017 success story](https://medium.com/read-write-participate/arliss-site-host-a-global-sprint-2017-story-2017-902d8da23afd) from Arliss, site host in Canada.
+Want to know more about what it's like to host? Check out [this 2017 success story](https://medium.com/read-write-participate/arliss-site-host-a-global-sprint-2017-story-2017-902d8da23afd) from Arliss, site host in Canada.
 
 #### Space Requirements
 Your space should be a public,  community space– at a library, school or university, makerspace, community center, etc. Your space must have:
