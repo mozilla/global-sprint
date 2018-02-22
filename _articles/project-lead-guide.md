@@ -22,6 +22,6 @@ In addition to a willingness to work openly, project leads must:
 * be available from 9-5 in their local time on the days of the Sprint to coordinate project work, answer questions, and approve contributions
 * be a welcoming, enthusiastic, and patient project leader
 
-_Still not clear on what's involved in leading a project? Check out this [2017 success story from Sam and Daniela, Project Leads in the USA.](https://medium.com/read-write-participate/daniela-and-sam-project-co-leads-a-global-sprint-2017-story-5f1fcfafb5a5)
+Want to know more about what it's like to lead a project? Check out this [2017 success story from Sam and Daniela, Project Leads in the USA.](https://medium.com/read-write-participate/daniela-and-sam-project-co-leads-a-global-sprint-2017-story-5f1fcfafb5a5)
 
 To learn how to successfully prepare and register your project for the Sprint, continue to the next section, Project Requirements.
