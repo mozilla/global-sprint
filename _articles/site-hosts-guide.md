@@ -5,7 +5,7 @@ title: Site Host Guide
 
 Welcome! We’re pleased you’re considering hosting a Sprint site.
 
-**Sprint sites are pop-up collaborative spaces; while lots of collaboration happens online, face-to-face interactions generate much of energy and excitement during the event. Hosting a site is an amazing opportunity to make new connections, build community, and have fun. [Click here to Register your site]().**
+**Sprint sites are pop-up collaborative spaces; while lots of collaboration happens online, face-to-face interactions generate much of energy and excitement during the event. Hosting a site is an amazing opportunity to make new connections, build community, and have fun. [Click here to Register your site](https://goo.gl/forms/ZKvdsy97PRCMmISv2).**
 
 As a site host you’ll
 * Identify and reserve a public space with internet access for May 10-11
@@ -15,7 +15,7 @@ As a site host you’ll
 * During the sprint, serve as point of contact to connect your Sprite site via video conference to our network of Sprint sites 
 * Help collect data about Sprint activity at your site (number of participants, etc)
 
-_Still not clear on what’s involved? Check out [this 2017 success story]() from Arliss, Site Host in Toronto.
+_Still not clear on what’s involved? Check out [this 2017 success story]() from Arliss, site host in Toronto.
 
 #### Space Requirements
 Your space should be a public,  community space– at a library, school or university, makerspace, community center, etc. Your space must have:
