@@ -22,7 +22,7 @@ function SendGoogleForm(e)
   try
   {
     // You may also replace this with another email address
-    var email = "abby@mozillafoundation.org"; //Session.getActiveUser().getEmail();
+    var email = Session.getActiveUser().getEmail();
 
 
     var s = SpreadsheetApp.getActiveSheet();
@@ -48,10 +48,18 @@ function SendGoogleForm(e)
     var row = e.range.getRow();
 
 
-    var subject = "site registration " + site;
-    var message = "Dear " + name + ",";
+    var subject = "Global Sprint Site Registration - " + site;
+    var message = "<p>" + name + ",</p>";
 
-    message += "\nSite: " + site + "\nTime Zone: " + timezone;
+    message +="<p>Thank you for offering to host a site at the Global Sprint!</p>";
+
+    message +="<p>We'll be in touch soon-- we're busy setting up your site up on the event management platform Ti.to so you can announce your event and register participants. We'll contact you via email as soon as this is ready, but it may take 1-3 business days, so please be patient! In the meantime, check out our <a href='https://mozilla.github.io/global-sprint/site-hosts/'>Guide for Site Hosts</a>.</p>";
+
+    message += "<p>Still got questions? Email us at globalsprint@mozillafoundation.org. We're here to help :)</p>";
+
+    message += "<p>See you at the Sprint,<br />Zannah & the 2018 Global Sprint Team</p>";
+
+
 
 
     // This is the MailApp service of Google Apps Script
@@ -60,8 +68,8 @@ function SendGoogleForm(e)
     MailApp.sendEmail({
      to: reply,
      subject: subject,
-     htmlBody: message
-     // ADD cc:globalsprint@mofo!!
+     htmlBody: message,
+     cc: "globalsprint@mozillafoundation.org"
     });
 
   } catch (e) {

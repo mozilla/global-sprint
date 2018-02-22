@@ -101,8 +101,8 @@ function SendGoogleForm(e)
 
   } catch (e) {
     Logger.log(e.toString());
-          MailApp.sendEmail('abby@mozillafoundation.org',
-                    'error in mozsprint 2018 proposal migration',
+          MailApp.sendEmail('globalsprint@mozillafoundation.org',
+                    'error in mozsprint 2018 project email script. Check the spreadsheet!',
                     e);
   }
 
