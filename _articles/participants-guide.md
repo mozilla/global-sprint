@@ -8,7 +8,7 @@ contents:
   - _articles/participants/share-your-story.md
 ---
 
-Welcome! We’re excited you’re participating in Mozilla’s Global Sprint. This guide explains how to find a Sprint project and collaborate at the event. If you haven't yet registered, please do so here. 
+Welcome! We’re excited you’re participating in Mozilla’s Global Sprint. This guide explains how to find a Sprint project and collaborate at the event. If you haven't yet registered, [click here](https://ti.to/Mozilla/global-sprint-updates)! 
 
 ### About Sprint Participation
 Participants are volunteers who offer their time and expertise to projects at the Global Sprint. As a participant, your contributions are central to the Sprint-- they can supercharge projects with new energy and ideas, and move work forward by leaps and bounds!
