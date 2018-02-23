@@ -20,11 +20,10 @@
 }
 
 .hero-unit {
-  text-align: center;
-  padding: 4em 1em 3em;
-  background-image: url("/global-sprint/img/hero.jpg");
+  background-image: url("/global-sprint/img/GlobalSprint-Banner.jpg");
   background-size: cover;
-
+  width: 100%;
+  padding-bottom: 28%;
 }
 
 .hero-unit h1 {
@@ -249,7 +248,7 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-header .moz-logo {
-  width:100px;
+  width:120px;
 }
 
 .sidebar-header span {
@@ -655,9 +654,6 @@ a.btn:hover {
   }
   .lesson-content {
     padding: 2rem 3.5rem;
-  }
-  .hero-unit h1 {
-/*    font-size: 4.5rem;*/
   }
 }
 
