@@ -38,7 +38,7 @@ The space must have ...
 * Email participants through Ti.to with directions to the location and any additional logistics requirements. *When you registered your site, you should have received a Ti.to log-in with instructions for managing your event. If you don't have this, let us know via the [Global Sprint Gitter Chat.](https://gitter.im/mozilla/global-sprint-2017)*
 * If you do not have computers in the space, remember to encourage participants to bring their own laptops (if available) 
 * Test Vidyo Conferencing using the [schedule here.](https://public.etherpad-mozilla.org/p/globalsprint-AV-testing-schedule)
-* Post, tweet, and/or blog about the event about the event! (include registration link for your site registration page if you still have spaces available). Again, you can use our pre-written posts. 
+* Post, tweet, and/or blog about the event! (include registration link for your site registration page if you still have spaces available). Again, you can use our pre-written posts. 
 * Send a last round of email invitations and reminders
 
 
