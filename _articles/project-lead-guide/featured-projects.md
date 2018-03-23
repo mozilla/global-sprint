@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Featured Projects"
+following: _articles/project-lead-guide/templates.md
+---
+
+
 ### Featured Projects on Pulse
 [Mozilla](https://www.mozillapulse.org/featured) Pulse is a listing of lots of cool projects, news, events and people from around the movement for a healthy internet. 
 
