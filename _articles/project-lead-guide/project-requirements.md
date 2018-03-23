@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project Requirements"
-following: _articles/project-lead-guide/featured-projects.md
+following: _articles/project-lead-guide/templates.md
 ---
 
 ### Minimum Project Requirements
@@ -36,7 +36,7 @@ When you fill out the **[Project Registration form](https://goo.gl/forms/cH9pQif
 _We strongly recommend that all projects complete some extra documentation that makes it extra easy for participants to dive in and start working right away! To encourage you to do so (and to highlight projects that are the most contributor-ready), we’re featuring projects with this extra documentation on Mozilla Pulse. Read on for Featured Project requirements._
 
 ### Featured Project Requirements
-Featured projects are added to Mozilla Pulse, where more contributors can find them. We require featured projects to do a bit more to become open and friendly to newcomers-- so both featured projects and new contributors have a prodctive and satisfying Sprint. A list of the additonal requirements for featured projects are below. For more on the steps for submitting to Mozilla Pulse, see the next section. 
+Featured projects are added to Mozilla Pulse, where more contributors can find them. We require featured projects to do a bit more to become open and friendly to newcomers-- so both featured projects and new contributors have a prodctive and satisfying Sprint. A list of the additonal requirements for featured projects are below. For more on the steps for submitting to Mozilla Pulse, see the next section.
 
 #### Contributor Guidelines
 This file tells potential contributors exactly HOW they can help– from the format and style for any contributions to the steps required for submission and approval. Without this document, contributors won’t know the specifics of how to help out, so Contributor Guidelines are very important. For more info on how to write [Contributor Guidelines](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/) check out this lesson.

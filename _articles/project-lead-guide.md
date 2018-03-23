@@ -5,6 +5,7 @@ following:  _articles/project-lead-guide/project-requirements.md
 contents:
   - _articles/project-lead-guide/project-requirements.md
   - _articles/project-lead-guide/templates.md
+  - _articles/project-lead-guide/featured-projects.md
 ---
 
 **Project leads have a pivotal role in the Global Sprint. Your creativity and your ability to connect and inspire participants draws new ideas and collaborative energy to the event-- and your project! [Register your project here!](https://goo.gl/forms/cH9pQifDvnnYlrd73)**
