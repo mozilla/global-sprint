@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Project Requirements"
-following: _articles/project-lead-guide/templates.md
+following: _articles/project-lead-guide/featured-projects.md
 ---
 
 ### Minimum Project Requirements
