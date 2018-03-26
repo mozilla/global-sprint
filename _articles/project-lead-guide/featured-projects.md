@@ -13,7 +13,7 @@ To be featured, you need to fill out the FEATURED PROJECT items in your project 
 
 The following information must be included in any Pulse listing-- ensure that this information is complete! Otherwise your submission may be rejected, and you'll have to re-submit. This is a highly visible listing on Mozilla's website(s), so be sure your spelling and grammar are correct-- no typos please! Keep your text concise and clear.
 
-Submission form: https://www.mozillapulse.org/add
+Submission form: [https://www.mozillapulse.org/add](https://www.mozillapulse.org/add)
 
 * **Title** Use the title of the project
 * **URL** If the project has a landing page, it goes here. Otherwise, link to the README in your project repo-- this will send curious potential contributors straight to the information they need about the project.
