@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Using the Templates"
-date: 2016-10-06 14:05:56
+following: _articles/project-lead-guide/featured-projects.md
 ---
 
 We've created a [set of templates](https://github.com/acabunoc/mozsprint-repo-template) to help you get started on your own GitHub project **repository**. You'll need to **fork** or clone the repository (or repo) to start using the templates. **A fork** is your own copy of a GitHub repository that you can edit and change however you like.  **A repository** is a collection of files and history of your project. GitHub helps people work together and collaborate around a project.
