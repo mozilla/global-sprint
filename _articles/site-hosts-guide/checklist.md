@@ -22,7 +22,7 @@ The space must have ...
 * Blog, post, and/or tweet about the event. Include the registration link for your site's registration page. We'll provide template posts for you to use-- stay tuned!
 * Send email invites to any list-servs you belong to, forward to campus or student groups, local meet-up groups. Also invite to specific people you think might be interested. [A template email for you to remix is here.](https://public.etherpad-mozilla.org/p/globalsprint-email-template)
 * Print signage or flyers:
-  * 2018 SIGNAGE COMING SOON!
+  * [Google Drive Link to Signage and Promtional Postcards](https://drive.google.com/drive/folders/1-iK24Mgm1UkfcdhGgQj5yZutwZEjh3SY?usp=sharing)
 * (OPTIONAL) If you are providing food, plan what you will bring, and where you will get it. 
 
 
