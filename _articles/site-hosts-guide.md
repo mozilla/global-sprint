@@ -42,6 +42,13 @@ Once you register, the Global Sprint team will set up a page for you on the even
 We will provide swag (stickers) to the first 75 sites registered! Swag will be sent via post to you in the weeks before the Sprint.  **We will not mail swag after April 10.** While we do our best to get swag to you, we cannot guarantee its arrival. We are at the mercy of the postal service, and international mail can be slow. You are welcome to print your own stickers, or create your own Global Sprint swag!
 
 #### Participation Guidelines
-As site host, you’re responsible for creating a welcoming, friendly, safe environment for everyone. Please read and be sure you agree with [Mozilla’s Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), and are willing to enforce them at your site. We’ll have **required online** trainings on the Participation Guidelines as the event approaches-- check here for more info, or ask us in the [Gitter Chat](https://gitter.im/mozilla/global-sprint). Generally, you should greet everyone who comes to your site, and take the time to find out a little bit about them-- their skills and interest. Try to introduce them to other Sprinters, and help them find projects (if they don't already have one).
+As site host, you’re responsible for creating a welcoming, friendly, safe environment for everyone. Please read and be sure you agree with [Mozilla’s Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), and are willing to enforce them at your site. Prior to hosting please watch one of the **required online** trainings on the Participation Guidelines. They are recorded, and viewable at the links below. You only need to view ONE of the trainings.  Sign into the etherpad and answer questions there  so we know you've completed this important requirement. 
+
+*  [CPG Call One](https://air.mozilla.org/2018-global-sprint-cpg-webinar-1-april-24th-2018/)
+*  [CPG Call Two](https://air.mozilla.org/2018-global-sprint-cpg-webinar-2-april-24th-2018/)
+
+**Please note, any participants under the age of 13 must be accompanied by a parent or guardian.**
+
+Generally, you should greet everyone who comes to your site, and take the time to find out a little bit about them-- their skills and interest. Try to introduce them to other Sprinters, and help them find projects (if they don't already have one).
 
 As site host, you’ll get periodic emails from the Global Sprint team with instructions and reminders about the event. Keep an eye out for these messages, and a handy Site Hosting Schedule, coming soon!
