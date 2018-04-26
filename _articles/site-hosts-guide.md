@@ -44,8 +44,8 @@ We will provide swag (stickers) to the first 75 sites registered! Swag will be s
 #### Participation Guidelines
 As site host, you’re responsible for creating a welcoming, friendly, safe environment for everyone. Please read and be sure you agree with [Mozilla’s Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), and are willing to enforce them at your site. Prior to hosting please watch one of the **required online** trainings on the Participation Guidelines. They are recorded, and viewable at the links below. You only need to view ONE of the trainings.  Sign into the etherpad and answer questions there  so we know you've completed this important requirement. 
 
-*  [CPG Call One](https://air.mozilla.org/2018-global-sprint-cpg-webinar-1-april-24th-2018/)
-*  [CPG Call Two](https://air.mozilla.org/2018-global-sprint-cpg-webinar-2-april-24th-2018/)
+*  [CPG Call One](https://air.mozilla.org/2018-global-sprint-cpg-webinar-1-april-24th-2018/) - [Etherpad](https://public.etherpad-mozilla.org/p/global-sprint-cpg-training)
+*  [CPG Call Two](https://air.mozilla.org/2018-global-sprint-cpg-webinar-2-april-24th-2018/) - [Etherpad](https://public.etherpad-mozilla.org/p/global-sprint-cpg-training)
 
 **Please note, any participants under the age of 13 must be accompanied by a parent or guardian.**
 
