@@ -23,7 +23,7 @@ As a participant at the Global Sprint, you might:
 * write or edit project content like instructions, descriptions and documentation,
 * and much more… see our list of “help wanted” categories to find a match for your skills
 
-_Participants should be aware that their contributions to projects during the Sprint will fall under each project’s own license, and may be be reused, remixed, and shared according to that license. By registering for the Sprint, participants understand and agree that any data they provide will be handled according to Mozilla’s Privacy Policy._
+_Participants should be aware that their contributions to projects during the Sprint will fall under each project’s own license, and may be be reused, remixed, and shared according to that license.
 
 ### Where and When to Sprint
 In 2018, the Sprint will take place on May 10-11th, from 9am to 5pm local time, wherever you are.  You can participate at a local sprint site (if there’s one near you), where you’ll work and network with others, or you can join from your home or workplace.  If you’re sprinting virtually, simple, free tools like online chat and video conferencing will help you connect with others at the Sprint.
