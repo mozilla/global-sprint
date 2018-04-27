@@ -22,7 +22,7 @@ Thanks for your interest in contributing to the #mozsprint website! There are ma
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to zannah [at] mozillafoundation.org.
+This project adheres to a [Mozilla's Particpation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to zannah [at] mozillafoundation.org.
 
 ## #mozsprint
 
