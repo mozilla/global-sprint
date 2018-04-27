@@ -52,7 +52,6 @@ The space must have ...
 * Make introductions among all participants
 * Help participants get set up on Wi-Fi, direct them to the [Gitter Chat](https://gitter.im/mozilla/global-sprint-2017)
 * Be sure to point out your [Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) / [Code of Conduct]() and ask them to review it. 
-* Ask participants to sign a Photo Release form (if needed)
 
 
 ### What to do during the Sprint
