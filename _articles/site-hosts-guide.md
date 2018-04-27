@@ -47,7 +47,7 @@ As site host, you’re responsible for creating a welcoming, friendly, safe envi
 *  [CPG Call One](https://air.mozilla.org/2018-global-sprint-cpg-webinar-1-april-24th-2018/) - [Etherpad](https://public.etherpad-mozilla.org/p/global-sprint-cpg-training)
 *  [CPG Call Two](https://air.mozilla.org/2018-global-sprint-cpg-webinar-2-april-24th-2018/) - [Etherpad](https://public.etherpad-mozilla.org/p/global-sprint-cpg-training)
 
-**Please note, any participants under the age of 13 must be accompanied by a parent or guardian.**
+**Please note, any participants under the age of 16 must be accompanied by a parent or guardian.**
 
 Generally, you should greet everyone who comes to your site, and take the time to find out a little bit about them-- their skills and interest. Try to introduce them to other Sprinters, and help them find projects (if they don't already have one).
 
