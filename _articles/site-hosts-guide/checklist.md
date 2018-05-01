@@ -17,7 +17,7 @@ The space must have ...
 ### What to do two weeks before the Sprint
 
 * Setup Vidyo conferencing:  download software, setup accounts. [Instructions here.](https://public.etherpad-mozilla.org/p/globalsprint-webconferencing)
-* Come to Site Host office hours/test your vidyo connection (if needed)[Schedule here.]()
+* Come to Site Host office hours/test your vidyo connection (as needed)[Schedule here.](https://public.etherpad-mozilla.org/p/global-sprint-host-hours)
 * Set up communication channels! Log into our [Global Sprint Gitter Chat.](https://gitter.im/mozilla/global-sprint)
 * Blog, post, and/or tweet about the event. Include the registration link for your site's registration page. Template tweets are [here](Use these [templates for communications](https://public.etherpad-mozilla.org/p/site-host-templates)
 * Send email invites to any list-servs you belong to, forward to campus or student groups, local meet-up groups. Also invite to specific people you think might be interested.  Use these [templates for communications](https://public.etherpad-mozilla.org/p/site-host-templates)
