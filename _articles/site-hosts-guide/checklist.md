@@ -50,13 +50,13 @@ The space must have ...
 * As they arrive, check-in participants via Ti.to registration site, or on printed out list to transfer to Ti.to later.
 * Greet participants as they arrive, make sure they feel welcome! Show them around
 * Make introductions among all participants
-* Help participants get set up on Wi-Fi, direct them to the [Gitter Chat](https://gitter.im/mozilla/globalsprint)
+* Help participants get set up on Wi-Fi, direct them to the [Gitter Chat](https://gitter.im/mozilla/global-sprint)
 * Be sure to point out your [Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) / [Code of Conduct]() and ask them to review it. 
 
 
 ### What to do during the Sprint
 
-* As new people arrive help set them up on wi-fi, point them to projects they may be interested in and get them connected to the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/2018globalsprint) and the [chat][Gitter Chat](https://gitter.im/mozilla/globalsprint) 
+* As new people arrive help set them up on wi-fi, point them to projects they may be interested in and get them connected to the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/2018globalsprint) and the [Gitter Chat](https://gitter.im/mozilla/global-sprint) 
 * Make connections and introductions between Sprinters who may have similar interests
 * Be available to answer any questions that come up about the site (wi-fi, restrooms, food options nearby, etc)
 * (OPTIONAL) If you are providing refreshments, such as coffee/tea or snacks, put out fresh drinks or snacks periodically
