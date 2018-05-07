@@ -1,3 +1,20 @@
+
+Welcome to **Mozilla’s Global Sprint,** a distributed work/collaboration sprint on open projects from around the world! 🎊 💯 🌍
+
+**Every issue in this repository represents a project seeking contribution**. Click on links in the issues to explore each project’s own repository and find ways to contribute. Or see this [list of all issues, across all projects](https://github.com/search?q=label%3Amozsprint&state=open&type=Issues) in the sprint. 
+
+**Projects need developers, UX and visual designers, game designers, writers, QA testers, project management help, community input, and more… Anyone, with any skill set, can find a way to pitch in.**
+
+You can contribute virtually, from your home or office— or head to [one of our 60+ local sprint sites  worldwide](https://foundation.mozilla.org/opportunity/global-sprint/register/) during the event to hang out work and network with other collaborators.  [Register here ](https://foundation.mozilla.org/opportunity/global-sprint/register/)for virtual or local participation.  During the Sprint, you can stay connected with other Sprinters and sites via [videoconferencing and daily demo calls](https://public.etherpad-mozilla.org/p/2018globalsprint), and in the [Global Sprint Gitter Chat](https://gitter.im/mozilla/global-sprint). 
+
+This year’s event is May 10 and 11, but you don’t have to wait for the Sprint to get started! Find a project, introduce yourself to the community, and start exploring issues now! And be sure to check out more [info about the Sprint](https://foundation.mozilla.org/opportunity/global-sprint) and the concept of a [better, healthier Internet,](https://internethealthreport.org/2018/) which each of these open projects supports. 
+
+Need more help getting started? Check out our [Guides for Participants, Project Leads, and Site Hosts.](https://mozilla.github.io/global-sprint/)
+
+
+
+---
+
 # Contributing to the Global Sprint website
 
 Thank you for your interest in contributing to the Global Sprint website :tada:!
