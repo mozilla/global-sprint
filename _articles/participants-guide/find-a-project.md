@@ -2,7 +2,7 @@
 layout: page
 title: Finding Projects
 ---
-To get started, find a project! There’s a “featured” project list on Mozilla Pulse. Featured projects have gone the extra mile to be contributor-friendly, so this is a great place to start. So, for example, if you want to work on the “Teen Driven inquiry and working in the open” project, click  on the blue bar “VISIT” bar in Pulse to go to the project-specific info, on a website or gitHub repository.
+To get started, find a project! There’s a [“featured” project list](https://www.mozillapulse.org/featured) on [Mozilla Pulse](https://www.mozillapulse.org). Featured projects have gone the extra mile to be contributor-friendly, so this is a great place to start. So, for example, if you want to work on the [“Teen Driven inquiry and working in the open”](https://www.mozillapulse.org/entry/317) project, click  on the blue bar “VISIT” bar in Pulse to go to the project-specific info, on a website or gitHub repository.
 
 ![pulse listing](../../img/pulse-listing.png )
 
@@ -14,6 +14,6 @@ Tip! Each individual Sprint project (and the Sprint as a whole) has a repository
 ![repo with README](../../img/repo-readme2.png)
 
 
-In addition to featured projects on Pulse, there’s a full list of 2018 projects in the [“issues tab” of our main Global Sprint repository](https://github.com/mozilla/global-sprint/issues). Each issue represents a project in the Global Sprint. You can click from these issues to that individual project’s repository to learn more. 
+In addition to featured projects on Pulse, there’s a full list of 2018 projects in the [“issues tab” of our main Global Sprint repository](https://github.com/mozilla/global-sprint/issues). Each issue represents a project in the Global Sprint. You can click from these issues to that individual project’s repository to learn more. Alternatively, you can search for ["mozsprint"](https://www.mozillapulse.org/tags/mozsprint) on Mozilla Pulse.
 
 ![main Sprint Repo](../../img/mainGSrepo.png)
