@@ -54,9 +54,22 @@ The space must have ...
 * Be sure to point out your [Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) / [Code of Conduct]() and ask them to review it. 
 
 
-### What to do during the Sprint
+### Check In Set-Up Instructions 
+Check in your participants! if possible, PLEASE use Ti.to’s check in feature: 
+* In the main Ti.to admin page, under Features, select Check Ins
+* Create a New Check in List. Give the List a title (GS 2018 + your location is fine). 
+* Ensure that boxes for Global Sprint Ticket (or any other ticket types you created) are checked. You do not need to check any of the boxes for “Included Data.” 
+* Save the Check-In List. It will appear as an item in the list of Check In Lists at left.
+* Click on the list you created. Chose the “Check in Online” option at right and either click the blue arrow or copy paste the link to your list.
+* Keep this page open in a tab throughout the event. When a participant arrives, click on their name, and then click the big blue “check in” button in the pop-up window
 
-* As new people arrive help set them up on wi-fi, point them to projects they may be interested in and get them connected to the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/2018globalsprint) and the [Gitter Chat](https://gitter.im/mozilla/global-sprint) 
+If you don’t have a laptop or computer available for check-in, you can:
+* Print a blank Check-In list from Ti.to(scroll down below the “Check In Online” option for a button to generate this list) to use at the door
+* Create your own sign-in sheet on paper, and take down people’s names/emails as they arrive
+* If you are using paper lists, please remember that these contain personal, private data. Keep these lists near your person at all times-- don’t leave they out or laying around, and treat all data in accordance with Mozilla’s Privacy Policy. 
+
+### What to do during the Sprint
+*As new people arrive help set them up on wi-fi, point them to projects they may be interested in and get them connected to the [Global Sprint etherpad](https://public.etherpad-mozilla.org/p/2018globalsprint) and the [Gitter Chat](https://gitter.im/mozilla/global-sprint) 
 * Make connections and introductions between Sprinters who may have similar interests
 * Be available to answer any questions that come up about the site (wi-fi, restrooms, food options nearby, etc)
 * (OPTIONAL) If you are providing refreshments, such as coffee/tea or snacks, put out fresh drinks or snacks periodically
