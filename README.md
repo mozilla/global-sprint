@@ -18,7 +18,7 @@ You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-
 
 ## Contributing
 
-Thanks for your interest in contributing to the #mozsprint website! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.MD).
+Thanks for your interest in contributing to the #mozsprint website! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
