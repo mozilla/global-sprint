@@ -1,1 +1,1 @@
-<!--- Please do not create issues directly in this repo. To submit a project to the Global Sprint, follow the instructions on this page: https://foundation.mozilla.org/opportunity/global-sprint/lead-a-project/  --->
+<!--- Please do not create issues directly in this repo. To submit a project to the Global Sprint, follow the instructions on this page: https://foundation.mozilla.org/opportunity/global-sprint/lead-project/  --->
