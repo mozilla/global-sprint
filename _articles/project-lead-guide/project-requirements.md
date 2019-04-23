@@ -11,7 +11,6 @@ Every Global Sprint project should be ready to encourage and accept contribution
 * a license indicating how users can reuse, remix and share project materials, like code and content
 * a README file
 * an active Issues Tracker
-* Registration in the Sprint
 
 If you’re not familiar with GitHub or some of these items, that’s OK!
 
