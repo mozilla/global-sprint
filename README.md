@@ -2,7 +2,7 @@
 
 Mozilla’s Global Sprint is a fun, fast-paced and two-day collaborative event to hack and build projects for a healthy Internet. A diverse network of scientists, educators, artists, engineers and others come together in person and online to innovate in the open.
 
-[https://mozilla.github.io/global-sprint/](https://wiki.mozilla.org/ScienceLab)
+[Learn more on the Mozilla Science Lab wiki](https://wiki.mozilla.org/ScienceLab)
 
 This repo holds content for the former website.
 
